@@ -1,0 +1,1065 @@
+season,match_id,match_name,league_stage,year,venue,winning_margin,team_score_1,team_score_2,team_name_1,team_id_1,team_name_2,team_id_2,total_points_match,winner,loser,max_score
+1,1,Match 1,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",14,45,31,U Mumba,5,Jaipur Pink Panthers,3,76,U Mumba,Jaipur Pink Panthers,45
+1,2,Match 2,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",19,28,47,Dabang Delhi,2,Bengaluru Bulls,1,75,Bengaluru Bulls,Dabang Delhi,47
+1,3,Match 3,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",3,40,37,Bengaluru Bulls,1,Puneri Paltan,7,77,Bengaluru Bulls,Puneri Paltan,40
+1,4,Match 4,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",11,36,25,U Mumba,5,Bengal Warriors,4,61,U Mumba,Bengal Warriors,36
+1,5,Match 5,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",4,31,35,Puneri Paltan,7,Dabang Delhi,2,66,Dabang Delhi,Puneri Paltan,35
+1,6,Match 6,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",0,35,35,U Mumba,5,Telugu Titans,8,70,tied,tied,35
+1,7,Match 7,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",3,36,33,U Mumba,5,Patna Pirates,6,69,U Mumba,Patna Pirates,36
+1,8,Match 8,League,2014,Netaji Indoor Stadium,16,30,46,Bengal Warriors,4,Bengaluru Bulls,1,76,Bengaluru Bulls,Bengal Warriors,46
+1,9,Match 9,League,2014,Netaji Indoor Stadium,14,46,32,Jaipur Pink Panthers,3,Telugu Titans,8,78,Jaipur Pink Panthers,Telugu Titans,46
+1,10,Match 10,League,2014,Netaji Indoor Stadium,2,42,40,Bengal Warriors,4,Dabang Delhi,2,82,Bengal Warriors,Dabang Delhi,42
+1,11,Match 11,League,2014,Netaji Indoor Stadium,3,35,38,Telugu Titans,8,Patna Pirates,6,73,Patna Pirates,Telugu Titans,38
+1,12,Match 12,League,2014,Netaji Indoor Stadium,3,38,35,Bengal Warriors,4,Puneri Paltan,7,73,Bengal Warriors,Puneri Paltan,38
+1,13,Match 13,League,2014,Netaji Indoor Stadium,22,18,40,Patna Pirates,6,Jaipur Pink Panthers,3,58,Jaipur Pink Panthers,Patna Pirates,40
+1,14,Match 14,League,2014,Netaji Indoor Stadium,9,29,38,Bengal Warriors,4,U Mumba,5,67,U Mumba,Bengal Warriors,38
+1,15,Match 15,League,2014,Thyagaraj Indoor Stadium,4,35,39,Dabang Delhi,2,Telugu Titans,8,74,Telugu Titans,Dabang Delhi,39
+1,16,Match 16,League,2014,Thyagaraj Indoor Stadium,2,33,31,Puneri Paltan,7,Bengaluru Bulls,1,64,Puneri Paltan,Bengaluru Bulls,33
+1,17,Match 17,League,2014,Thyagaraj Indoor Stadium,16,44,28,U Mumba,5,Puneri Paltan,7,72,U Mumba,Puneri Paltan,44
+1,18,Match 18,League,2014,Thyagaraj Indoor Stadium,5,31,36,Dabang Delhi,2,Patna Pirates,6,67,Patna Pirates,Dabang Delhi,36
+1,19,Match 19,League,2014,Thyagaraj Indoor Stadium,11,34,45,Bengaluru Bulls,1,U Mumba,5,79,U Mumba,Bengaluru Bulls,45
+1,20,Match 20,League,2014,Thyagaraj Indoor Stadium,9,31,40,Dabang Delhi,2,Jaipur Pink Panthers,3,71,Jaipur Pink Panthers,Dabang Delhi,40
+1,21,Match 21,League,2014,Thyagaraj Indoor Stadium,10,46,36,Dabang Delhi,2,Bengal Warriors,4,82,Dabang Delhi,Bengal Warriors,46
+1,22,Match 22,League,2014,Patliputra Indoor Stadium,8,35,27,Patna Pirates,6,Puneri Paltan,7,62,Patna Pirates,Puneri Paltan,35
+1,23,Match 23,League,2014,Patliputra Indoor Stadium,5,40,35,Bengal Warriors,4,Telugu Titans,8,75,Bengal Warriors,Telugu Titans,40
+1,24,Match 24,League,2014,Patliputra Indoor Stadium,0,37,37,Patna Pirates,6,U Mumba,5,74,tied,tied,37
+1,25,Match 25,League,2014,Patliputra Indoor Stadium,20,29,49,Telugu Titans,8,Jaipur Pink Panthers,3,78,Jaipur Pink Panthers,Telugu Titans,49
+1,26,Match 26,League,2014,Patliputra Indoor Stadium,0,30,30,Patna Pirates,6,Dabang Delhi,2,60,tied,tied,30
+1,27,Match 27,League,2014,Patliputra Indoor Stadium,16,39,23,Jaipur Pink Panthers,3,Bengal Warriors,4,62,Jaipur Pink Panthers,Bengal Warriors,39
+1,28,Match 28,League,2014,Patliputra Indoor Stadium,2,35,37,Patna Pirates,6,Bengaluru Bulls,1,72,Bengaluru Bulls,Patna Pirates,37
+1,29,Match 29,League,2014,Shree Shiv Chhatrapati Sports Complex,6,36,42,Puneri Paltan,7,Telugu Titans,8,78,Telugu Titans,Puneri Paltan,42
+1,30,Match 30,League,2014,Shree Shiv Chhatrapati Sports Complex,3,30,33,U Mumba,5,Bengaluru Bulls,1,63,Bengaluru Bulls,U Mumba,33
+1,31,Match 31,League,2014,Shree Shiv Chhatrapati Sports Complex,10,40,30,Puneri Paltan,7,Bengal Warriors,4,70,Puneri Paltan,Bengal Warriors,40
+1,32,Match 32,League,2014,Shree Shiv Chhatrapati Sports Complex,2,27,29,Bengaluru Bulls,1,Dabang Delhi,2,56,Dabang Delhi,Bengaluru Bulls,29
+1,33,Match 33,League,2014,Shree Shiv Chhatrapati Sports Complex,27,23,50,Puneri Paltan,7,Jaipur Pink Panthers,3,73,Jaipur Pink Panthers,Puneri Paltan,50
+1,34,Match 34,League,2014,Shree Shiv Chhatrapati Sports Complex,9,36,27,Dabang Delhi,2,U Mumba,5,63,Dabang Delhi,U Mumba,36
+1,35,Match 35,League,2014,Shree Shiv Chhatrapati Sports Complex,6,31,37,Puneri Paltan,7,Patna Pirates,6,68,Patna Pirates,Puneri Paltan,37
+1,36,Match 36,League,2014,Rajiv Gandhi Indoor Stadium,0,28,28,Telugu Titans,8,Bengaluru Bulls,1,56,tied,tied,28
+1,37,Match 37,League,2014,Rajiv Gandhi Indoor Stadium,8,33,41,Bengal Warriors,4,Jaipur Pink Panthers,3,74,Jaipur Pink Panthers,Bengal Warriors,41
+1,38,Match 38,League,2014,Rajiv Gandhi Indoor Stadium,22,30,52,Jaipur Pink Panthers,3,Patna Pirates,6,82,Patna Pirates,Jaipur Pink Panthers,52
+1,39,Match 39,League,2014,Rajiv Gandhi Indoor Stadium,1,44,43,Telugu Titans,8,U Mumba,5,87,Telugu Titans,U Mumba,44
+1,40,Match 40,League,2014,Rajiv Gandhi Indoor Stadium,2,28,30,Patna Pirates,6,Bengal Warriors,4,58,Bengal Warriors,Patna Pirates,30
+1,41,Match 41,League,2014,Rajiv Gandhi Indoor Stadium,36,60,24,Telugu Titans,8,Puneri Paltan,7,84,Telugu Titans,Puneri Paltan,60
+1,42,Match 42,League,2014,Rajiv Gandhi Indoor Stadium,19,45,26,Telugu Titans,8,Dabang Delhi,2,71,Telugu Titans,Dabang Delhi,45
+1,43,Match 43,League,2014,Sawai Mansingh Stadium,5,36,31,Jaipur Pink Panthers,3,Bengaluru Bulls,1,67,Jaipur Pink Panthers,Bengaluru Bulls,36
+1,44,Match 44,League,2014,Sawai Mansingh Stadium,4,32,36,Bengal Warriors,4,Patna Pirates,6,68,Patna Pirates,Bengal Warriors,36
+1,45,Match 45,League,2014,Sawai Mansingh Stadium,0,31,31,Jaipur Pink Panthers,3,U Mumba,5,62,tied,tied,31
+1,46,Match 46,League,2014,Sawai Mansingh Stadium,0,34,34,Telugu Titans,8,Bengal Warriors,4,68,tied,tied,34
+1,47,Match 47,League,2014,Sawai Mansingh Stadium,10,41,31,Jaipur Pink Panthers,3,Dabang Delhi,2,72,Jaipur Pink Panthers,Dabang Delhi,41
+1,48,Match 48,League,2014,Sawai Mansingh Stadium,3,29,32,Patna Pirates,6,Telugu Titans,8,61,Telugu Titans,Patna Pirates,32
+1,49,Match 49,League,2014,Sawai Mansingh Stadium,6,33,27,Jaipur Pink Panthers,3,Puneri Paltan,7,60,Jaipur Pink Panthers,Puneri Paltan,33
+1,50,Match 50,League,2014,Kanteerava Indoor Stadium,13,37,24,Bengaluru Bulls,1,Bengal Warriors,4,61,Bengaluru Bulls,Bengal Warriors,37
+1,51,Match 51,League,2014,Kanteerava Indoor Stadium,7,37,30,U Mumba,5,Dabang Delhi,2,67,U Mumba,Dabang Delhi,37
+1,52,Match 52,League,2014,Kanteerava Indoor Stadium,23,45,22,Dabang Delhi,2,Puneri Paltan,7,67,Dabang Delhi,Puneri Paltan,45
+1,53,Match 53,League,2014,Kanteerava Indoor Stadium,2,31,33,Bengaluru Bulls,1,Patna Pirates,6,64,Patna Pirates,Bengaluru Bulls,33
+1,54,Match 54,League,2014,Kanteerava Indoor Stadium,1,27,26,Bengaluru Bulls,1,Telugu Titans,8,53,Bengaluru Bulls,Telugu Titans,27
+1,55,Match 55,League,2014,Kanteerava Indoor Stadium,1,35,36,Puneri Paltan,7,U Mumba,5,71,U Mumba,Puneri Paltan,36
+1,56,Match 56,League,2014,Kanteerava Indoor Stadium,1,30,29,Bengaluru Bulls,1,Jaipur Pink Panthers,3,59,Bengaluru Bulls,Jaipur Pink Panthers,30
+1,57,Semi-Final 1,Semi Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",20,38,18,Jaipur Pink Panthers,3,Patna Pirates,6,56,Jaipur Pink Panthers,Patna Pirates,38
+1,58,Semi-Final 2,Semi Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",4,27,23,U Mumba,5,Bengaluru Bulls,1,50,U Mumba,Bengaluru Bulls,27
+1,59,3rd Place Playoff,Super Playoffs,2014,"Dome,Nsci,Svp Stadium,Mumbai",7,29,22,Patna Pirates,6,Bengaluru Bulls,1,51,Patna Pirates,Bengaluru Bulls,29
+1,60,Final,Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",11,35,24,Jaipur Pink Panthers,3,U Mumba,5,59,Jaipur Pink Panthers,U Mumba,35
+2,62,Match 1,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",1,29,28,U Mumba,5,Jaipur Pink Panthers,3,57,U Mumba,Jaipur Pink Panthers,29
+2,63,Match 2,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",8,33,25,Bengaluru Bulls,1,Bengal Warriors,4,58,Bengaluru Bulls,Bengal Warriors,33
+2,64,Match 3,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",9,36,27,Telugu Titans,8,Dabang Delhi,2,63,Telugu Titans,Dabang Delhi,36
+2,65,Match 4,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",13,36,23,U Mumba,5,Bengaluru Bulls,1,59,U Mumba,Bengaluru Bulls,36
+2,66,Match 5,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",21,24,45,Puneri Paltan,7,Telugu Titans,8,69,Telugu Titans,Puneri Paltan,45
+2,67,Match 6,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",5,25,20,U Mumba,5,Patna Pirates,6,45,U Mumba,Patna Pirates,25
+2,68,Match 7,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",7,28,21,U Mumba,5,Puneri Paltan,7,49,U Mumba,Puneri Paltan,28
+2,69,Match 8,League,2015,Netaji Indoor Stadium,2,28,26,Bengal Warriors,4,Jaipur Pink Panthers,3,54,Bengal Warriors,Jaipur Pink Panthers,28
+2,70,Match 9,League,2015,Netaji Indoor Stadium,5,31,26,Bengaluru Bulls,1,Patna Pirates,6,57,Bengaluru Bulls,Patna Pirates,31
+2,71,Match 10,League,2015,Netaji Indoor Stadium,2,30,32,Bengal Warriors,4,Telugu Titans,8,62,Telugu Titans,Bengal Warriors,32
+2,72,Match 11,League,2015,Netaji Indoor Stadium,1,38,37,Dabang Delhi,2,Puneri Paltan,7,75,Dabang Delhi,Puneri Paltan,38
+2,73,Match 12,League,2015,Netaji Indoor Stadium,4,25,29,Bengal Warriors,4,U Mumba,5,54,U Mumba,Bengal Warriors,29
+2,74,Match 13,League,2015,Netaji Indoor Stadium,5,31,26,Bengaluru Bulls,1,Puneri Paltan,7,57,Bengaluru Bulls,Puneri Paltan,31
+2,75,Match 14,League,2015,Netaji Indoor Stadium,11,21,32,Bengal Warriors,4,Dabang Delhi,2,53,Dabang Delhi,Bengal Warriors,32
+2,76,Match 15,League,2015,Sawai Mansingh Stadium,6,23,29,Jaipur Pink Panthers,3,Patna Pirates,6,52,Patna Pirates,Jaipur Pink Panthers,29
+2,77,Match 16,League,2015,Sawai Mansingh Stadium,1,26,27,Telugu Titans,8,U Mumba,5,53,U Mumba,Telugu Titans,27
+2,78,Match 17,League,2015,Sawai Mansingh Stadium,15,18,33,Dabang Delhi,2,Bengaluru Bulls,1,51,Bengaluru Bulls,Dabang Delhi,33
+2,79,Match 18,League,2015,Sawai Mansingh Stadium,11,22,33,Jaipur Pink Panthers,3,Telugu Titans,8,55,Telugu Titans,Jaipur Pink Panthers,33
+2,80,Match 19,League,2015,Sawai Mansingh Stadium,13,36,23,Jaipur Pink Panthers,3,Bengaluru Bulls,1,59,Jaipur Pink Panthers,Bengaluru Bulls,36
+2,81,Match 20,League,2015,Sawai Mansingh Stadium,4,33,29,Puneri Paltan,7,Bengal Warriors,4,62,Puneri Paltan,Bengal Warriors,33
+2,82,Match 21,League,2015,Sawai Mansingh Stadium,8,27,35,Jaipur Pink Panthers,3,Dabang Delhi,2,62,Dabang Delhi,Jaipur Pink Panthers,35
+2,83,Match 22,League,2015,Patliputra Indoor Stadium,12,22,34,Patna Pirates,6,Telugu Titans,8,56,Telugu Titans,Patna Pirates,34
+2,84,Match 23,League,2015,Patliputra Indoor Stadium,14,21,35,Telugu Titans,8,Bengaluru Bulls,1,56,Bengaluru Bulls,Telugu Titans,35
+2,85,Match 24,League,2015,Patliputra Indoor Stadium,17,39,22,Patna Pirates,6,Dabang Delhi,2,61,Patna Pirates,Dabang Delhi,39
+2,86,Match 25,League,2015,Patliputra Indoor Stadium,5,22,27,Dabang Delhi,2,U Mumba,5,49,U Mumba,Dabang Delhi,27
+2,87,Match 26,League,2015,Patliputra Indoor Stadium,4,32,28,Patna Pirates,6,Puneri Paltan,7,60,Patna Pirates,Puneri Paltan,32
+2,88,Match 27,League,2015,Patliputra Indoor Stadium,6,29,35,Puneri Paltan,7,Jaipur Pink Panthers,3,64,Jaipur Pink Panthers,Puneri Paltan,35
+2,89,Match 28,League,2015,Patliputra Indoor Stadium,0,20,20,Patna Pirates,6,Bengal Warriors,4,40,tied,tied,20
+2,90,Match 29,League,2015,Gachibowli Indoor Stadium,0,39,39,Telugu Titans,8,Jaipur Pink Panthers,3,78,tied,tied,39
+2,91,Match 30,League,2015,Gachibowli Indoor Stadium,4,29,25,U Mumba,5,Dabang Delhi,2,54,U Mumba,Dabang Delhi,29
+2,92,Match 31,League,2015,Gachibowli Indoor Stadium,16,44,28,Telugu Titans,8,Bengal Warriors,4,72,Telugu Titans,Bengal Warriors,44
+2,93,Match 32,League,2015,Gachibowli Indoor Stadium,11,22,33,Bengal Warriors,4,Bengaluru Bulls,1,55,Bengaluru Bulls,Bengal Warriors,33
+2,94,Match 33,League,2015,Gachibowli Indoor Stadium,22,54,32,Telugu Titans,8,Patna Pirates,6,86,Telugu Titans,Patna Pirates,54
+2,95,Match 34,League,2015,Gachibowli Indoor Stadium,10,35,25,Jaipur Pink Panthers,3,U Mumba,5,60,Jaipur Pink Panthers,U Mumba,35
+2,96,Match 35,League,2015,Gachibowli Indoor Stadium,0,29,29,Telugu Titans,8,Puneri Paltan,7,58,tied,tied,29
+2,97,Match 36,League,2015,Thyagaraj Indoor Stadium,3,17,20,Dabang Delhi,2,Bengal Warriors,4,37,Bengal Warriors,Dabang Delhi,20
+2,98,Match 37,League,2015,Thyagaraj Indoor Stadium,2,30,28,Patna Pirates,6,Bengaluru Bulls,1,58,Patna Pirates,Bengaluru Bulls,30
+2,99,Match 38,League,2015,Thyagaraj Indoor Stadium,14,31,17,U Mumba,5,Bengal Warriors,4,48,U Mumba,Bengal Warriors,31
+2,100,Match 39,League,2015,Thyagaraj Indoor Stadium,19,45,26,Dabang Delhi,2,Patna Pirates,6,71,Dabang Delhi,Patna Pirates,45
+2,101,Match 40,League,2015,Thyagaraj Indoor Stadium,30,21,51,Dabang Delhi,2,Jaipur Pink Panthers,3,72,Jaipur Pink Panthers,Dabang Delhi,51
+2,102,Match 41,League,2015,Thyagaraj Indoor Stadium,13,31,18,Jaipur Pink Panthers,3,Puneri Paltan,7,49,Jaipur Pink Panthers,Puneri Paltan,31
+2,103,Match 42,League,2015,Thyagaraj Indoor Stadium,0,45,45,Dabang Delhi,2,Telugu Titans,8,90,tied,tied,45
+2,104,Match 43,League,2015,Kanteerava Indoor Stadium,7,29,36,Bengaluru Bulls,1,U Mumba,5,65,U Mumba,Bengaluru Bulls,36
+2,105,Match 44,League,2015,Kanteerava Indoor Stadium,3,31,28,Bengal Warriors,4,Puneri Paltan,7,59,Bengal Warriors,Puneri Paltan,31
+2,106,Match 45,League,2015,Kanteerava Indoor Stadium,2,25,27,Bengaluru Bulls,1,Jaipur Pink Panthers,3,52,Jaipur Pink Panthers,Bengaluru Bulls,27
+2,107,Match 46,League,2015,Kanteerava Indoor Stadium,2,32,34,Bengal Warriors,4,Patna Pirates,6,66,Patna Pirates,Bengal Warriors,34
+2,108,Match 47,League,2015,Kanteerava Indoor Stadium,19,40,21,Bengaluru Bulls,1,Dabang Delhi,2,61,Bengaluru Bulls,Dabang Delhi,40
+2,109,Match 48,League,2015,Kanteerava Indoor Stadium,5,27,32,Patna Pirates,6,U Mumba,5,59,U Mumba,Patna Pirates,32
+2,110,Match 49,League,2015,Kanteerava Indoor Stadium,14,43,29,Bengaluru Bulls,1,Telugu Titans,8,72,Bengaluru Bulls,Telugu Titans,43
+2,111,Match 50,League,2015,Shree Shiv Chhatrapati Sports Complex,5,33,28,Puneri Paltan,7,Dabang Delhi,2,61,Puneri Paltan,Dabang Delhi,33
+2,112,Match 51,League,2015,Shree Shiv Chhatrapati Sports Complex,1,38,39,Jaipur Pink Panthers,3,Bengal Warriors,4,77,Bengal Warriors,Jaipur Pink Panthers,39
+2,113,Match 52,League,2015,Shree Shiv Chhatrapati Sports Complex,5,34,39,Puneri Paltan,7,U Mumba,5,73,U Mumba,Puneri Paltan,39
+2,114,Match 53,League,2015,Shree Shiv Chhatrapati Sports Complex,21,25,46,U Mumba,5,Telugu Titans,8,71,Telugu Titans,U Mumba,46
+2,115,Match 54,League,2015,Shree Shiv Chhatrapati Sports Complex,17,21,38,Puneri Paltan,7,Patna Pirates,6,59,Patna Pirates,Puneri Paltan,38
+2,116,Match 55,League,2015,Shree Shiv Chhatrapati Sports Complex,2,26,24,Patna Pirates,6,Jaipur Pink Panthers,3,50,Patna Pirates,Jaipur Pink Panthers,26
+2,117,Match 56,League,2015,Shree Shiv Chhatrapati Sports Complex,1,30,31,Puneri Paltan,7,Bengaluru Bulls,1,61,Bengaluru Bulls,Puneri Paltan,31
+2,118,Semi-Final 1,Semi Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",1,38,39,Telugu Titans,8,Bengaluru Bulls,1,77,Bengaluru Bulls,Telugu Titans,39
+2,119,Semi-Final 2,Semi Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",17,35,18,U Mumba,5,Patna Pirates,6,53,U Mumba,Patna Pirates,35
+2,120,3/4 Place,Super Playoffs,2015,"Dome,Nsci,Svp Stadium,Mumbai",8,26,34,Patna Pirates,6,Telugu Titans,8,60,Telugu Titans,Patna Pirates,34
+2,121,Final,Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",6,36,30,U Mumba,5,Bengaluru Bulls,1,66,U Mumba,Bengaluru Bulls,36
+3,122,Match 1,League,2016,Rajiv Gandhi Indoor Stadium,2,25,27,Telugu Titans,8,U Mumba,5,52,U Mumba,Telugu Titans,27
+3,123,Match 2,League,2016,Rajiv Gandhi Indoor Stadium,6,29,35,Dabang Delhi,2,Bengaluru Bulls,1,64,Bengaluru Bulls,Dabang Delhi,35
+3,124,Match 3,League,2016,Rajiv Gandhi Indoor Stadium,9,27,18,Jaipur Pink Panthers,3,U Mumba,5,45,Jaipur Pink Panthers,U Mumba,27
+3,125,Match 4,League,2016,Rajiv Gandhi Indoor Stadium,1,27,26,Telugu Titans,8,Puneri Paltan,7,53,Telugu Titans,Puneri Paltan,27
+3,126,Match 5,League,2016,Rajiv Gandhi Indoor Stadium,1,29,28,Patna Pirates,6,Jaipur Pink Panthers,3,57,Patna Pirates,Jaipur Pink Panthers,29
+3,127,Match 6,League,2016,Rajiv Gandhi Indoor Stadium,11,45,34,Telugu Titans,8,Dabang Delhi,2,79,Telugu Titans,Dabang Delhi,45
+3,128,Match 7,League,2016,Rajiv Gandhi Indoor Stadium,8,17,25,Telugu Titans,8,Bengal Warriors,4,42,Bengal Warriors,Telugu Titans,25
+3,129,Match 8,League,2016,Kanteerava Indoor Stadium,9,24,33,Bengaluru Bulls,1,Patna Pirates,6,57,Patna Pirates,Bengaluru Bulls,33
+3,130,Match 9,League,2016,Kanteerava Indoor Stadium,18,20,38,Dabang Delhi,2,Puneri Paltan,7,58,Puneri Paltan,Dabang Delhi,38
+3,131,Match 10,League,2016,Kanteerava Indoor Stadium,10,24,34,Bengaluru Bulls,1,Bengal Warriors,4,58,Bengal Warriors,Bengaluru Bulls,34
+3,132,Match 11,League,2016,Kanteerava Indoor Stadium,13,17,30,Dabang Delhi,2,U Mumba,5,47,U Mumba,Dabang Delhi,30
+3,133,Match 12,League,2016,Kanteerava Indoor Stadium,10,36,26,Bengaluru Bulls,1,Jaipur Pink Panthers,3,62,Bengaluru Bulls,Jaipur Pink Panthers,36
+3,134,Match 13,League,2016,Kanteerava Indoor Stadium,14,26,40,U Mumba,5,Patna Pirates,6,66,Patna Pirates,U Mumba,40
+3,135,Match 14,League,2016,Kanteerava Indoor Stadium,9,26,35,Bengaluru Bulls,1,Telugu Titans,8,61,Telugu Titans,Bengaluru Bulls,35
+3,136,Match 15,League,2016,Netaji Indoor Stadium,5,33,28,Bengal Warriors,4,Puneri Paltan,7,61,Bengal Warriors,Puneri Paltan,33
+3,137,Match 16,League,2016,Netaji Indoor Stadium,5,39,34,Jaipur Pink Panthers,3,Dabang Delhi,2,73,Jaipur Pink Panthers,Dabang Delhi,39
+3,138,Match 17,League,2016,Netaji Indoor Stadium,4,29,25,Patna Pirates,6,Telugu Titans,8,54,Patna Pirates,Telugu Titans,29
+3,139,Match 18,League,2016,Netaji Indoor Stadium,17,34,17,Bengal Warriors,4,Dabang Delhi,2,51,Bengal Warriors,Dabang Delhi,34
+3,140,Match 19,League,2016,Netaji Indoor Stadium,5,31,36,Bengal Warriors,4,Patna Pirates,6,67,Patna Pirates,Bengal Warriors,36
+3,141,Match 20,League,2016,Netaji Indoor Stadium,1,29,28,U Mumba,5,Bengaluru Bulls,1,57,U Mumba,Bengaluru Bulls,29
+3,142,Match 21,League,2016,Netaji Indoor Stadium,14,34,20,Bengal Warriors,4,Jaipur Pink Panthers,3,54,Bengal Warriors,Jaipur Pink Panthers,34
+3,143,Match 22,League,2016,Shree Shiv Chhatrapati Sports Complex,0,30,30,Puneri Paltan,7,Patna Pirates,6,60,tied,tied,30
+3,144,Match 23,League,2016,Shree Shiv Chhatrapati Sports Complex,13,47,34,Patna Pirates,6,Dabang Delhi,2,81,Patna Pirates,Dabang Delhi,47
+3,145,Match 24,League,2016,Shree Shiv Chhatrapati Sports Complex,0,32,32,Puneri Paltan,7,Jaipur Pink Panthers,3,64,tied,tied,32
+3,146,Match 25,League,2016,Shree Shiv Chhatrapati Sports Complex,2,25,27,Jaipur Pink Panthers,3,Telugu Titans,8,52,Telugu Titans,Jaipur Pink Panthers,27
+3,147,Match 26,League,2016,Shree Shiv Chhatrapati Sports Complex,2,27,29,Puneri Paltan,7,U Mumba,5,56,U Mumba,Puneri Paltan,29
+3,148,Match 27,League,2016,Shree Shiv Chhatrapati Sports Complex,11,32,21,U Mumba,5,Bengal Warriors,4,53,U Mumba,Bengal Warriors,32
+3,149,Match 28,League,2016,Shree Shiv Chhatrapati Sports Complex,2,29,27,Puneri Paltan,7,Bengaluru Bulls,1,56,Puneri Paltan,Bengaluru Bulls,29
+3,150,Match 29,League,2016,Patliputra Indoor Stadium,5,32,27,Patna Pirates,6,Bengal Warriors,4,59,Patna Pirates,Bengal Warriors,32
+3,151,Match 30,League,2016,Patliputra Indoor Stadium,9,26,35,Telugu Titans,8,Jaipur Pink Panthers,3,61,Jaipur Pink Panthers,Telugu Titans,35
+3,152,Match 31,League,2016,Patliputra Indoor Stadium,4,36,32,Patna Pirates,6,Bengaluru Bulls,1,68,Patna Pirates,Bengaluru Bulls,36
+3,153,Match 32,League,2016,Patliputra Indoor Stadium,14,21,35,Bengaluru Bulls,1,Dabang Delhi,2,56,Dabang Delhi,Bengaluru Bulls,35
+3,154,Match 33,League,2016,Patliputra Indoor Stadium,0,28,28,Patna Pirates,6,Puneri Paltan,7,56,tied,tied,28
+3,155,Match 34,League,2016,Patliputra Indoor Stadium,4,32,28,Bengal Warriors,4,Telugu Titans,8,60,Bengal Warriors,Telugu Titans,32
+3,156,Match 35,League,2016,Patliputra Indoor Stadium,6,28,34,Patna Pirates,6,U Mumba,5,62,U Mumba,Patna Pirates,34
+3,157,Match 36,League,2016,Sawai Mansingh Stadium,9,30,21,Jaipur Pink Panthers,3,Bengaluru Bulls,1,51,Jaipur Pink Panthers,Bengaluru Bulls,30
+3,158,Match 37,League,2016,Sawai Mansingh Stadium,10,32,22,Puneri Paltan,7,Dabang Delhi,2,54,Puneri Paltan,Dabang Delhi,32
+3,159,Match 38,League,2016,Sawai Mansingh Stadium,18,40,22,Telugu Titans,8,Bengaluru Bulls,1,62,Telugu Titans,Bengaluru Bulls,40
+3,160,Match 39,League,2016,Sawai Mansingh Stadium,15,18,33,Jaipur Pink Panthers,3,Puneri Paltan,7,51,Puneri Paltan,Jaipur Pink Panthers,33
+3,161,Match 40,League,2016,Sawai Mansingh Stadium,16,18,34,Jaipur Pink Panthers,3,Bengal Warriors,4,52,Bengal Warriors,Jaipur Pink Panthers,34
+3,162,Match 41,League,2016,Sawai Mansingh Stadium,13,17,30,Bengal Warriors,4,U Mumba,5,47,U Mumba,Bengal Warriors,30
+3,163,Match 42,League,2016,Sawai Mansingh Stadium,23,24,47,Jaipur Pink Panthers,3,Patna Pirates,6,71,Patna Pirates,Jaipur Pink Panthers,47
+3,164,Match 43,League,2016,Thyagaraj Indoor Stadium,8,36,44,Dabang Delhi,2,Telugu Titans,8,80,Telugu Titans,Dabang Delhi,44
+3,165,Match 44,League,2016,Thyagaraj Indoor Stadium,21,18,39,Bengaluru Bulls,1,U Mumba,5,57,U Mumba,Bengaluru Bulls,39
+3,166,Match 45,League,2016,Thyagaraj Indoor Stadium,33,34,67,Dabang Delhi,2,Patna Pirates,6,101,Patna Pirates,Dabang Delhi,67
+3,167,Match 46,League,2016,Thyagaraj Indoor Stadium,17,41,24,Puneri Paltan,7,Telugu Titans,8,65,Puneri Paltan,Telugu Titans,41
+3,168,Match 47,League,2016,Thyagaraj Indoor Stadium,0,21,21,Dabang Delhi,2,Jaipur Pink Panthers,3,42,tied,tied,21
+3,169,Match 48,League,2016,Thyagaraj Indoor Stadium,17,27,44,Bengaluru Bulls,1,Puneri Paltan,7,71,Puneri Paltan,Bengaluru Bulls,44
+3,170,Match 49,League,2016,Thyagaraj Indoor Stadium,6,31,37,Dabang Delhi,2,Bengal Warriors,4,68,Bengal Warriors,Dabang Delhi,37
+3,171,Match 50,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",14,35,21,U Mumba,5,Jaipur Pink Panthers,3,56,U Mumba,Jaipur Pink Panthers,35
+3,172,Match 51,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",1,42,41,Telugu Titans,8,Patna Pirates,6,83,Telugu Titans,Patna Pirates,42
+3,173,Match 52,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",3,30,27,U Mumba,5,Puneri Paltan,7,57,U Mumba,Puneri Paltan,30
+3,174,Match 53,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",4,26,22,Bengal Warriors,4,Bengaluru Bulls,1,48,Bengal Warriors,Bengaluru Bulls,26
+3,175,Match 54,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",16,38,22,U Mumba,5,Telugu Titans,8,60,U Mumba,Telugu Titans,38
+3,176,Match 55,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",24,43,19,Puneri Paltan,7,Bengal Warriors,4,62,Puneri Paltan,Bengal Warriors,43
+3,177,Match 56,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",16,36,20,U Mumba,5,Dabang Delhi,2,56,U Mumba,Dabang Delhi,36
+3,178,Semi-Final 1,Semi Final,2016,unknown_venue,19,40,21,Patna Pirates,6,Puneri Paltan,7,61,Patna Pirates,Puneri Paltan,40
+3,179,Semi-Final 2,Semi Final,2016,unknown_venue,12,41,29,U Mumba,5,Bengal Warriors,4,70,U Mumba,Bengal Warriors,41
+3,180,3/4 Place,Super Playoffs,2016,unknown_venue,4,27,31,Bengal Warriors,4,Puneri Paltan,7,58,Puneri Paltan,Bengal Warriors,31
+3,181,Final,Final,2016,unknown_venue,3,28,31,U Mumba,5,Patna Pirates,6,59,Patna Pirates,U Mumba,31
+4,182,Match 1,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",4,28,24,Puneri Paltan,7,Telugu Titans,8,52,Puneri Paltan,Telugu Titans,28
+4,183,Match 2,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",2,36,34,U Mumba,5,Jaipur Pink Panthers,3,70,U Mumba,Jaipur Pink Panthers,36
+4,184,Match 3,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",1,24,23,Bengaluru Bulls,1,Bengal Warriors,4,47,Bengaluru Bulls,Bengal Warriors,24
+4,185,Match 4,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",22,41,19,Puneri Paltan,7,U Mumba,5,60,Puneri Paltan,U Mumba,41
+4,186,Match 5,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",8,31,23,Bengal Warriors,4,Dabang Delhi,2,54,Bengal Warriors,Dabang Delhi,31
+4,187,Match 6,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",6,24,30,Puneri Paltan,7,Patna Pirates,6,54,Patna Pirates,Puneri Paltan,30
+4,188,Match 7,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",0,27,27,Puneri Paltan,7,Dabang Delhi,2,54,tied,tied,27
+4,189,Match 8,League,2016,Sawai Mansingh Stadium,4,28,24,Jaipur Pink Panthers,3,Telugu Titans,8,52,Jaipur Pink Panthers,Telugu Titans,28
+4,190,Match 9,League,2016,Sawai Mansingh Stadium,2,34,36,U Mumba,5,Patna Pirates,6,70,Patna Pirates,U Mumba,36
+4,191,Match 10,League,2016,Sawai Mansingh Stadium,0,28,28,Jaipur Pink Panthers,3,Bengaluru Bulls,1,56,tied,tied,28
+4,192,Match 11,League,2016,Sawai Mansingh Stadium,2,27,25,U Mumba,5,Dabang Delhi,2,52,U Mumba,Dabang Delhi,27
+4,193,Match 12,League,2016,Sawai Mansingh Stadium,3,36,33,Jaipur Pink Panthers,3,Bengal Warriors,4,69,Jaipur Pink Panthers,Bengal Warriors,36
+4,194,Match 13,League,2016,Sawai Mansingh Stadium,8,32,24,Dabang Delhi,2,Bengaluru Bulls,1,56,Dabang Delhi,Bengaluru Bulls,32
+4,195,Match 14,League,2016,Sawai Mansingh Stadium,5,28,33,Jaipur Pink Panthers,3,Puneri Paltan,7,61,Puneri Paltan,Jaipur Pink Panthers,33
+4,196,Match 15,League,2016,Gachibowli Indoor Stadium,2,33,35,Telugu Titans,8,Patna Pirates,6,68,Patna Pirates,Telugu Titans,35
+4,197,Match 16,League,2016,Gachibowli Indoor Stadium,8,18,26,Bengal Warriors,4,U Mumba,5,44,U Mumba,Bengal Warriors,26
+4,198,Match 17,League,2016,Gachibowli Indoor Stadium,2,29,27,Bengaluru Bulls,1,Puneri Paltan,7,56,Bengaluru Bulls,Puneri Paltan,29
+4,199,Match 18,League,2016,Gachibowli Indoor Stadium,17,35,18,Telugu Titans,8,Bengal Warriors,4,53,Telugu Titans,Bengal Warriors,35
+4,200,Match 19,League,2016,Gachibowli Indoor Stadium,2,28,30,Telugu Titans,8,Bengaluru Bulls,1,58,Bengaluru Bulls,Telugu Titans,30
+4,201,Match 20,League,2016,Gachibowli Indoor Stadium,25,26,51,Dabang Delhi,2,Jaipur Pink Panthers,3,77,Jaipur Pink Panthers,Dabang Delhi,51
+4,202,Match 21,League,2016,Gachibowli Indoor Stadium,5,35,30,Telugu Titans,8,U Mumba,5,65,Telugu Titans,U Mumba,35
+4,203,Match 22,League,2016,Patliputra Indoor Stadium,6,31,25,Patna Pirates,6,Bengaluru Bulls,1,56,Patna Pirates,Bengaluru Bulls,31
+4,204,Match 23,League,2016,Patliputra Indoor Stadium,1,23,24,Bengaluru Bulls,1,U Mumba,5,47,U Mumba,Bengaluru Bulls,24
+4,205,Match 24,League,2016,Patliputra Indoor Stadium,14,35,21,Patna Pirates,6,Bengal Warriors,4,56,Patna Pirates,Bengal Warriors,35
+4,206,Match 25,League,2016,Patliputra Indoor Stadium,7,31,38,Bengal Warriors,4,Puneri Paltan,7,69,Puneri Paltan,Bengal Warriors,38
+4,207,Match 26,League,2016,Patliputra Indoor Stadium,18,15,33,Patna Pirates,6,Dabang Delhi,2,48,Dabang Delhi,Patna Pirates,33
+4,208,Match 27,League,2016,Patliputra Indoor Stadium,5,23,28,Dabang Delhi,2,Telugu Titans,8,51,Telugu Titans,Dabang Delhi,28
+4,209,Match 28,League,2016,Patliputra Indoor Stadium,5,21,26,Patna Pirates,6,Jaipur Pink Panthers,3,47,Jaipur Pink Panthers,Patna Pirates,26
+4,210,Match 29,League,2016,Kanteerava Indoor Stadium,8,24,32,Bengaluru Bulls,1,Telugu Titans,8,56,Telugu Titans,Bengaluru Bulls,32
+4,211,Match 30,League,2016,Kanteerava Indoor Stadium,0,34,34,Puneri Paltan,7,Bengal Warriors,4,68,tied,tied,34
+4,212,Match 31,League,2016,Kanteerava Indoor Stadium,2,22,24,Bengaluru Bulls,1,Jaipur Pink Panthers,3,46,Jaipur Pink Panthers,Bengaluru Bulls,24
+4,213,Match 32,League,2016,Kanteerava Indoor Stadium,6,23,29,Jaipur Pink Panthers,3,U Mumba,5,52,U Mumba,Jaipur Pink Panthers,29
+4,214,Match 33,League,2016,Kanteerava Indoor Stadium,15,23,38,Bengaluru Bulls,1,Patna Pirates,6,61,Patna Pirates,Bengaluru Bulls,38
+4,215,Match 34,League,2016,Kanteerava Indoor Stadium,3,32,29,Telugu Titans,8,Puneri Paltan,7,61,Telugu Titans,Puneri Paltan,32
+4,216,Match 35,League,2016,Kanteerava Indoor Stadium,20,20,40,Bengaluru Bulls,1,Dabang Delhi,2,60,Dabang Delhi,Bengaluru Bulls,40
+4,217,Match 36,League,2016,Netaji Indoor Stadium,7,32,25,Bengal Warriors,4,Jaipur Pink Panthers,3,57,Bengal Warriors,Jaipur Pink Panthers,32
+4,218,Match 37,League,2016,Netaji Indoor Stadium,10,34,24,Patna Pirates,6,U Mumba,5,58,Patna Pirates,U Mumba,34
+4,219,Match 38,League,2016,Netaji Indoor Stadium,6,27,33,Puneri Paltan,7,Jaipur Pink Panthers,3,60,Jaipur Pink Panthers,Puneri Paltan,33
+4,220,Match 39,League,2016,Netaji Indoor Stadium,6,27,33,Bengal Warriors,4,Patna Pirates,6,60,Patna Pirates,Bengal Warriors,33
+4,221,Match 40,League,2016,Netaji Indoor Stadium,0,34,34,Bengal Warriors,4,Telugu Titans,8,68,tied,tied,34
+4,222,Match 41,League,2016,Netaji Indoor Stadium,8,36,28,Telugu Titans,8,Dabang Delhi,2,64,Telugu Titans,Dabang Delhi,36
+4,223,Match 42,League,2016,Netaji Indoor Stadium,2,25,27,Bengal Warriors,4,Bengaluru Bulls,1,52,Bengaluru Bulls,Bengal Warriors,27
+4,224,Match 43,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",3,34,31,U Mumba,5,Puneri Paltan,7,65,U Mumba,Puneri Paltan,34
+4,225,Match 44,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",2,24,22,Jaipur Pink Panthers,3,Dabang Delhi,2,46,Jaipur Pink Panthers,Dabang Delhi,24
+4,226,Match 45,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",0,25,25,U Mumba,5,Telugu Titans,8,50,tied,tied,25
+4,227,Match 46,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",7,29,22,Jaipur Pink Panthers,3,Patna Pirates,6,51,Jaipur Pink Panthers,Patna Pirates,29
+4,228,Match 47,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",4,27,31,U Mumba,5,Bengal Warriors,4,58,Bengal Warriors,U Mumba,31
+4,229,Match 48,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",3,31,28,Patna Pirates,6,Puneri Paltan,7,59,Patna Pirates,Puneri Paltan,31
+4,230,Match 49,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",1,27,28,U Mumba,5,Bengaluru Bulls,1,55,Bengaluru Bulls,U Mumba,28
+4,231,Match 50,League,2016,Thyagaraj Indoor Stadium,21,41,20,Dabang Delhi,2,Bengal Warriors,4,61,Dabang Delhi,Bengal Warriors,41
+4,232,Match 51,League,2016,Thyagaraj Indoor Stadium,12,35,23,Telugu Titans,8,Jaipur Pink Panthers,3,58,Telugu Titans,Jaipur Pink Panthers,35
+4,233,Match 52,League,2016,Thyagaraj Indoor Stadium,1,31,32,Dabang Delhi,2,Patna Pirates,6,63,Patna Pirates,Dabang Delhi,32
+4,234,Match 53,League,2016,Thyagaraj Indoor Stadium,21,25,46,Patna Pirates,6,Telugu Titans,8,71,Telugu Titans,Patna Pirates,46
+4,235,Match 54,League,2016,Thyagaraj Indoor Stadium,5,34,39,Dabang Delhi,2,Puneri Paltan,7,73,Puneri Paltan,Dabang Delhi,39
+4,236,Match 55,League,2016,Thyagaraj Indoor Stadium,3,36,33,Puneri Paltan,7,Bengaluru Bulls,1,69,Puneri Paltan,Bengaluru Bulls,36
+4,237,Match 56,League,2016,Thyagaraj Indoor Stadium,4,34,38,Dabang Delhi,2,U Mumba,5,72,U Mumba,Dabang Delhi,38
+4,238,Semi-Final 1,Semi Final,2016,Gachibowli Indoor Stadium,4,37,33,Patna Pirates,6,Puneri Paltan,7,70,Patna Pirates,Puneri Paltan,37
+4,239,Semi-Final 2,Semi Final,2016,Gachibowli Indoor Stadium,10,24,34,Telugu Titans,8,Jaipur Pink Panthers,3,58,Jaipur Pink Panthers,Telugu Titans,34
+4,240,3/4 Place,Super Playoffs,2016,Gachibowli Indoor Stadium,5,35,40,Telugu Titans,8,Puneri Paltan,7,75,Puneri Paltan,Telugu Titans,40
+4,241,Final,Final,2016,Gachibowli Indoor Stadium,8,37,29,Patna Pirates,6,Jaipur Pink Panthers,3,66,Patna Pirates,Jaipur Pink Panthers,37
+5,286,Match 1,League,2017,Gachibowli Indoor Stadium,5,32,27,Telugu Titans,8,Tamil Thalaivas,29,59,Telugu Titans,Tamil Thalaivas,32
+5,287,Match 2,League,2017,Gachibowli Indoor Stadium,12,21,33,U Mumba,5,Puneri Paltan,7,54,Puneri Paltan,U Mumba,33
+5,288,Match 3,League,2017,Gachibowli Indoor Stadium,4,26,30,Jaipur Pink Panthers,3,Dabang Delhi,2,56,Dabang Delhi,Jaipur Pink Panthers,30
+5,289,Match 4,League,2017,Gachibowli Indoor Stadium,6,29,35,Telugu Titans,8,Patna Pirates,6,64,Patna Pirates,Telugu Titans,35
+5,290,Match 5,League,2017,Gachibowli Indoor Stadium,1,29,28,U Mumba,5,Haryana Steelers,28,57,U Mumba,Haryana Steelers,29
+5,291,Match 6,League,2017,Gachibowli Indoor Stadium,10,21,31,Telugu Titans,8,Bengaluru Bulls,1,52,Bengaluru Bulls,Telugu Titans,31
+5,292,Match 7,League,2017,Gachibowli Indoor Stadium,6,26,20,Gujarat Giants,31,Dabang Delhi,2,46,Gujarat Giants,Dabang Delhi,26
+5,293,Match 8,League,2017,Gachibowli Indoor Stadium,13,18,31,Telugu Titans,8,U.P. Yoddhas,30,49,U.P. Yoddhas,Telugu Titans,31
+5,294,Match 9,League,2017,Gachibowli Indoor Stadium,0,27,27,Gujarat Giants,31,Haryana Steelers,28,54,tied,tied,27
+5,295,Match 10,League,2017,Gachibowli Indoor Stadium,6,24,30,Telugu Titans,8,Bengal Warriors,4,54,Bengal Warriors,Telugu Titans,30
+5,296,Match 11,League,2017,Gachibowli Indoor Stadium,7,36,43,Telugu Titans,8,Patna Pirates,6,79,Patna Pirates,Telugu Titans,43
+5,297,Match 12,League,2017,Mankapur Indoor Stadium,1,32,31,Bengaluru Bulls,1,Tamil Thalaivas,29,63,Bengaluru Bulls,Tamil Thalaivas,32
+5,298,Match 13,League,2017,Mankapur Indoor Stadium,5,26,21,Puneri Paltan,7,Dabang Delhi,2,47,Puneri Paltan,Dabang Delhi,26
+5,299,Match 14,League,2017,Mankapur Indoor Stadium,14,36,22,U Mumba,5,Dabang Delhi,2,58,U Mumba,Dabang Delhi,36
+5,300,Match 15,League,2017,Mankapur Indoor Stadium,5,27,32,Bengaluru Bulls,1,U.P. Yoddhas,30,59,U.P. Yoddhas,Bengaluru Bulls,32
+5,301,Match 16,League,2017,Mankapur Indoor Stadium,20,40,20,Bengal Warriors,4,U.P. Yoddhas,30,60,Bengal Warriors,U.P. Yoddhas,40
+5,302,Match 17,League,2017,Mankapur Indoor Stadium,14,32,46,Bengaluru Bulls,1,Patna Pirates,6,78,Patna Pirates,Bengaluru Bulls,46
+5,303,Match 18,League,2017,Mankapur Indoor Stadium,12,20,32,Gujarat Giants,31,Haryana Steelers,28,52,Haryana Steelers,Gujarat Giants,32
+5,304,Match 19,League,2017,Mankapur Indoor Stadium,0,21,21,Bengaluru Bulls,1,Telugu Titans,8,42,tied,tied,21
+5,305,Match 20,League,2017,Mankapur Indoor Stadium,6,31,25,Bengaluru Bulls,1,Bengal Warriors,4,56,Bengaluru Bulls,Bengal Warriors,31
+5,306,Match 21,League,2017,Mankapur Indoor Stadium,2,28,30,Puneri Paltan,7,Jaipur Pink Panthers,3,58,Jaipur Pink Panthers,Puneri Paltan,30
+5,307,Match 22,League,2017,Mankapur Indoor Stadium,5,24,29,Bengaluru Bulls,1,Tamil Thalaivas,29,53,Tamil Thalaivas,Bengaluru Bulls,29
+5,308,Match 23,League,2017,The Arena By Transstadia,18,39,21,Gujarat Giants,31,U Mumba,5,60,Gujarat Giants,U Mumba,39
+5,309,Match 24,League,2017,The Arena By Transstadia,7,32,39,Telugu Titans,8,U.P. Yoddhas,30,71,U.P. Yoddhas,Telugu Titans,39
+5,310,Match 25,League,2017,The Arena By Transstadia,4,29,25,Gujarat Giants,31,Dabang Delhi,2,54,Gujarat Giants,Dabang Delhi,29
+5,311,Match 26,League,2017,The Arena By Transstadia,0,27,27,Patna Pirates,6,U.P. Yoddhas,30,54,tied,tied,27
+5,312,Match 27,League,2017,The Arena By Transstadia,7,27,20,Gujarat Giants,31,Jaipur Pink Panthers,3,47,Gujarat Giants,Jaipur Pink Panthers,27
+5,313,Match 28,League,2017,The Arena By Transstadia,17,17,34,Bengal Warriors,4,Puneri Paltan,7,51,Puneri Paltan,Bengal Warriors,34
+5,314,Match 29,League,2017,The Arena By Transstadia,3,27,24,Gujarat Giants,31,Bengaluru Bulls,1,51,Gujarat Giants,Bengaluru Bulls,27
+5,315,Match 30,League,2017,The Arena By Transstadia,0,25,25,Haryana Steelers,28,Tamil Thalaivas,29,50,tied,tied,25
+5,316,Match 31,League,2017,The Arena By Transstadia,10,29,19,Gujarat Giants,31,Telugu Titans,8,48,Gujarat Giants,Telugu Titans,29
+5,317,Match 32,League,2017,The Arena By Transstadia,1,30,29,Dabang Delhi,2,Tamil Thalaivas,29,59,Dabang Delhi,Tamil Thalaivas,30
+5,318,Match 33,League,2017,The Arena By Transstadia,0,26,26,Gujarat Giants,31,Bengal Warriors,4,52,tied,tied,26
+5,319,Match 34,League,2017,Babu Banarasi Das Indoor Stadium,3,34,37,U.P. Yoddhas,30,U Mumba,5,71,U Mumba,U.P. Yoddhas,37
+5,320,Match 35,League,2017,Babu Banarasi Das Indoor Stadium,2,28,30,Bengaluru Bulls,1,Jaipur Pink Panthers,3,58,Jaipur Pink Panthers,Bengaluru Bulls,30
+5,321,Match 36,League,2017,Babu Banarasi Das Indoor Stadium,5,37,32,Telugu Titans,8,U Mumba,5,69,Telugu Titans,U Mumba,37
+5,322,Match 37,League,2017,Babu Banarasi Das Indoor Stadium,7,29,36,U.P. Yoddhas,30,Haryana Steelers,28,65,Haryana Steelers,U.P. Yoddhas,36
+5,323,Match 38,League,2017,Babu Banarasi Das Indoor Stadium,5,42,47,Patna Pirates,6,Puneri Paltan,7,89,Puneri Paltan,Patna Pirates,47
+5,324,Match 39,League,2017,Babu Banarasi Das Indoor Stadium,2,22,24,U.P. Yoddhas,30,Jaipur Pink Panthers,3,46,Jaipur Pink Panthers,U.P. Yoddhas,24
+5,325,Match 40,League,2017,Babu Banarasi Das Indoor Stadium,14,35,21,Gujarat Giants,31,Puneri Paltan,7,56,Gujarat Giants,Puneri Paltan,35
+5,326,Match 41,League,2017,Babu Banarasi Das Indoor Stadium,1,31,32,U.P. Yoddhas,30,Bengal Warriors,4,63,Bengal Warriors,U.P. Yoddhas,32
+5,327,Match 42,League,2017,Babu Banarasi Das Indoor Stadium,2,27,25,Haryana Steelers,28,Dabang Delhi,2,52,Haryana Steelers,Dabang Delhi,27
+5,328,Match 43,League,2017,Babu Banarasi Das Indoor Stadium,0,33,33,U.P. Yoddhas,30,Tamil Thalaivas,29,66,tied,tied,33
+5,329,Match 44,League,2017,Babu Banarasi Das Indoor Stadium,2,25,23,U.P. Yoddhas,30,Telugu Titans,8,48,U.P. Yoddhas,Telugu Titans,25
+5,330,Match 45,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",3,36,39,U Mumba,5,Jaipur Pink Panthers,3,75,Jaipur Pink Panthers,U Mumba,39
+5,331,Match 46,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",0,36,36,Bengal Warriors,4,Patna Pirates,6,72,tied,tied,36
+5,332,Match 47,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",11,35,24,Patna Pirates,6,Tamil Thalaivas,29,59,Patna Pirates,Tamil Thalaivas,35
+5,333,Match 48,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",2,24,26,U Mumba,5,Puneri Paltan,7,50,Puneri Paltan,U Mumba,26
+5,334,Match 49,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",6,32,26,Bengal Warriors,4,Bengaluru Bulls,1,58,Bengal Warriors,Bengaluru Bulls,32
+5,335,Match 50,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",1,32,33,U Mumba,5,Dabang Delhi,2,65,Dabang Delhi,U Mumba,33
+5,338,Match 53,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",6,38,32,U Mumba,5,Haryana Steelers,28,70,U Mumba,Haryana Steelers,38
+5,339,Match 54,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",5,33,28,Telugu Titans,8,Tamil Thalaivas,29,61,Telugu Titans,Tamil Thalaivas,33
+5,340,Match 55,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",4,36,32,U Mumba,5,Jaipur Pink Panthers,3,68,U Mumba,Jaipur Pink Panthers,36
+5,341,Match 56,League,2017,Netaji Indoor Stadium,3,41,38,Bengal Warriors,4,Patna Pirates,6,79,Bengal Warriors,Patna Pirates,41
+5,342,Match 57,League,2017,Netaji Indoor Stadium,6,36,42,Gujarat Giants,31,Haryana Steelers,28,78,Haryana Steelers,Gujarat Giants,42
+5,343,Match 58,League,2017,Netaji Indoor Stadium,0,26,26,Bengal Warriors,4,U.P. Yoddhas,30,52,tied,tied,26
+5,344,Match 59,League,2017,Netaji Indoor Stadium,6,25,31,Gujarat Giants,31,Jaipur Pink Panthers,3,56,Jaipur Pink Panthers,Gujarat Giants,31
+5,345,Match 60,League,2017,Netaji Indoor Stadium,4,29,25,Bengal Warriors,4,Tamil Thalaivas,29,54,Bengal Warriors,Tamil Thalaivas,29
+5,346,Match 61,League,2017,Netaji Indoor Stadium,26,47,21,Patna Pirates,6,Jaipur Pink Panthers,3,68,Patna Pirates,Jaipur Pink Panthers,47
+5,347,Match 62,League,2017,Netaji Indoor Stadium,7,29,36,Bengal Warriors,4,Haryana Steelers,28,65,Haryana Steelers,Bengal Warriors,36
+5,348,Match 63,League,2017,Netaji Indoor Stadium,8,38,30,Dabang Delhi,2,Bengaluru Bulls,1,68,Dabang Delhi,Bengaluru Bulls,38
+5,349,Match 64,League,2017,Netaji Indoor Stadium,6,31,37,Bengal Warriors,4,U Mumba,5,68,U Mumba,Bengal Warriors,37
+5,350,Match 65,League,2017,Netaji Indoor Stadium,5,37,42,Telugu Titans,8,Puneri Paltan,7,79,Puneri Paltan,Telugu Titans,42
+5,351,Match 66,League,2017,Netaji Indoor Stadium,0,31,31,Bengal Warriors,4,Dabang Delhi,2,62,tied,tied,31
+5,352,Match 67,League,2017,Motilal Nehru School Of Sports,0,41,41,Haryana Steelers,28,Patna Pirates,6,82,tied,tied,41
+5,353,Match 68,League,2017,Motilal Nehru School Of Sports,0,30,30,Gujarat Giants,31,U.P. Yoddhas,30,60,tied,tied,30
+5,354,Match 69,League,2017,Motilal Nehru School Of Sports,10,41,51,Patna Pirates,6,U Mumba,5,92,U Mumba,Patna Pirates,51
+5,355,Match 70,League,2017,Motilal Nehru School Of Sports,7,38,31,Haryana Steelers,28,Bengaluru Bulls,1,69,Haryana Steelers,Bengaluru Bulls,38
+5,356,Match 71,League,2017,Motilal Nehru School Of Sports,4,24,20,Bengaluru Bulls,1,Puneri Paltan,7,44,Bengaluru Bulls,Puneri Paltan,24
+5,357,Match 72,League,2017,Motilal Nehru School Of Sports,18,19,37,Haryana Steelers,28,Telugu Titans,8,56,Telugu Titans,Haryana Steelers,37
+5,358,Match 73,League,2017,Motilal Nehru School Of Sports,1,32,31,Bengal Warriors,4,Telugu Titans,8,63,Bengal Warriors,Telugu Titans,32
+5,359,Match 74,League,2017,Motilal Nehru School Of Sports,3,27,24,Haryana Steelers,28,Dabang Delhi,2,51,Haryana Steelers,Dabang Delhi,27
+5,360,Match 75,League,2017,Motilal Nehru School Of Sports,1,34,33,Tamil Thalaivas,29,U.P. Yoddhas,30,67,Tamil Thalaivas,U.P. Yoddhas,34
+5,361,Match 76,League,2017,Motilal Nehru School Of Sports,16,22,38,Haryana Steelers,28,Puneri Paltan,7,60,Puneri Paltan,Haryana Steelers,38
+5,362,Match 77,League,2017,Motilal Nehru School Of Sports,0,27,27,Haryana Steelers,28,Jaipur Pink Panthers,3,54,tied,tied,27
+5,363,Match 78,League,2017,unknown_venue,16,46,30,Patna Pirates,6,Telugu Titans,8,76,Patna Pirates,Telugu Titans,46
+5,364,Match 79,League,2017,unknown_venue,11,28,39,U Mumba,5,Gujarat Giants,31,67,Gujarat Giants,U Mumba,39
+5,365,Match 80,League,2017,unknown_venue,0,26,26,Bengaluru Bulls,1,Telugu Titans,8,52,tied,tied,26
+5,366,Match 81,League,2017,unknown_venue,3,45,42,Patna Pirates,6,U.P. Yoddhas,30,87,Patna Pirates,U.P. Yoddhas,45
+5,367,Match 82,League,2017,unknown_venue,11,36,25,Jaipur Pink Panthers,3,Dabang Delhi,2,61,Jaipur Pink Panthers,Dabang Delhi,36
+5,368,Match 83,League,2017,unknown_venue,0,37,37,Patna Pirates,6,Bengal Warriors,4,74,tied,tied,37
+5,369,match 84,League,2017,unknown_venue,12,37,25,Puneri Paltan,7,Haryana Steelers,28,62,Puneri Paltan,Haryana Steelers,37
+5,370,Match 85,League,2017,unknown_venue,4,36,32,Patna Pirates,6,Bengaluru Bulls,1,68,Patna Pirates,Bengaluru Bulls,36
+5,337,Match 52,League,2017,unknown_venue,22,23,45,U Mumba,5,Gujarat Giants,31,68,Gujarat Giants,U Mumba,45
+5,371,Match 86,League,2017,unknown_venue,2,41,39,Patna Pirates,6,Tamil Thalaivas,29,80,Patna Pirates,Tamil Thalaivas,41
+5,372,Match 87,League,2017,unknown_venue,4,26,30,Jaipur Pink Panthers,3,Haryana Steelers,28,56,Haryana Steelers,Jaipur Pink Panthers,30
+5,373,Match 88,League,2017,unknown_venue,5,41,46,Patna Pirates,6,U.P. Yoddhas,30,87,U.P. Yoddhas,Patna Pirates,46
+5,374,Match 89,League,2017,Thyagaraj Indoor Stadium,2,28,30,Dabang Delhi,2,U Mumba,5,58,U Mumba,Dabang Delhi,30
+5,375,Match 90,League,2017,Thyagaraj Indoor Stadium,4,29,33,Bengaluru Bulls,1,Bengal Warriors,4,62,Bengal Warriors,Bengaluru Bulls,33
+5,376,Match 91,League,2017,Thyagaraj Indoor Stadium,5,29,34,Dabang Delhi,2,Puneri Paltan,7,63,Puneri Paltan,Dabang Delhi,34
+5,377,Match 92,League,2017,Thyagaraj Indoor Stadium,1,32,33,Bengal Warriors,4,Tamil Thalaivas,29,65,Tamil Thalaivas,Bengal Warriors,33
+5,378,Match 93,League,2017,Thyagaraj Indoor Stadium,18,24,42,Dabang Delhi,2,Haryana Steelers,28,66,Haryana Steelers,Dabang Delhi,42
+5,379,Match 94,League,2017,Thyagaraj Indoor Stadium,1,34,35,Gujarat Giants,31,Tamil Thalaivas,29,69,Tamil Thalaivas,Gujarat Giants,35
+5,380,Match 95,League,2017,Thyagaraj Indoor Stadium,2,34,36,Dabang Delhi,2,Patna Pirates,6,70,Patna Pirates,Dabang Delhi,36
+5,381,Match 96,League,2017,Thyagaraj Indoor Stadium,7,41,34,Telugu Titans,8,Jaipur Pink Panthers,3,75,Telugu Titans,Jaipur Pink Panthers,41
+5,382,Match 97,League,2017,Thyagaraj Indoor Stadium,29,16,45,Dabang Delhi,2,U.P. Yoddhas,30,61,U.P. Yoddhas,Dabang Delhi,45
+5,383,Match 98,League,2017,Thyagaraj Indoor Stadium,12,30,42,Bengaluru Bulls,1,U Mumba,5,72,U Mumba,Bengaluru Bulls,42
+5,384,Match 99,League,2017,Thyagaraj Indoor Stadium,22,22,44,Dabang Delhi,2,Telugu Titans,8,66,Telugu Titans,Dabang Delhi,44
+5,385,Match 100,League,2017,Jawaharlal Nehru Indoor Stadium,13,20,33,Tamil Thalaivas,29,Puneri Paltan,7,53,Puneri Paltan,Tamil Thalaivas,33
+5,386,Match 101,League,2017,Jawaharlal Nehru Indoor Stadium,1,30,29,Gujarat Giants,31,Patna Pirates,6,59,Gujarat Giants,Patna Pirates,30
+5,387,Match 102,League,2017,Jawaharlal Nehru Indoor Stadium,1,34,33,Puneri Paltan,7,U.P. Yoddhas,30,67,Puneri Paltan,U.P. Yoddhas,34
+5,388,Match 103,League,2017,Jawaharlal Nehru Indoor Stadium,1,26,27,Tamil Thalaivas,29,Jaipur Pink Panthers,3,53,Jaipur Pink Panthers,Tamil Thalaivas,27
+5,389,Match 104,League,2017,Jawaharlal Nehru Indoor Stadium,1,31,32,Jaipur Pink Panthers,3,Bengal Warriors,4,63,Bengal Warriors,Jaipur Pink Panthers,32
+5,390,Match 105,League,2017,Jawaharlal Nehru Indoor Stadium,3,30,33,Tamil Thalaivas,29,U Mumba,5,63,U Mumba,Tamil Thalaivas,33
+5,391,Match 106,League,2017,Jawaharlal Nehru Indoor Stadium,20,22,42,Dabang Delhi,2,Gujarat Giants,31,64,Gujarat Giants,Dabang Delhi,42
+5,392,Match 107,League,2017,Jawaharlal Nehru Indoor Stadium,21,37,58,Tamil Thalaivas,29,Telugu Titans,8,95,Telugu Titans,Tamil Thalaivas,58
+5,393,Match 108,League,2017,Jawaharlal Nehru Indoor Stadium,11,30,41,U Mumba,5,Haryana Steelers,28,71,Haryana Steelers,U Mumba,41
+5,394,Match 109,League,2017,Jawaharlal Nehru Indoor Stadium,4,33,37,Tamil Thalaivas,29,U.P. Yoddhas,30,70,U.P. Yoddhas,Tamil Thalaivas,37
+5,395,Match 110,League,2017,Jawaharlal Nehru Indoor Stadium,10,35,45,Tamil Thalaivas,29,Bengaluru Bulls,1,80,Bengaluru Bulls,Tamil Thalaivas,45
+5,396,Match 111,League,2017,Sawai Mansingh Stadium,6,23,29,Jaipur Pink Panthers,3,Gujarat Giants,31,52,Gujarat Giants,Jaipur Pink Panthers,29
+5,397,Match 112,League,2017,Sawai Mansingh Stadium,6,19,25,Puneri Paltan,7,Bengal Warriors,4,44,Bengal Warriors,Puneri Paltan,25
+5,398,Match 113,League,2017,Sawai Mansingh Stadium,2,32,30,Haryana Steelers,28,Telugu Titans,8,62,Haryana Steelers,Telugu Titans,32
+5,399,Match 114,League,2017,Sawai Mansingh Stadium,4,36,32,Jaipur Pink Panthers,3,U Mumba,5,68,Jaipur Pink Panthers,U Mumba,36
+5,400,Match 115,League,2017,Sawai Mansingh Stadium,4,33,29,Gujarat Giants,31,Patna Pirates,6,62,Gujarat Giants,Patna Pirates,33
+5,401,Match 116,League,2017,Sawai Mansingh Stadium,8,30,38,Jaipur Pink Panthers,3,Puneri Paltan,7,68,Puneri Paltan,Jaipur Pink Panthers,38
+5,402,Match 117,League,2017,Sawai Mansingh Stadium,3,35,38,U Mumba,5,Tamil Thalaivas,29,73,Tamil Thalaivas,U Mumba,38
+5,403,Match 118,League,2017,Sawai Mansingh Stadium,1,34,35,Jaipur Pink Panthers,3,Dabang Delhi,2,69,Dabang Delhi,Jaipur Pink Panthers,35
+5,404,Match 119,League,2017,Sawai Mansingh Stadium,3,32,35,Dabang Delhi,2,Bengaluru Bulls,1,67,Bengaluru Bulls,Dabang Delhi,35
+5,405,Match 120,League,2017,Sawai Mansingh Stadium,10,27,37,Jaipur Pink Panthers,3,Haryana Steelers,28,64,Haryana Steelers,Jaipur Pink Panthers,37
+5,406,Match 121,League,2017,Sawai Mansingh Stadium,21,32,53,Jaipur Pink Panthers,3,U.P. Yoddhas,30,85,U.P. Yoddhas,Jaipur Pink Panthers,53
+5,407,Match 122,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",24,20,44,Puneri Paltan,7,Gujarat Giants,31,64,Gujarat Giants,Puneri Paltan,44
+5,408,Match 123,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",4,34,30,Bengal Warriors,4,Tamil Thalaivas,29,64,Bengal Warriors,Tamil Thalaivas,34
+5,409,Match 124,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",3,40,37,Tamil Thalaivas,29,Patna Pirates,6,77,Tamil Thalaivas,Patna Pirates,40
+5,410,Match 125,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",19,43,24,Puneri Paltan,7,U Mumba,5,67,Puneri Paltan,U Mumba,43
+5,411,Match 126,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",6,38,32,Bengaluru Bulls,1,U.P. Yoddhas,30,70,Bengaluru Bulls,U.P. Yoddhas,38
+5,412,Match 127,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",3,34,31,Puneri Paltan,7,Dabang Delhi,2,65,Puneri Paltan,Dabang Delhi,34
+5,336,Match 51,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",40,64,24,Bengaluru Bulls,1,U.P. Yoddhas,30,88,Bengaluru Bulls,U.P. Yoddhas,64
+5,413,Match 128,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",4,27,31,Puneri Paltan,7,Haryana Steelers,28,58,Haryana Steelers,Puneri Paltan,31
+5,414,Match 129,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",0,29,29,Patna Pirates,6,Bengaluru Bulls,1,58,tied,tied,29
+5,415,Match 130,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",23,38,15,Puneri Paltan,7,Jaipur Pink Panthers,3,53,Puneri Paltan,Jaipur Pink Panthers,38
+5,416,Match 131,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",0,37,37,Telugu Titans,8,Bengal Warriors,4,74,tied,tied,37
+5,417,Match 132,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",1,22,23,Puneri Paltan,7,Gujarat Giants,31,45,Gujarat Giants,Puneri Paltan,23
+5,418,Eliminator 1,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",2,40,38,Puneri Paltan,7,U.P. Yoddhas,30,78,Puneri Paltan,U.P. Yoddhas,40
+5,419,Eliminator 2,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",39,69,30,Patna Pirates,6,Haryana Steelers,28,99,Patna Pirates,Haryana Steelers,69
+5,420,Qualifier 1,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",25,42,17,Gujarat Giants,31,Bengal Warriors,4,59,Gujarat Giants,Bengal Warriors,42
+5,421,Eliminator 3,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",10,32,42,Puneri Paltan,7,Patna Pirates,6,74,Patna Pirates,Puneri Paltan,42
+5,422,Qualifier 2,Playoffs,2017,Jawaharlal Nehru Indoor Stadium,3,44,47,Bengal Warriors,4,Patna Pirates,6,91,Patna Pirates,Bengal Warriors,47
+5,423,Final,Final,2017,Jawaharlal Nehru Indoor Stadium,17,38,55,Gujarat Giants,31,Patna Pirates,6,93,Patna Pirates,Gujarat Giants,55
+6,625,Match 1,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",16,42,26,Tamil Thalaivas,29,Patna Pirates,6,68,Tamil Thalaivas,Patna Pirates,42
+6,626,Match 2,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",0,32,32,Puneri Paltan,7,U Mumba,5,64,tied,tied,32
+6,627,Match 3,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",12,34,22,Puneri Paltan,7,Haryana Steelers,28,56,Puneri Paltan,Haryana Steelers,34
+6,628,Match 4,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",5,32,37,Tamil Thalaivas,29,U.P. Yoddha,30,69,U.P. Yoddha,Tamil Thalaivas,37
+6,629,Match 5,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",0,32,32,Dabang Delhi K.C.,2,Gujarat Giants,31,64,tied,tied,32
+6,630,Match 6,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",5,28,33,Tamil Thalaivas,29,Telugu Titans,8,61,Telugu Titans,Tamil Thalaivas,33
+6,631,Match 7,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",7,39,32,U Mumba,5,Jaipur Pink Panthers,3,71,U Mumba,Jaipur Pink Panthers,39
+6,632,Match 8,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",11,37,48,Tamil Thalaivas,29,Bengaluru Bulls,1,85,Bengaluru Bulls,Tamil Thalaivas,48
+6,677,Match 9,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",2,41,43,U.P. Yoddha,30,Patna Pirates,6,84,Patna Pirates,U.P. Yoddha,43
+6,634,Match 10,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",9,27,36,Tamil Thalaivas,29,Bengal Warriors,4,63,Bengal Warriors,Tamil Thalaivas,36
+6,636,Match 11,League,2018,"Motilal Nehru School Of Sports, Sonepat",7,32,25,Haryana Steelers,28,Gujarat Giants,31,57,Haryana Steelers,Gujarat Giants,32
+6,638,Match 12,League,2018,"Motilal Nehru School Of Sports, Sonepat",4,37,41,Puneri Paltan,7,Dabang Delhi K.C.,2,78,Dabang Delhi K.C.,Puneri Paltan,41
+6,640,Match 13,League,2018,"Motilal Nehru School Of Sports, Sonepat",5,34,29,Telugu Titans,8,U.P. Yoddha,30,63,Telugu Titans,U.P. Yoddha,34
+6,639,Match 14,League,2018,"Motilal Nehru School Of Sports, Sonepat",27,26,53,Haryana Steelers,28,U Mumba,5,79,U Mumba,Haryana Steelers,53
+6,637,Match 15,League,2018,"Motilal Nehru School Of Sports, Sonepat",6,43,37,Patna Pirates,6,U.P. Yoddha,30,80,Patna Pirates,U.P. Yoddha,43
+6,641,Match 16,League,2018,"Motilal Nehru School Of Sports, Sonepat",17,28,45,Haryana Steelers,28,Puneri Paltan,7,73,Puneri Paltan,Haryana Steelers,45
+6,642,Match 17,League,2018,"Motilal Nehru School Of Sports, Sonepat",5,30,25,Bengal Warriors,4,Telugu Titans,8,55,Bengal Warriors,Telugu Titans,30
+6,643,Match 18,League,2018,"Motilal Nehru School Of Sports, Sonepat",3,33,36,Haryana Steelers,28,Jaipur Pink Panthers,3,69,Jaipur Pink Panthers,Haryana Steelers,36
+6,644,Match 19,League,2018,"Motilal Nehru School Of Sports, Sonepat",9,44,35,Bengaluru Bulls,1,Tamil Thalaivas,29,79,Bengaluru Bulls,Tamil Thalaivas,44
+6,645,Match 20,League,2018,"Motilal Nehru School Of Sports, Sonepat",10,32,42,Haryana Steelers,28,U Mumba,5,74,U Mumba,Haryana Steelers,42
+6,646,Match 21,League,2018,"Motilal Nehru School Of Sports, Sonepat",3,34,31,Haryana Steelers,28,Dabang Delhi K.C.,2,65,Haryana Steelers,Dabang Delhi K.C.,34
+6,647,Match 22,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",6,28,34,Puneri Paltan,7,Gujarat Giants,31,62,Gujarat Giants,Puneri Paltan,34
+6,648,Match 23,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",4,31,35,Patna Pirates,6,Telugu Titans,8,66,Telugu Titans,Patna Pirates,35
+6,649,Match 24,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",4,29,25,Puneri Paltan,7,Jaipur Pink Panthers,3,54,Puneri Paltan,Jaipur Pink Panthers,29
+6,650,Match 25,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",0,40,40,U.P. Yoddha,30,Bengal Warriors,4,80,tied,tied,40
+6,651,Match 26,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",1,33,32,Puneri Paltan,7,U Mumba,5,65,Puneri Paltan,U Mumba,33
+6,652,Match 27,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",9,39,30,Dabang Delhi K.C.,2,Bengal Warriors,4,69,Dabang Delhi K.C.,Bengal Warriors,39
+6,653,Match 28,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",2,27,25,Puneri Paltan,7,Bengaluru Bulls,1,52,Puneri Paltan,Bengaluru Bulls,27
+6,654,Match 29,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",21,41,20,U Mumba,5,Telugu Titans,8,61,U Mumba,Telugu Titans,41
+6,655,Match 30,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",5,31,36,Puneri Paltan,7,Tamil Thalaivas,29,67,Tamil Thalaivas,Puneri Paltan,36
+6,656,Match 31,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",8,42,34,Bengaluru Bulls,1,Haryana Steelers,28,76,Bengaluru Bulls,Haryana Steelers,42
+6,657,Match 32,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",6,23,29,Puneri Paltan,7,U.P. Yoddha,30,52,U.P. Yoddha,Puneri Paltan,29
+6,658,Match 33,League,2018,"Patliputra Indoor Stadium, Patna",11,41,30,Patna Pirates,6,Jaipur Pink Panthers,3,71,Patna Pirates,Jaipur Pink Panthers,41
+6,659,Match 34,League,2018,"Patliputra Indoor Stadium, Patna",11,36,25,Gujarat Giants,31,Tamil Thalaivas,29,61,Gujarat Giants,Tamil Thalaivas,36
+6,660,Match 35,League,2018,"Patliputra Indoor Stadium, Patna",11,28,39,Jaipur Pink Panthers,3,Bengal Warriors,4,67,Bengal Warriors,Jaipur Pink Panthers,39
+6,661,Match 36,League,2018,"Patliputra Indoor Stadium, Patna",1,39,40,Patna Pirates,6,U Mumba,5,79,U Mumba,Patna Pirates,40
+6,662,Match 37,League,2018,"Patliputra Indoor Stadium, Patna",2,36,38,Dabang Delhi K.C.,2,U.P. Yoddha,30,74,U.P. Yoddha,Dabang Delhi K.C.,38
+6,663,Match 38,League,2018,"Patliputra Indoor Stadium, Patna",11,32,43,Patna Pirates,6,Haryana Steelers,28,75,Haryana Steelers,Patna Pirates,43
+6,664,Match 39,League,2018,"Patliputra Indoor Stadium, Patna",10,27,37,Puneri Paltan,7,Gujarat Giants,31,64,Gujarat Giants,Puneri Paltan,37
+6,665,Match 40,League,2018,"Patliputra Indoor Stadium, Patna",21,32,53,Patna Pirates,6,Telugu Titans,8,85,Telugu Titans,Patna Pirates,53
+6,666,Match 41,League,2018,"Patliputra Indoor Stadium, Patna",4,27,31,Dabang Delhi K.C.,2,Puneri Paltan,7,58,Puneri Paltan,Dabang Delhi K.C.,31
+6,667,Match 42,League,2018,"Patliputra Indoor Stadium, Patna",1,42,43,Patna Pirates,6,Bengaluru Bulls,1,85,Bengaluru Bulls,Patna Pirates,43
+6,668,Match 43,League,2018,"Patliputra Indoor Stadium, Patna",2,29,27,Patna Pirates,6,Bengal Warriors,4,56,Patna Pirates,Bengal Warriors,29
+6,669,Match 44,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",22,25,47,U.P. Yoddha,30,Tamil Thalaivas,29,72,Tamil Thalaivas,U.P. Yoddha,47
+6,670,Match 45,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",11,25,36,Jaipur Pink Panthers,3,Gujarat Giants,31,61,Gujarat Giants,Jaipur Pink Panthers,36
+6,671,Match 46,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",9,31,22,U Mumba,5,Puneri Paltan,7,53,U Mumba,Puneri Paltan,31
+6,672,Match 47,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6,29,35,U.P. Yoddha,30,Bengaluru Bulls,1,64,Bengaluru Bulls,U.P. Yoddha,35
+6,673,Match 48,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",7,38,45,Dabang Delhi K.C.,2,Gujarat Giants,31,83,Gujarat Giants,Dabang Delhi K.C.,45
+6,674,Match 49,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",0,30,30,U.P. Yoddha,30,Bengal Warriors,4,60,tied,tied,30
+6,675,Match 50,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6,38,32,Jaipur Pink Panthers,3,Haryana Steelers,28,70,Jaipur Pink Panthers,Haryana Steelers,38
+6,676,Match 51,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",0,26,26,U.P. Yoddha,30,Telugu Titans,8,52,tied,tied,26
+6,678,Match 52,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6,33,39,Haryana Steelers,28,Dabang Delhi K.C.,2,72,Dabang Delhi K.C.,Haryana Steelers,39
+6,679,Match 53,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",10,27,37,U.P. Yoddha,30,Bengaluru Bulls,1,64,Bengaluru Bulls,U.P. Yoddha,37
+6,680,Match 54,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",24,48,24,U Mumba,5,Jaipur Pink Panthers,3,72,U Mumba,Jaipur Pink Panthers,48
+6,681,Match 55,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",5,30,25,Bengal Warriors,4,Telugu Titans,8,55,Bengal Warriors,Telugu Titans,30
+6,682,Match 56,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",20,50,30,Patna Pirates,6,Bengal Warriors,4,80,Patna Pirates,Bengal Warriors,50
+6,683,Match 57,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",2,36,38,U Mumba,5,Gujarat Giants,31,74,Gujarat Giants,U Mumba,38
+6,633,Match 58,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",11,29,40,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,69,Dabang Delhi K.C.,Jaipur Pink Panthers,40
+6,684,Match 59,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",4,31,35,U Mumba,5,Haryana Steelers,28,66,Haryana Steelers,U Mumba,35
+6,685,Match 60,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",3,25,28,Puneri Paltan,7,Telugu Titans,8,53,Telugu Titans,Puneri Paltan,28
+6,686,Match 61,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",17,41,24,U Mumba,5,U.P. Yoddha,30,65,U Mumba,U.P. Yoddha,41
+6,687,Match 62,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",0,32,32,Tamil Thalaivas,29,Haryana Steelers,28,64,tied,tied,32
+6,688,Match 63,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",3,32,29,U Mumba,5,Bengaluru Bulls,1,61,U Mumba,Bengaluru Bulls,32
+6,689,Match 64,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",3,38,35,Patna Pirates,6,Dabang Delhi K.C.,2,73,Patna Pirates,Dabang Delhi K.C.,38
+6,690,Match 65,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",14,36,22,U Mumba,5,Tamil Thalaivas,29,58,U Mumba,Tamil Thalaivas,36
+6,691,Match 66,League,2018,"The Arena By Transstadia, Ahmedabad",12,35,23,Gujarat Giants,31,Bengal Warriors,4,58,Gujarat Giants,Bengal Warriors,35
+6,692,Match 67,League,2018,"The Arena By Transstadia, Ahmedabad",17,45,28,Jaipur Pink Panthers,3,U.P. Yoddha,30,73,Jaipur Pink Panthers,U.P. Yoddha,45
+6,693,Match 68,League,2018,"The Arena By Transstadia, Ahmedabad",4,22,26,Puneri Paltan,7,Bengal Warriors,4,48,Bengal Warriors,Puneri Paltan,26
+6,694,Match 69,League,2018,"The Arena By Transstadia, Ahmedabad",0,30,30,Gujarat Giants,31,Bengaluru Bulls,1,60,tied,tied,30
+6,695,Match 70,League,2018,"The Arena By Transstadia, Ahmedabad",13,32,45,Jaipur Pink Panthers,3,Bengaluru Bulls,1,77,Bengaluru Bulls,Jaipur Pink Panthers,45
+6,696,Match 71,League,2018,"The Arena By Transstadia, Ahmedabad",5,37,32,Gujarat Giants,31,U.P. Yoddha,30,69,Gujarat Giants,U.P. Yoddha,37
+6,697,Match 72,League,2018,"The Arena By Transstadia, Ahmedabad",4,27,23,Tamil Thalaivas,29,Telugu Titans,8,50,Tamil Thalaivas,Telugu Titans,27
+6,698,Match 73,League,2018,"The Arena By Transstadia, Ahmedabad",3,26,29,Gujarat Giants,31,Dabang Delhi K.C.,2,55,Dabang Delhi K.C.,Gujarat Giants,29
+6,699,Match 74,League,2018,"The Arena By Transstadia, Ahmedabad",18,45,27,Patna Pirates,6,Tamil Thalaivas,29,72,Patna Pirates,Tamil Thalaivas,45
+6,700,Match 75,League,2018,"The Arena By Transstadia, Ahmedabad",4,39,35,Gujarat Giants,31,U Mumba,5,74,Gujarat Giants,U Mumba,39
+6,701,Match 76,League,2018,"The Arena By Transstadia, Ahmedabad",9,40,31,Gujarat Giants,31,Haryana Steelers,28,71,Gujarat Giants,Haryana Steelers,40
+6,702,Match 77,League,2018,"Kanteerava Indoor Stadium, Bengaluru",2,31,33,Bengaluru Bulls,1,Bengal Warriors,4,64,Bengal Warriors,Bengaluru Bulls,33
+6,703,Match 78,League,2018,"Kanteerava Indoor Stadium, Bengaluru",0,30,30,Jaipur Pink Panthers,3,Puneri Paltan,7,60,tied,tied,30
+6,704,Match 79,League,2018,"Kanteerava Indoor Stadium, Bengaluru",16,39,23,U Mumba,5,Dabang Delhi K.C.,2,62,U Mumba,Dabang Delhi K.C.,39
+6,705,Match 80,League,2018,"Kanteerava Indoor Stadium, Bengaluru",14,36,22,Bengaluru Bulls,1,Tamil Thalaivas,29,58,Bengaluru Bulls,Tamil Thalaivas,36
+6,707,Match 81,League,2018,"Kanteerava Indoor Stadium, Bengaluru",7,27,34,Dabang Delhi K.C.,2,Haryana Steelers,28,61,Haryana Steelers,Dabang Delhi K.C.,34
+6,706,Match 82,League,2018,"Kanteerava Indoor Stadium, Bengaluru",3,32,35,Bengaluru Bulls,1,Patna Pirates,6,67,Patna Pirates,Bengaluru Bulls,35
+6,708,Match 83,League,2018,"Kanteerava Indoor Stadium, Bengaluru",6,31,25,Tamil Thalaivas,29,Telugu Titans,8,56,Tamil Thalaivas,Telugu Titans,31
+6,635,Match 84,League,2018,"Kanteerava Indoor Stadium, Bengaluru",10,37,27,Bengaluru Bulls,1,U.P. Yoddha,30,64,Bengaluru Bulls,U.P. Yoddha,37
+6,709,Match 85,League,2018,"Kanteerava Indoor Stadium, Bengaluru",2,33,35,Haryana Steelers,28,Puneri Paltan,7,68,Puneri Paltan,Haryana Steelers,35
+6,710,Match 86,League,2018,"Kanteerava Indoor Stadium, Bengaluru",8,34,26,Bengaluru Bulls,1,Telugu Titans,8,60,Bengaluru Bulls,Telugu Titans,34
+6,711,Match 87,League,2018,"Kanteerava Indoor Stadium, Bengaluru",15,20,35,Puneri Paltan,7,Gujarat Giants,31,55,Gujarat Giants,Puneri Paltan,35
+6,712,Match 88,League,2018,"Kanteerava Indoor Stadium, Bengaluru",7,37,44,Bengaluru Bulls,1,Bengal Warriors,4,81,Bengal Warriors,Bengaluru Bulls,44
+6,713,Match 89,League,2018,"Thyagaraj Indoor Stadium, Delhi",13,48,35,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3,83,Dabang Delhi K.C.,Jaipur Pink Panthers,48
+6,714,Match 90,League,2018,"Thyagaraj Indoor Stadium, Delhi",0,35,35,Tamil Thalaivas,29,Patna Pirates,6,70,tied,tied,35
+6,715,Match 91,League,2018,"Thyagaraj Indoor Stadium, Delhi",7,34,41,Dabang Delhi K.C.,2,U Mumba,5,75,U Mumba,Dabang Delhi K.C.,41
+6,716,Match 92,League,2018,"Thyagaraj Indoor Stadium, Delhi",10,36,26,U Mumba,5,Gujarat Giants,31,62,U Mumba,Gujarat Giants,36
+6,717,Match 93,League,2018,"Thyagaraj Indoor Stadium, Delhi",11,35,24,Dabang Delhi K.C.,2,Puneri Paltan,7,59,Dabang Delhi K.C.,Puneri Paltan,35
+6,718,Match 94,League,2018,"Thyagaraj Indoor Stadium, Delhi",18,27,45,Patna Pirates,6,Gujarat Giants,31,72,Gujarat Giants,Patna Pirates,45
+6,719,Match 95,League,2018,"Thyagaraj Indoor Stadium, Delhi",5,34,29,Dabang Delhi K.C.,2,Telugu Titans,8,63,Dabang Delhi K.C.,Telugu Titans,34
+6,720,Match 96,League,2018,"Thyagaraj Indoor Stadium, Delhi",2,35,33,Haryana Steelers,28,Bengal Warriors,4,68,Haryana Steelers,Bengal Warriors,35
+6,721,Match 97,League,2018,"Thyagaraj Indoor Stadium, Delhi",1,32,31,Dabang Delhi K.C.,2,Bengaluru Bulls,1,63,Dabang Delhi K.C.,Bengaluru Bulls,32
+6,722,Match 98,League,2018,"Thyagaraj Indoor Stadium, Delhi",1,30,29,U.P. Yoddha,30,Haryana Steelers,28,59,U.P. Yoddha,Haryana Steelers,30
+6,723,Match 99,League,2018,"Thyagaraj Indoor Stadium, Delhi",5,38,33,Dabang Delhi K.C.,2,Tamil Thalaivas,29,71,Dabang Delhi K.C.,Tamil Thalaivas,38
+6,724,Match 100,League,2018,"Gachibowli Indoor Stadium, Hyderabad",2,27,29,Telugu Titans,8,Gujarat Giants,31,56,Gujarat Giants,Telugu Titans,29
+6,725,Match 101,League,2018,"Gachibowli Indoor Stadium, Hyderabad",17,53,36,Patna Pirates,6,Puneri Paltan,7,89,Patna Pirates,Puneri Paltan,53
+6,726,Match 102,League,2018,"Gachibowli Indoor Stadium, Hyderabad",11,31,20,U Mumba,5,Bengal Warriors,4,51,U Mumba,Bengal Warriors,31
+6,727,Match 103,League,2018,"Gachibowli Indoor Stadium, Hyderabad",10,36,26,Telugu Titans,8,Jaipur Pink Panthers,3,62,Telugu Titans,Jaipur Pink Panthers,36
+6,728,Match 104,League,2018,"Gachibowli Indoor Stadium, Hyderabad",13,24,37,Tamil Thalaivas,29,Jaipur Pink Panthers,3,61,Jaipur Pink Panthers,Tamil Thalaivas,37
+6,729,Match 105,League,2018,"Gachibowli Indoor Stadium, Hyderabad",4,35,31,Telugu Titans,8,Haryana Steelers,28,66,Telugu Titans,Haryana Steelers,35
+6,730,Match 106,League,2018,"Gachibowli Indoor Stadium, Hyderabad",25,19,44,Dabang Delhi K.C.,2,U Mumba,5,63,U Mumba,Dabang Delhi K.C.,44
+6,731,Match 107,League,2018,"Gachibowli Indoor Stadium, Hyderabad",7,20,27,Telugu Titans,8,U.P. Yoddha,30,47,U.P. Yoddha,Telugu Titans,27
+6,732,Match 108,League,2018,"Gachibowli Indoor Stadium, Hyderabad",10,37,47,Haryana Steelers,28,Gujarat Giants,31,84,Gujarat Giants,Haryana Steelers,47
+6,733,Match 109,League,2018,"Gachibowli Indoor Stadium, Hyderabad",13,24,37,Telugu Titans,8,Bengaluru Bulls,1,61,Bengaluru Bulls,Telugu Titans,37
+6,734,Match 110,League,2018,"Gachibowli Indoor Stadium, Hyderabad",5,41,36,Telugu Titans,8,Patna Pirates,6,77,Telugu Titans,Patna Pirates,41
+6,735,Match 111,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",13,36,23,Jaipur Pink Panthers,3,Puneri Paltan,7,59,Jaipur Pink Panthers,Puneri Paltan,36
+6,736,Match 112,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",7,28,21,Bengal Warriors,4,Tamil Thalaivas,29,49,Bengal Warriors,Tamil Thalaivas,28
+6,737,Match 113,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",0,25,25,U.P. Yoddha,30,Tamil Thalaivas,29,50,tied,tied,25
+6,738,Match 114,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",0,35,35,Jaipur Pink Panthers,3,U Mumba,5,70,tied,tied,35
+6,739,Match 115,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",16,31,47,Patna Pirates,6,U.P. Yoddha,30,78,U.P. Yoddha,Patna Pirates,47
+6,740,Match 116,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",5,29,34,Jaipur Pink Panthers,3,Gujarat Giants,31,63,Gujarat Giants,Jaipur Pink Panthers,34
+6,741,Match 117,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",16,44,28,Bengaluru Bulls,1,Telugu Titans,8,72,Bengaluru Bulls,Telugu Titans,44
+6,742,Match 118,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",9,39,30,Jaipur Pink Panthers,3,Haryana Steelers,28,69,Jaipur Pink Panthers,Haryana Steelers,39
+6,743,Match 119,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",0,40,40,Patna Pirates,6,Bengaluru Bulls,1,80,tied,tied,40
+6,744,Match 120,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",2,31,33,Jaipur Pink Panthers,3,Gujarat Giants,31,64,Gujarat Giants,Jaipur Pink Panthers,33
+6,745,Match 121,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",0,37,37,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,74,tied,tied,37
+6,749,Match 126,League,2018,"Netaji Indoor Stadium, Kolkata",6,31,37,Bengal Warriors,4,Dabang Delhi K.C.,2,68,Dabang Delhi K.C.,Bengal Warriors,37
+6,747,Match 124,League,2018,"Netaji Indoor Stadium, Kolkata",2,32,34,U Mumba,5,U.P. Yoddha,30,66,U.P. Yoddha,U Mumba,34
+6,748,Match 125,League,2018,"Netaji Indoor Stadium, Kolkata",16,39,23,Bengal Warriors,4,Patna Pirates,6,62,Bengal Warriors,Patna Pirates,39
+6,750,Match 122,League,2018,"Netaji Indoor Stadium, Kolkata",3,27,24,Bengal Warriors,4,Tamil Thalaivas,29,51,Bengal Warriors,Tamil Thalaivas,27
+6,746,Match 123,League,2018,"Netaji Indoor Stadium, Kolkata",15,35,20,Puneri Paltan,7,Telugu Titans,8,55,Puneri Paltan,Telugu Titans,35
+6,751,Match 127,League,2018,"Netaji Indoor Stadium, Kolkata",0,40,40,Haryana Steelers,28,Tamil Thalaivas,29,80,tied,tied,40
+6,752,Match 128,League,2018,"Netaji Indoor Stadium, Kolkata",5,39,34,Bengal Warriors,4,Telugu Titans,8,73,Bengal Warriors,Telugu Titans,39
+6,753,Match 129,League,2018,"Netaji Indoor Stadium, Kolkata",8,37,29,Gujarat Giants,31,Patna Pirates,6,66,Gujarat Giants,Patna Pirates,37
+6,754,Match 130,League,2018,"Netaji Indoor Stadium, Kolkata",6,37,31,Bengal Warriors,4,Bengaluru Bulls,1,68,Bengal Warriors,Bengaluru Bulls,37
+6,755,Match 131,League,2018,"Netaji Indoor Stadium, Kolkata",8,32,40,Jaipur Pink Panthers,3,Bengaluru Bulls,1,72,Bengaluru Bulls,Jaipur Pink Panthers,40
+6,756,Match 132,League,2018,"Netaji Indoor Stadium, Kolkata",16,25,41,Bengal Warriors,4,U.P. Yoddha,30,66,U.P. Yoddha,Bengal Warriors,41
+6,757,Match 133,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",5,29,34,U Mumba,5,U.P. Yoddha,30,63,U.P. Yoddha,U Mumba,34
+6,758,Match 134,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",11,39,28,Dabang Delhi K.C.,2,Bengal Warriors,4,67,Dabang Delhi K.C.,Bengal Warriors,39
+6,759,Match 135,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",12,29,41,Gujarat Giants,31,Bengaluru Bulls,1,70,Bengaluru Bulls,Gujarat Giants,41
+6,760,Match 136,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",12,45,33,U.P. Yoddha,30,Dabang Delhi K.C.,2,78,U.P. Yoddha,Dabang Delhi K.C.,45
+6,761,Match 137,Playoffs,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",7,38,31,Gujarat Giants,31,U.P. Yoddha,30,69,Gujarat Giants,U.P. Yoddha,38
+6,762,Match 138,Final,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",5,38,33,Bengaluru Bulls,1,Gujarat Giants,31,71,Bengaluru Bulls,Gujarat Giants,38
+7,1685,Match 1,League,2019,"Gachibowli Indoor Stadium, Hyderabad",6,25,31,Telugu Titans,8,U Mumba,5,56,U Mumba,Telugu Titans,31
+7,1686,Match 2,League,2019,"Gachibowli Indoor Stadium, Hyderabad",2,34,32,Bengaluru Bulls,1,Patna Pirates,6,66,Bengaluru Bulls,Patna Pirates,34
+7,1687,Match 3,League,2019,"Gachibowli Indoor Stadium, Hyderabad",18,24,42,Bengaluru Bulls,1,Gujarat Giants,31,66,Gujarat Giants,Bengaluru Bulls,42
+7,1688,Match 4,League,2019,"Gachibowli Indoor Stadium, Hyderabad",13,26,39,Telugu Titans,8,Tamil Thalaivas,29,65,Tamil Thalaivas,Telugu Titans,39
+7,1689,Match 5,League,2019,"Gachibowli Indoor Stadium, Hyderabad",19,23,42,U Mumba,5,Jaipur Pink Panthers,3,65,Jaipur Pink Panthers,U Mumba,42
+7,1690,Match 6,League,2019,"Gachibowli Indoor Stadium, Hyderabad",10,24,34,Puneri Paltan,7,Haryana Steelers,28,58,Haryana Steelers,Puneri Paltan,34
+7,1691,Match 7,League,2019,"Gachibowli Indoor Stadium, Hyderabad",31,17,48,U.P. Yoddha,30,Bengal Warriors,4,65,Bengal Warriors,U.P. Yoddha,48
+7,1692,Match 8,League,2019,"Gachibowli Indoor Stadium, Hyderabad",1,33,34,Telugu Titans,8,Dabang Delhi K.C.,2,67,Dabang Delhi K.C.,Telugu Titans,34
+7,1693,Match 9,League,2019,"Gachibowli Indoor Stadium, Hyderabad",1,30,29,Dabang Delhi K.C.,2,Tamil Thalaivas,29,59,Dabang Delhi K.C.,Tamil Thalaivas,30
+7,1694,Match 10,League,2019,"Gachibowli Indoor Stadium, Hyderabad",25,19,44,U.P. Yoddha,30,Gujarat Giants,31,63,Gujarat Giants,U.P. Yoddha,44
+7,1695,Match 11,League,2019,"Gachibowli Indoor Stadium, Hyderabad",12,22,34,Telugu Titans,8,Patna Pirates,6,56,Patna Pirates,Telugu Titans,34
+7,1696,Match 12,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",10,33,23,U Mumba,5,Puneri Paltan,7,56,U Mumba,Puneri Paltan,33
+7,1697,Match 13,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",2,27,25,Jaipur Pink Panthers,3,Bengal Warriors,4,52,Jaipur Pink Panthers,Bengal Warriors,27
+7,1698,Match 14,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",20,41,21,Dabang Delhi K.C.,2,Haryana Steelers,28,62,Dabang Delhi K.C.,Haryana Steelers,41
+7,1699,Match 15,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",4,26,30,U Mumba,5,Bengaluru Bulls,1,56,Bengaluru Bulls,U Mumba,30
+7,1700,Match 16,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",1,23,24,Tamil Thalaivas,29,Patna Pirates,6,47,Patna Pirates,Tamil Thalaivas,24
+7,1701,Match 17,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",20,43,23,Bengal Warriors,4,Puneri Paltan,7,66,Bengal Warriors,Puneri Paltan,43
+7,1702,Match 18,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",16,21,37,Haryana Steelers,28,Jaipur Pink Panthers,3,58,Jaipur Pink Panthers,Haryana Steelers,37
+7,1703,Match 19,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",4,23,27,U Mumba,5,U.P. Yoddha,30,50,U.P. Yoddha,U Mumba,27
+7,1704,Match 20,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",5,31,26,Gujarat Giants,31,Dabang Delhi K.C.,2,57,Gujarat Giants,Dabang Delhi K.C.,31
+7,1705,Match 21,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",0,20,20,Telugu Titans,8,U.P. Yoddha,30,40,tied,tied,20
+7,1706,Match 22,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",12,32,20,U Mumba,5,Gujarat Giants,31,52,U Mumba,Gujarat Giants,32
+7,1707,Match 23,League,2019,"Patliputra Indoor Stadium, Patna",13,21,34,Patna Pirates,6,Jaipur Pink Panthers,3,55,Jaipur Pink Panthers,Patna Pirates,34
+7,1708,Match 24,League,2019,"Patliputra Indoor Stadium, Patna",1,42,43,Bengal Warriors,4,Bengaluru Bulls,1,85,Bengaluru Bulls,Bengal Warriors,43
+7,1709,Match 25,League,2019,"Patliputra Indoor Stadium, Patna",7,28,35,Haryana Steelers,28,Tamil Thalaivas,29,63,Tamil Thalaivas,Haryana Steelers,35
+7,1710,Match 26,League,2019,"Patliputra Indoor Stadium, Patna",21,20,41,Patna Pirates,6,Puneri Paltan,7,61,Puneri Paltan,Patna Pirates,41
+7,1711,Match 27,League,2019,"Patliputra Indoor Stadium, Patna",11,35,24,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3,59,Dabang Delhi K.C.,Jaipur Pink Panthers,35
+7,1712,Match 28,League,2019,"Patliputra Indoor Stadium, Patna",2,31,33,Gujarat Giants,31,Puneri Paltan,7,64,Puneri Paltan,Gujarat Giants,33
+7,1713,Match 29,League,2019,"Patliputra Indoor Stadium, Patna",0,28,28,U.P. Yoddha,30,Tamil Thalaivas,29,56,tied,tied,28
+7,1714,Match 30,League,2019,"Patliputra Indoor Stadium, Patna",9,26,35,Patna Pirates,6,Haryana Steelers,28,61,Haryana Steelers,Patna Pirates,35
+7,1715,Match 31,League,2019,"Patliputra Indoor Stadium, Patna",21,26,47,Telugu Titans,8,Bengaluru Bulls,1,73,Bengaluru Bulls,Telugu Titans,47
+7,1716,Match 32,League,2019,"Patliputra Indoor Stadium, Patna",2,32,30,Bengal Warriors,4,U Mumba,5,62,Bengal Warriors,U Mumba,32
+7,1717,Match 33,League,2019,"Patliputra Indoor Stadium, Patna",21,41,20,Patna Pirates,6,U.P. Yoddha,30,61,Patna Pirates,U.P. Yoddha,41
+7,1718,Match 34,League,2019,"The Arena By Transstadia, Ahmedabad",6,28,34,Gujarat Giants,31,Tamil Thalaivas,29,62,Tamil Thalaivas,Gujarat Giants,34
+7,1719,Match 35,League,2019,"The Arena By Transstadia, Ahmedabad",2,30,32,Puneri Paltan,7,Dabang Delhi K.C.,2,62,Dabang Delhi K.C.,Puneri Paltan,32
+7,1720,Match 36,League,2019,"The Arena By Transstadia, Ahmedabad",3,30,33,Bengaluru Bulls,1,Haryana Steelers,28,63,Haryana Steelers,Bengaluru Bulls,33
+7,1721,Match 37,League,2019,"The Arena By Transstadia, Ahmedabad",6,24,30,Gujarat Giants,31,Telugu Titans,8,54,Telugu Titans,Gujarat Giants,30
+7,1722,Match 38,League,2019,"The Arena By Transstadia, Ahmedabad",0,29,29,Bengal Warriors,4,Telugu Titans,8,58,tied,tied,29
+7,1723,Match 39,League,2019,"The Arena By Transstadia, Ahmedabad",2,35,33,U.P. Yoddha,30,Bengaluru Bulls,1,68,U.P. Yoddha,Bengaluru Bulls,35
+7,1724,Match 40,League,2019,"The Arena By Transstadia, Ahmedabad",3,33,36,U.P. Yoddha,30,Haryana Steelers,28,69,Haryana Steelers,U.P. Yoddha,36
+7,1725,Match 41,League,2019,"The Arena By Transstadia, Ahmedabad",2,26,28,Gujarat Giants,31,Bengal Warriors,4,54,Bengal Warriors,Gujarat Giants,28
+7,1726,Match 42,League,2019,"The Arena By Transstadia, Ahmedabad",8,33,25,Jaipur Pink Panthers,3,Puneri Paltan,7,58,Jaipur Pink Panthers,Puneri Paltan,33
+7,1727,Match 43,League,2019,"The Arena By Transstadia, Ahmedabad",4,34,30,U Mumba,5,Patna Pirates,6,64,U Mumba,Patna Pirates,34
+7,1728,Match 44,League,2019,"The Arena By Transstadia, Ahmedabad",3,19,22,Gujarat Giants,31,Jaipur Pink Panthers,3,41,Jaipur Pink Panthers,Gujarat Giants,22
+7,1729,Match 45,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",11,21,32,Tamil Thalaivas,29,Bengaluru Bulls,1,53,Bengaluru Bulls,Tamil Thalaivas,32
+7,1730,Match 46,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",0,30,30,Bengal Warriors,4,Dabang Delhi K.C.,2,60,tied,tied,30
+7,1731,Match 47,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",11,29,40,Haryana Steelers,28,Telugu Titans,8,69,Telugu Titans,Haryana Steelers,40
+7,1732,Match 48,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",0,31,31,Tamil Thalaivas,29,Puneri Paltan,7,62,tied,tied,31
+7,1733,Match 49,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",3,27,30,U Mumba,5,Haryana Steelers,28,57,Haryana Steelers,U Mumba,30
+7,1734,Match 50,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",7,31,24,U.P. Yoddha,30,Jaipur Pink Panthers,3,55,U.P. Yoddha,Jaipur Pink Panthers,31
+7,1735,Match 51,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",8,31,23,Puneri Paltan,7,Bengaluru Bulls,1,54,Puneri Paltan,Bengaluru Bulls,31
+7,1736,Match 52,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",2,26,28,Tamil Thalaivas,29,Jaipur Pink Panthers,3,54,Jaipur Pink Panthers,Tamil Thalaivas,28
+7,1737,Match 53,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",9,35,26,Bengal Warriors,4,Patna Pirates,6,61,Bengal Warriors,Patna Pirates,35
+7,1738,Match 54,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",3,29,26,Gujarat Giants,31,Patna Pirates,6,55,Gujarat Giants,Patna Pirates,29
+7,1739,Match 55,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",5,24,29,Tamil Thalaivas,29,U Mumba,5,53,U Mumba,Tamil Thalaivas,29
+7,1740,Match 56,League,2019,"Thyagaraj Indoor Stadium, Delhi",2,33,31,Dabang Delhi K.C.,2,Bengaluru Bulls,1,64,Dabang Delhi K.C.,Bengaluru Bulls,33
+7,1741,Match 57,League,2019,"Thyagaraj Indoor Stadium, Delhi",3,21,24,Jaipur Pink Panthers,3,Telugu Titans,8,45,Telugu Titans,Jaipur Pink Panthers,24
+7,1742,Match 58,League,2019,"Thyagaraj Indoor Stadium, Delhi",11,30,41,Jaipur Pink Panthers,3,Bengaluru Bulls,1,71,Bengaluru Bulls,Jaipur Pink Panthers,41
+7,1743,Match 59,League,2019,"Thyagaraj Indoor Stadium, Delhi",9,36,27,Dabang Delhi K.C.,2,U.P. Yoddha,30,63,Dabang Delhi K.C.,U.P. Yoddha,36
+7,1744,Match 60,League,2019,"Thyagaraj Indoor Stadium, Delhi",3,33,36,Bengal Warriors,4,Haryana Steelers,28,69,Haryana Steelers,Bengal Warriors,36
+7,1745,Match 61,League,2019,"Thyagaraj Indoor Stadium, Delhi",5,35,30,U.P. Yoddha,30,Puneri Paltan,7,65,U.P. Yoddha,Puneri Paltan,35
+7,1746,Match 62,League,2019,"Thyagaraj Indoor Stadium, Delhi",16,25,41,Gujarat Giants,31,Haryana Steelers,28,66,Haryana Steelers,Gujarat Giants,41
+7,1747,Match 63,League,2019,"Thyagaraj Indoor Stadium, Delhi",16,40,24,Dabang Delhi K.C.,2,U Mumba,5,64,Dabang Delhi K.C.,U Mumba,40
+7,1748,Match 64,League,2019,"Thyagaraj Indoor Stadium, Delhi",9,35,26,Bengal Warriors,4,Tamil Thalaivas,29,61,Bengal Warriors,Tamil Thalaivas,35
+7,1749,Match 65,League,2019,"Thyagaraj Indoor Stadium, Delhi",7,27,34,Telugu Titans,8,Puneri Paltan,7,61,Puneri Paltan,Telugu Titans,34
+7,1750,Match 66,League,2019,"Thyagaraj Indoor Stadium, Delhi",3,38,35,Dabang Delhi K.C.,2,Patna Pirates,6,73,Dabang Delhi K.C.,Patna Pirates,38
+7,1751,Match 67,League,2019,"Kanteerava Indoor Stadium, Bengaluru",9,23,32,Bengaluru Bulls,1,Gujarat Giants,31,55,Gujarat Giants,Bengaluru Bulls,32
+7,1752,Match 68,League,2019,"Kanteerava Indoor Stadium, Bengaluru",26,47,21,U Mumba,5,Jaipur Pink Panthers,3,68,U Mumba,Jaipur Pink Panthers,47
+7,1753,Match 69,League,2019,"Kanteerava Indoor Stadium, Bengaluru",3,32,29,U.P. Yoddha,30,Bengal Warriors,4,61,U.P. Yoddha,Bengal Warriors,32
+7,1754,Match 70,League,2019,"Kanteerava Indoor Stadium, Bengaluru",6,33,27,Bengaluru Bulls,1,Tamil Thalaivas,29,60,Bengaluru Bulls,Tamil Thalaivas,33
+7,1755,Match 71,League,2019,"Kanteerava Indoor Stadium, Bengaluru",14,27,41,Puneri Paltan,7,Haryana Steelers,28,68,Haryana Steelers,Puneri Paltan,41
+7,1756,Match 72,League,2019,"Kanteerava Indoor Stadium, Bengaluru",5,35,30,Telugu Titans,8,Tamil Thalaivas,29,65,Telugu Titans,Tamil Thalaivas,35
+7,1757,Match 73,League,2019,"Kanteerava Indoor Stadium, Bengaluru",2,44,46,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,90,Dabang Delhi K.C.,Jaipur Pink Panthers,46
+7,1758,Match 74,League,2019,"Kanteerava Indoor Stadium, Bengaluru",1,40,39,Bengaluru Bulls,1,Patna Pirates,6,79,Bengaluru Bulls,Patna Pirates,40
+7,1759,Match 75,League,2019,"Kanteerava Indoor Stadium, Bengaluru",0,33,33,Puneri Paltan,7,U Mumba,5,66,tied,tied,33
+7,1760,Match 76,League,2019,"Kanteerava Indoor Stadium, Bengaluru",12,29,41,Patna Pirates,6,U.P. Yoddha,30,70,U.P. Yoddha,Patna Pirates,41
+7,1761,Match 77,League,2019,"Kanteerava Indoor Stadium, Bengaluru",1,40,39,Bengaluru Bulls,1,Telugu Titans,8,79,Bengaluru Bulls,Telugu Titans,40
+7,1762,Match 78,League,2019,"Netaji Indoor Stadium, Kolkata",0,25,25,Bengal Warriors,4,Gujarat Giants,31,50,tied,tied,25
+7,1763,Match 79,League,2019,"Netaji Indoor Stadium, Kolkata",22,25,47,Dabang Delhi K.C.,2,Haryana Steelers,28,72,Haryana Steelers,Dabang Delhi K.C.,47
+7,1764,Match 80,League,2019,"Netaji Indoor Stadium, Kolkata",16,50,34,Dabang Delhi K.C.,2,Tamil Thalaivas,29,84,Dabang Delhi K.C.,Tamil Thalaivas,50
+7,1765,Match 81,League,2019,"Netaji Indoor Stadium, Kolkata",3,42,39,Bengal Warriors,4,Puneri Paltan,7,81,Bengal Warriors,Puneri Paltan,42
+7,1766,Match 82,League,2019,"Netaji Indoor Stadium, Kolkata",7,33,26,U.P. Yoddha,30,Gujarat Giants,31,59,U.P. Yoddha,Gujarat Giants,33
+7,1767,Match 83,League,2019,"Netaji Indoor Stadium, Kolkata",26,25,51,Tamil Thalaivas,29,Patna Pirates,6,76,Patna Pirates,Tamil Thalaivas,51
+7,1768,Match 85,League,2019,"Netaji Indoor Stadium, Kolkata",0,32,32,Haryana Steelers,28,Jaipur Pink Panthers,3,64,tied,tied,32
+7,1769,Match 86,League,2019,"Netaji Indoor Stadium, Kolkata",3,29,26,Bengal Warriors,4,U Mumba,5,55,Bengal Warriors,U Mumba,29
+7,1770,Match 87,League,2019,"Netaji Indoor Stadium, Kolkata",3,33,36,Jaipur Pink Panthers,3,Patna Pirates,6,69,Patna Pirates,Jaipur Pink Panthers,36
+7,1771,Match 84,League,2019,"Netaji Indoor Stadium, Kolkata",14,27,41,Telugu Titans,8,U Mumba,5,68,U Mumba,Telugu Titans,41
+7,1772,Match 88,League,2019,"Netaji Indoor Stadium, Kolkata",2,42,40,Bengal Warriors,4,Bengaluru Bulls,1,82,Bengal Warriors,Bengaluru Bulls,42
+7,1773,Match 89,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",10,43,33,Puneri Paltan,7,Gujarat Giants,31,76,Puneri Paltan,Gujarat Giants,43
+7,1774,Match 90,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",8,35,43,Tamil Thalaivas,29,Haryana Steelers,28,78,Haryana Steelers,Tamil Thalaivas,43
+7,1775,Match 91,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",4,34,30,Dabang Delhi K.C.,2,Gujarat Giants,31,64,Dabang Delhi K.C.,Gujarat Giants,34
+7,1776,Match 92,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",22,33,55,Puneri Paltan,7,Patna Pirates,6,88,Patna Pirates,Puneri Paltan,55
+7,1777,Match 93,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",6,32,38,Jaipur Pink Panthers,3,U.P. Yoddha,30,70,U.P. Yoddha,Jaipur Pink Panthers,38
+7,1778,Match 94,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",8,29,37,Telugu Titans,8,Dabang Delhi K.C.,2,66,Dabang Delhi K.C.,Telugu Titans,37
+7,1779,Match 95,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",3,39,36,U Mumba,5,U.P. Yoddha,30,75,U Mumba,U.P. Yoddha,39
+7,1780,Match 96,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",0,36,36,Puneri Paltan,7,Tamil Thalaivas,29,72,tied,tied,36
+7,1781,Match 97,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",12,48,36,Bengal Warriors,4,Haryana Steelers,28,84,Bengal Warriors,Haryana Steelers,48
+7,1782,Match 98,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",0,42,42,Telugu Titans,8,Patna Pirates,6,84,tied,tied,42
+7,1783,Match 99,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",4,42,38,Puneri Paltan,7,Bengaluru Bulls,1,80,Puneri Paltan,Bengaluru Bulls,42
+7,1784,Match 100,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",0,28,28,Jaipur Pink Panthers,3,Gujarat Giants,31,56,tied,tied,28
+7,1785,Match 101,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",20,42,22,U.P. Yoddha,30,Tamil Thalaivas,29,64,U.P. Yoddha,Tamil Thalaivas,42
+7,1786,Match 102,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",6,31,25,U Mumba,5,Gujarat Giants,31,56,U Mumba,Gujarat Giants,31
+7,1787,Match 103,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",1,40,41,Jaipur Pink Panthers,3,Bengal Warriors,4,81,Bengal Warriors,Jaipur Pink Panthers,41
+7,1788,Match 104,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",5,34,39,Patna Pirates,6,Haryana Steelers,28,73,Haryana Steelers,Patna Pirates,39
+7,1789,Match 105,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",0,39,39,Dabang Delhi K.C.,2,Bengaluru Bulls,1,78,tied,tied,39
+7,1790,Match 106,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",1,39,40,Telugu Titans,8,Bengal Warriors,4,79,Bengal Warriors,Telugu Titans,40
+7,1791,Match 107,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",9,43,34,Jaipur Pink Panthers,3,Puneri Paltan,7,77,Jaipur Pink Panthers,Puneri Paltan,43
+7,1792,Match 108,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",4,39,43,Patna Pirates,6,Dabang Delhi K.C.,2,82,Dabang Delhi K.C.,Patna Pirates,43
+7,1793,Match 109,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",2,33,35,U Mumba,5,Bengaluru Bulls,1,68,Bengaluru Bulls,U Mumba,35
+7,1794,Match 110,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",20,31,51,Jaipur Pink Panthers,3,Telugu Titans,8,82,Telugu Titans,Jaipur Pink Panthers,51
+7,1795,Match 111,League,2019,"Tau Devilal Sports Complex, Panchkula",7,30,37,Haryana Steelers,28,U.P. Yoddha,30,67,U.P. Yoddha,Haryana Steelers,37
+7,1796,Match 112,League,2019,"Tau Devilal Sports Complex, Panchkula",29,50,21,Gujarat Giants,31,Tamil Thalaivas,29,71,Gujarat Giants,Tamil Thalaivas,50
+7,1797,Match 113,League,2019,"Tau Devilal Sports Complex, Panchkula",20,40,60,Puneri Paltan,7,Dabang Delhi K.C.,2,100,Dabang Delhi K.C.,Puneri Paltan,60
+7,1798,Match 114,League,2019,"Tau Devilal Sports Complex, Panchkula",1,38,37,Haryana Steelers,28,Gujarat Giants,31,75,Haryana Steelers,Gujarat Giants,38
+7,1799,Match 115,League,2019,"Tau Devilal Sports Complex, Panchkula",9,42,33,Bengal Warriors,4,Dabang Delhi K.C.,2,75,Bengal Warriors,Dabang Delhi K.C.,42
+7,1800,Match 116,League,2019,"Tau Devilal Sports Complex, Panchkula",4,32,36,Tamil Thalaivas,29,U Mumba,5,68,U Mumba,Tamil Thalaivas,36
+7,1801,Match 117,League,2019,"Tau Devilal Sports Complex, Panchkula",4,30,26,U Mumba,5,Patna Pirates,6,56,U Mumba,Patna Pirates,30
+7,1802,Match 118,League,2019,"Tau Devilal Sports Complex, Panchkula",23,36,59,Haryana Steelers,28,Bengaluru Bulls,1,95,Bengaluru Bulls,Haryana Steelers,59
+7,1803,Match 119,League,2019,"Tau Devilal Sports Complex, Panchkula",3,50,53,Telugu Titans,8,Puneri Paltan,7,103,Puneri Paltan,Telugu Titans,53
+7,1804,Match 120,League,2019,"Tau Devilal Sports Complex, Panchkula",7,41,34,Jaipur Pink Panthers,3,Bengaluru Bulls,1,75,Jaipur Pink Panthers,Bengaluru Bulls,41
+7,1805,Match 121,League,2019,"Tau Devilal Sports Complex, Panchkula",20,52,32,Haryana Steelers,28,Telugu Titans,8,84,Haryana Steelers,Telugu Titans,52
+7,1806,Match 122,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",17,50,33,U.P. Yoddha,30,Dabang Delhi K.C.,2,83,U.P. Yoddha,Dabang Delhi K.C.,50
+7,1807,Match 123,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6,33,39,Gujarat Giants,31,Patna Pirates,6,72,Patna Pirates,Gujarat Giants,39
+7,1808,Match 124,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",28,41,69,Bengal Warriors,4,Patna Pirates,6,110,Patna Pirates,Bengal Warriors,69
+7,1809,Match 125,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4,43,39,U.P. Yoddha,30,Puneri Paltan,7,82,U.P. Yoddha,Puneri Paltan,43
+7,1810,Match 126,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",10,38,48,Telugu Titans,8,Gujarat Giants,31,86,Gujarat Giants,Telugu Titans,48
+7,1811,Match 127,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",2,35,33,Tamil Thalaivas,29,Jaipur Pink Panthers,3,68,Tamil Thalaivas,Jaipur Pink Panthers,35
+7,1812,Match 128,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",4,33,29,Bengal Warriors,4,Tamil Thalaivas,29,62,Bengal Warriors,Tamil Thalaivas,33
+7,1813,Match 129,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",5,36,41,U.P. Yoddha,30,Telugu Titans,8,77,Telugu Titans,U.P. Yoddha,41
+7,1814,Match 130,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",6,39,33,U Mumba,5,Haryana Steelers,28,72,U Mumba,Haryana Steelers,39
+7,1815,Match 131,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",0,37,37,Dabang Delhi K.C.,2,U Mumba,5,74,tied,tied,37
+7,1816,Match 132,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",12,45,33,U.P. Yoddha,30,Bengaluru Bulls,1,78,U.P. Yoddha,Bengaluru Bulls,45
+7,1817,Match 133,Playoffs,2019,"The Arena By Transstadia, Ahmedabad",3,45,48,U.P. Yoddha,30,Bengaluru Bulls,1,93,Bengaluru Bulls,U.P. Yoddha,48
+7,1818,Match 134,Playoffs,2019,"The Arena By Transstadia, Ahmedabad",8,46,38,U Mumba,5,Haryana Steelers,28,84,U Mumba,Haryana Steelers,46
+7,1819,Match 135,Semi Final,2019,"The Arena By Transstadia, Ahmedabad",6,44,38,Dabang Delhi K.C.,2,Bengaluru Bulls,1,82,Dabang Delhi K.C.,Bengaluru Bulls,44
+7,1820,Match 136,Semi Final,2019,"The Arena By Transstadia, Ahmedabad",2,37,35,Bengal Warriors,4,U Mumba,5,72,Bengal Warriors,U Mumba,37
+7,1821,Match 137,Final,2019,"The Arena By Transstadia, Ahmedabad",5,34,39,Dabang Delhi K.C.,2,Bengal Warriors,4,73,Bengal Warriors,Dabang Delhi K.C.,39
+8,2700,Match 1,League,2021,"Sheraton Grand, Whitefield, Bengaluru",16,30,46,Bengaluru Bulls,1,U Mumba,5,76,U Mumba,Bengaluru Bulls,46
+8,2701,Match 2,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,40,40,Telugu Titans,8,Tamil Thalaivas,29,80,tied,tied,40
+8,2702,Match 3,League,2021,"Sheraton Grand, Whitefield, Bengaluru",5,38,33,Bengal Warriors,4,U.P. Yoddhas,30,71,Bengal Warriors,U.P. Yoddhas,38
+8,2703,Match 4,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,34,27,Gujarat Giants,31,Jaipur Pink Panthers,3,61,Gujarat Giants,Jaipur Pink Panthers,34
+8,2704,Match 5,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,41,30,Dabang Delhi K.C.,2,Puneri Paltan,7,71,Dabang Delhi K.C.,Puneri Paltan,41
+8,2705,Match 6,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,39,42,Haryana Steelers,28,Patna Pirates,6,81,Patna Pirates,Haryana Steelers,42
+8,2706,Match 7,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,22,31,U Mumba,5,Dabang Delhi K.C.,2,53,Dabang Delhi K.C.,U Mumba,31
+8,2707,Match 8,League,2021,"Sheraton Grand, Whitefield, Bengaluru",8,30,38,Tamil Thalaivas,29,Bengaluru Bulls,1,68,Bengaluru Bulls,Tamil Thalaivas,38
+8,2708,Match 9,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,31,28,Bengal Warriors,4,Gujarat Giants,31,59,Bengal Warriors,Gujarat Giants,31
+8,2709,Match 10,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,35,36,Patna Pirates,6,U.P. Yoddhas,30,71,U.P. Yoddhas,Patna Pirates,36
+8,2710,Match 11,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,34,33,Puneri Paltan,7,Telugu Titans,8,67,Puneri Paltan,Telugu Titans,34
+8,2711,Match 12,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,40,38,Jaipur Pink Panthers,3,Haryana Steelers,28,78,Jaipur Pink Panthers,Haryana Steelers,40
+8,2712,Match 13,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,24,24,Gujarat Giants,31,Dabang Delhi K.C.,2,48,tied,tied,24
+8,2713,Match 14,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,36,35,Bengaluru Bulls,1,Bengal Warriors,4,71,Bengaluru Bulls,Bengal Warriors,36
+8,2714,Match 15,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,28,29,Tamil Thalaivas,29,U Mumba,5,57,U Mumba,Tamil Thalaivas,29
+8,2715,Match 16,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,29,32,U.P. Yoddhas,30,Jaipur Pink Panthers,3,61,Jaipur Pink Panthers,U.P. Yoddhas,32
+8,2716,Match 17,League,2021,"Sheraton Grand, Whitefield, Bengaluru",12,26,38,Puneri Paltan,7,Patna Pirates,6,64,Patna Pirates,Puneri Paltan,38
+8,2717,Match 18,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,37,39,Telugu Titans,8,Haryana Steelers,28,76,Haryana Steelers,Telugu Titans,39
+8,2718,Match 19,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,52,35,Dabang Delhi K.C.,2,Bengal Warriors,4,87,Dabang Delhi K.C.,Bengal Warriors,52
+8,2719,Match 20,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,32,32,U.P. Yoddhas,30,Gujarat Giants,31,64,tied,tied,32
+8,2720,Match 21,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,28,37,Jaipur Pink Panthers,3,U Mumba,5,65,U Mumba,Jaipur Pink Panthers,37
+8,2721,Match 22,League,2021,"Sheraton Grand, Whitefield, Bengaluru",14,28,42,Haryana Steelers,28,Bengaluru Bulls,1,70,Bengaluru Bulls,Haryana Steelers,42
+8,2722,Match 23,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,36,26,Tamil Thalaivas,29,Puneri Paltan,7,62,Tamil Thalaivas,Puneri Paltan,36
+8,2723,Match 24,League,2021,"Sheraton Grand, Whitefield, Bengaluru",14,44,30,Patna Pirates,6,Bengal Warriors,4,74,Patna Pirates,Bengal Warriors,44
+8,2724,Match 25,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,27,25,U Mumba,5,U.P. Yoddhas,30,52,U Mumba,U.P. Yoddhas,27
+8,2725,Match 26,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,34,34,Bengaluru Bulls,1,Telugu Titans,8,68,tied,tied,34
+8,2726,Match 27,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,30,30,Dabang Delhi K.C.,2,Tamil Thalaivas,29,60,tied,tied,30
+8,2727,Match 28,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,36,38,Gujarat Giants,31,Haryana Steelers,28,74,Haryana Steelers,Gujarat Giants,38
+8,2728,Match 29,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,29,40,Puneri Paltan,7,Bengaluru Bulls,1,69,Bengaluru Bulls,Puneri Paltan,40
+8,2729,Match 30,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,31,28,Bengal Warriors,4,Jaipur Pink Panthers,3,59,Bengal Warriors,Jaipur Pink Panthers,31
+8,2730,Match 31,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,30,31,Telugu Titans,8,Patna Pirates,6,61,Patna Pirates,Telugu Titans,31
+8,2731,Match 32,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,24,24,Haryana Steelers,28,U Mumba,5,48,tied,tied,24
+8,2732,Match 33,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,33,39,U.P. Yoddhas,30,Tamil Thalaivas,29,72,Tamil Thalaivas,U.P. Yoddhas,39
+8,2733,Match 34,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,33,26,Puneri Paltan,7,Gujarat Giants,31,59,Puneri Paltan,Gujarat Giants,33
+8,2734,Match 35,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,36,35,Dabang Delhi K.C.,2,Telugu Titans,8,71,Dabang Delhi K.C.,Telugu Titans,36
+8,2735,Match 36,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,30,30,Patna Pirates,6,Tamil Thalaivas,29,60,tied,tied,30
+8,2736,Match 37,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,38,31,Bengaluru Bulls,1,Jaipur Pink Panthers,3,69,Bengaluru Bulls,Jaipur Pink Panthers,38
+8,2737,Match 38,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,37,41,Bengal Warriors,4,Haryana Steelers,28,78,Haryana Steelers,Bengal Warriors,41
+8,2738,Match 39,League,2021,"Sheraton Grand, Whitefield, Bengaluru",5,31,26,Jaipur Pink Panthers,3,Puneri Paltan,7,57,Jaipur Pink Panthers,Puneri Paltan,31
+8,2739,Match 40,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,33,37,U.P. Yoddhas,30,Dabang Delhi K.C.,2,70,Dabang Delhi K.C.,U.P. Yoddhas,37
+8,2740,Match 41,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,48,38,U Mumba,5,Telugu Titans,8,86,U Mumba,Telugu Titans,48
+8,2741,Match 42,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,26,27,Gujarat Giants,31,Patna Pirates,6,53,Patna Pirates,Gujarat Giants,27
+8,2742,Match 43,League,2021,"Sheraton Grand, Whitefield, Bengaluru",12,39,27,Puneri Paltan,7,Bengal Warriors,4,66,Puneri Paltan,Bengal Warriors,39
+8,2743,Match 44,League,2021,"Sheraton Grand, Whitefield, Bengaluru",15,27,42,Bengaluru Bulls,1,U.P. Yoddhas,30,69,U.P. Yoddhas,Bengaluru Bulls,42
+8,2744,Match 45,League,2021,"Sheraton Grand, Whitefield, Bengaluru",19,45,26,Tamil Thalaivas,29,Haryana Steelers,28,71,Tamil Thalaivas,Haryana Steelers,45
+8,2745,Match 46,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,30,28,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,58,Jaipur Pink Panthers,Dabang Delhi K.C.,30
+8,2746,Match 47,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,40,23,Patna Pirates,6,U Mumba,5,63,Patna Pirates,U Mumba,40
+8,2747,Match 48,League,2021,"Sheraton Grand, Whitefield, Bengaluru",18,22,40,Telugu Titans,8,Gujarat Giants,31,62,Gujarat Giants,Telugu Titans,40
+8,2748,Match 49,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,36,36,Haryana Steelers,28,U.P. Yoddhas,30,72,tied,tied,36
+8,2749,Match 50,League,2021,"Sheraton Grand, Whitefield, Bengaluru",39,22,61,Dabang Delhi K.C.,2,Bengaluru Bulls,1,83,Bengaluru Bulls,Dabang Delhi K.C.,61
+8,2750,Match 51,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,37,28,Bengal Warriors,4,Tamil Thalaivas,29,65,Bengal Warriors,Tamil Thalaivas,37
+8,2751,Match 52,League,2021,"Sheraton Grand, Whitefield, Bengaluru",19,21,40,U Mumba,5,Puneri Paltan,7,61,Puneri Paltan,U Mumba,40
+8,2752,Match 53,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,38,28,Jaipur Pink Panthers,3,Patna Pirates,6,66,Jaipur Pink Panthers,Patna Pirates,38
+8,2753,Match 54,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,37,46,Gujarat Giants,31,Bengaluru Bulls,1,83,Bengaluru Bulls,Gujarat Giants,46
+8,2754,Match 55,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,25,28,Haryana Steelers,28,Dabang Delhi K.C.,2,53,Dabang Delhi K.C.,Haryana Steelers,28
+8,2755,Match 56,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,39,33,U.P. Yoddhas,30,Telugu Titans,8,72,U.P. Yoddhas,Telugu Titans,39
+8,2756,Match 57,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,31,32,U Mumba,5,Bengal Warriors,4,63,Bengal Warriors,U Mumba,32
+8,2757,Match 58,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,31,31,Tamil Thalaivas,29,Jaipur Pink Panthers,3,62,tied,tied,31
+8,2758,Match 59,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,38,31,Patna Pirates,6,Bengaluru Bulls,1,69,Patna Pirates,Bengaluru Bulls,38
+8,2759,Match 60,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,40,50,Puneri Paltan,7,U.P. Yoddhas,30,90,U.P. Yoddhas,Puneri Paltan,50
+8,2760,Match 61,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,27,28,Telugu Titans,8,Bengal Warriors,4,55,Bengal Warriors,Telugu Titans,28
+8,2761,Match 62,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,32,29,Dabang Delhi K.C.,2,Patna Pirates,6,61,Dabang Delhi K.C.,Patna Pirates,32
+8,2762,Match 63,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,24,24,Gujarat Giants,31,U Mumba,5,48,tied,tied,24
+8,2763,Match 64,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,37,30,Haryana Steelers,28,Puneri Paltan,7,67,Haryana Steelers,Puneri Paltan,37
+8,2764,Match 65,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,34,35,Jaipur Pink Panthers,3,Telugu Titans,8,69,Telugu Titans,Jaipur Pink Panthers,35
+8,2765,Match 66,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,35,37,Tamil Thalaivas,29,Gujarat Giants,31,72,Gujarat Giants,Tamil Thalaivas,37
+8,2821,Match 67,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,39,40,Bengaluru Bulls,1,Bengal Warriors,4,79,Bengal Warriors,Bengaluru Bulls,40
+8,2789,Match 68,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,33,36,Dabang Delhi K.C.,2,Haryana Steelers,28,69,Haryana Steelers,Dabang Delhi K.C.,36
+8,2790,Match 69,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,36,40,Bengal Warriors,4,U.P. Yoddhas,30,76,U.P. Yoddhas,Bengal Warriors,40
+8,2822,Match 70,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,35,37,Bengaluru Bulls,1,Puneri Paltan,7,72,Puneri Paltan,Bengaluru Bulls,37
+8,2792,Match 71,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,42,35,U Mumba,5,Telugu Titans,8,77,U Mumba,Telugu Titans,42
+8,2793,Match 72,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,34,34,Jaipur Pink Panthers,3,Tamil Thalaivas,29,68,tied,tied,34
+8,2794,Match 73,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,35,36,U.P. Yoddhas,30,Haryana Steelers,28,71,Haryana Steelers,U.P. Yoddhas,36
+8,2823,Match 74,League,2021,"Sheraton Grand, Whitefield, Bengaluru",5,31,36,Telugu Titans,8,Bengaluru Bulls,1,67,Bengaluru Bulls,Telugu Titans,36
+8,2796,Match 75,League,2021,"Sheraton Grand, Whitefield, Bengaluru",19,41,22,Bengal Warriors,4,Jaipur Pink Panthers,3,63,Bengal Warriors,Jaipur Pink Panthers,41
+8,2797,Match 76,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,42,25,Puneri Paltan,7,Dabang Delhi K.C.,2,67,Puneri Paltan,Dabang Delhi K.C.,42
+8,2824,Match 77,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,39,39,Haryana Steelers,28,Telugu Titans,8,78,tied,tied,39
+8,2825,Match 78,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,45,34,U Mumba,5,Bengaluru Bulls,1,79,U Mumba,Bengaluru Bulls,45
+8,2826,Match 79,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,38,44,U.P. Yoddhas,30,Puneri Paltan,7,82,Puneri Paltan,U.P. Yoddhas,44
+8,2804,Match 80,League,2021,"Sheraton Grand, Whitefield, Bengaluru",28,52,24,Patna Pirates,6,Tamil Thalaivas,29,76,Patna Pirates,Tamil Thalaivas,52
+8,2827,Match 81,League,2021,"Sheraton Grand, Whitefield, Bengaluru",19,22,41,Gujarat Giants,31,Dabang Delhi K.C.,2,63,Dabang Delhi K.C.,Gujarat Giants,41
+8,2829,Match 82,League,2021,"Sheraton Grand, Whitefield, Bengaluru",21,30,51,Patna Pirates,6,Jaipur Pink Panthers,3,81,Jaipur Pink Panthers,Patna Pirates,51
+8,2830,Match 83,League,2021,"Sheraton Grand, Whitefield, Bengaluru",18,42,24,Tamil Thalaivas,29,Bengaluru Bulls,1,66,Tamil Thalaivas,Bengaluru Bulls,42
+8,2831,Match 84,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,26,32,Haryana Steelers,28,Gujarat Giants,31,58,Gujarat Giants,Haryana Steelers,32
+8,2832,Match 85,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,35,24,Dabang Delhi K.C.,2,U Mumba,5,59,Dabang Delhi K.C.,U Mumba,35
+8,2833,Match 86,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,25,34,Bengal Warriors,4,Gujarat Giants,31,59,Gujarat Giants,Bengal Warriors,34
+8,2834,Match 87,League,2021,"Sheraton Grand, Whitefield, Bengaluru",5,31,26,Bengaluru Bulls,1,U.P. Yoddhas,30,57,Bengaluru Bulls,U.P. Yoddhas,31
+8,2835,Match 88,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,35,37,U.P. Yoddhas,30,Patna Pirates,6,72,Patna Pirates,U.P. Yoddhas,37
+8,2836,Match 89,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,35,34,Puneri Paltan,7,U Mumba,5,69,Puneri Paltan,U Mumba,35
+8,2837,Match 90,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,36,30,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,66,Jaipur Pink Panthers,Dabang Delhi K.C.,36
+8,2838,Match 91,League,2021,"Sheraton Grand, Whitefield, Bengaluru",18,25,43,Telugu Titans,8,Tamil Thalaivas,29,68,Tamil Thalaivas,Telugu Titans,43
+8,2839,Match 92,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,46,29,Haryana Steelers,28,Bengal Warriors,4,75,Haryana Steelers,Bengal Warriors,46
+8,2840,Match 93,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,36,36,Dabang Delhi K.C.,2,Bengaluru Bulls,1,72,tied,tied,36
+8,2841,Match 94,League,2021,"Sheraton Grand, Whitefield, Bengaluru",20,23,43,Gujarat Giants,31,Patna Pirates,6,66,Patna Pirates,Gujarat Giants,43
+8,2842,Match 95,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,34,30,U Mumba,5,Tamil Thalaivas,29,64,U Mumba,Tamil Thalaivas,34
+8,2843,Match 96,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,39,35,U.P. Yoddhas,30,Telugu Titans,8,74,U.P. Yoddhas,Telugu Titans,39
+8,2848,Match 97,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,28,35,Jaipur Pink Panthers,3,Haryana Steelers,28,63,Haryana Steelers,Jaipur Pink Panthers,35
+8,2845,Match 98,League,2021,"Sheraton Grand, Whitefield, Bengaluru",9,38,29,Patna Pirates,6,Bengal Warriors,4,67,Patna Pirates,Bengal Warriors,38
+8,2846,Match 99,League,2021,"Sheraton Grand, Whitefield, Bengaluru",4,36,40,Bengaluru Bulls,1,Gujarat Giants,31,76,Gujarat Giants,Bengaluru Bulls,40
+8,2850,Match 100,League,2021,"Sheraton Grand, Whitefield, Bengaluru",5,31,36,Gujarat Giants,31,Jaipur Pink Panthers,3,67,Jaipur Pink Panthers,Gujarat Giants,36
+8,2851,Match 101,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,32,32,Bengal Warriors,4,Telugu Titans,8,64,tied,tied,32
+8,2852,Match 102,League,2021,"Sheraton Grand, Whitefield, Bengaluru",8,29,37,Tamil Thalaivas,29,Haryana Steelers,28,66,Haryana Steelers,Tamil Thalaivas,37
+8,2853,Match 103,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,34,45,U Mumba,5,Patna Pirates,6,79,Patna Pirates,U Mumba,45
+8,2854,Match 104,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,39,41,Tamil Thalaivas,29,U.P. Yoddhas,30,80,U.P. Yoddhas,Tamil Thalaivas,41
+8,2855,Match 105,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,32,34,Telugu Titans,8,Gujarat Giants,31,66,Gujarat Giants,Telugu Titans,34
+8,2856,Match 106,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,39,39,Bengal Warriors,4,Dabang Delhi K.C.,2,78,tied,tied,39
+8,2857,Match 107,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,26,43,Puneri Paltan,7,Patna Pirates,6,69,Patna Pirates,Puneri Paltan,43
+8,2858,Match 108,League,2021,"Sheraton Grand, Whitefield, Bengaluru",18,27,45,Haryana Steelers,28,Puneri Paltan,7,72,Puneri Paltan,Haryana Steelers,45
+8,2867,Match 109,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,34,41,Jaipur Pink Panthers,3,U.P. Yoddhas,30,75,U.P. Yoddhas,Jaipur Pink Panthers,41
+8,2861,Match 110,League,2021,"Sheraton Grand, Whitefield, Bengaluru",1,31,32,Tamil Thalaivas,29,Dabang Delhi K.C.,2,63,Dabang Delhi K.C.,Tamil Thalaivas,32
+8,2862,Match 111,League,2021,"Sheraton Grand, Whitefield, Bengaluru",11,36,25,U Mumba,5,Bengal Warriors,4,61,U Mumba,Bengal Warriors,36
+8,2863,Match 112,League,2021,"Sheraton Grand, Whitefield, Bengaluru",20,31,51,Telugu Titans,8,Puneri Paltan,7,82,Puneri Paltan,Telugu Titans,51
+8,2864,Match 113,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,34,24,Haryana Steelers,28,U Mumba,5,58,Haryana Steelers,U Mumba,34
+8,2868,Match 114,League,2021,"Sheraton Grand, Whitefield, Bengaluru",8,45,37,Bengaluru Bulls,1,Jaipur Pink Panthers,3,82,Bengaluru Bulls,Jaipur Pink Panthers,45
+8,2869,Match 115,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,31,38,U.P. Yoddhas,30,Gujarat Giants,31,69,Gujarat Giants,U.P. Yoddhas,38
+8,2870,Match 116,League,2021,"Sheraton Grand, Whitefield, Bengaluru",8,38,30,Patna Pirates,6,Telugu Titans,8,68,Patna Pirates,Telugu Titans,38
+8,2871,Match 117,League,2021,"Sheraton Grand, Whitefield, Bengaluru",16,28,44,Dabang Delhi K.C.,2,U.P. Yoddhas,30,72,U.P. Yoddhas,Dabang Delhi K.C.,44
+8,2872,Match 118,League,2021,"Sheraton Grand, Whitefield, Bengaluru",0,31,31,Gujarat Giants,31,Puneri Paltan,7,62,tied,tied,31
+8,2873,Match 119,League,2021,"Sheraton Grand, Whitefield, Bengaluru",17,24,41,U Mumba,5,Jaipur Pink Panthers,3,65,Jaipur Pink Panthers,U Mumba,41
+8,2874,Match 120,League,2021,"Sheraton Grand, Whitefield, Bengaluru",2,36,34,Patna Pirates,6,Bengaluru Bulls,1,70,Patna Pirates,Bengaluru Bulls,36
+8,2875,Match 121,League,2021,"Sheraton Grand, Whitefield, Bengaluru",12,43,31,Puneri Paltan,7,Tamil Thalaivas,29,74,Puneri Paltan,Tamil Thalaivas,43
+8,2876,Match 122,League,2021,"Sheraton Grand, Whitefield, Bengaluru",31,52,21,Bengal Warriors,4,Tamil Thalaivas,29,73,Bengal Warriors,Tamil Thalaivas,52
+8,2877,Match 123,League,2021,"Sheraton Grand, Whitefield, Bengaluru",19,35,54,Telugu Titans,8,Jaipur Pink Panthers,3,89,Jaipur Pink Panthers,Telugu Titans,54
+8,2878,Match 124,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,34,28,U.P. Yoddhas,30,U Mumba,5,62,U.P. Yoddhas,U Mumba,34
+8,2879,Match 125,League,2021,"Sheraton Grand, Whitefield, Bengaluru",22,46,24,Bengaluru Bulls,1,Haryana Steelers,28,70,Bengaluru Bulls,Haryana Steelers,46
+8,2880,Match 126,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,26,23,Dabang Delhi K.C.,2,Patna Pirates,6,49,Dabang Delhi K.C.,Patna Pirates,26
+8,2881,Match 127,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,36,43,Puneri Paltan,7,Bengal Warriors,4,79,Bengal Warriors,Puneri Paltan,43
+8,2882,Match 128,League,2021,"Sheraton Grand, Whitefield, Bengaluru",8,32,40,Telugu Titans,8,Dabang Delhi K.C.,2,72,Dabang Delhi K.C.,Telugu Titans,40
+8,2883,Match 129,League,2021,"Sheraton Grand, Whitefield, Bengaluru",10,33,43,Tamil Thalaivas,29,Gujarat Giants,31,76,Gujarat Giants,Tamil Thalaivas,43
+8,2884,Match 130,League,2021,"Sheraton Grand, Whitefield, Bengaluru",7,30,37,Jaipur Pink Panthers,3,Puneri Paltan,7,67,Puneri Paltan,Jaipur Pink Panthers,37
+8,2885,Match 131,League,2021,"Sheraton Grand, Whitefield, Bengaluru",6,30,24,Gujarat Giants,31,U Mumba,5,54,Gujarat Giants,U Mumba,30
+8,2886,Match 132,League,2021,"Sheraton Grand, Whitefield, Bengaluru",3,30,27,Patna Pirates,6,Haryana Steelers,28,57,Patna Pirates,Haryana Steelers,30
+8,2887,Eliminator 1,Playoffs,2021,"Sheraton Grand, Whitefield, Bengaluru",11,42,31,U.P. Yoddhas,30,Puneri Paltan,7,73,U.P. Yoddhas,Puneri Paltan,42
+8,2888,Eliminator 2,Playoffs,2021,"Sheraton Grand, Whitefield, Bengaluru",20,29,49,Gujarat Giants,31,Bengaluru Bulls,1,78,Bengaluru Bulls,Gujarat Giants,49
+8,2889,Semi Final 1,Semi Final,2021,"Sheraton Grand, Whitefield, Bengaluru",11,38,27,Patna Pirates,6,U.P. Yoddhas,30,65,Patna Pirates,U.P. Yoddhas,38
+8,2890,Semi Final 2,Semi Final,2021,"Sheraton Grand, Whitefield, Bengaluru",5,40,35,Dabang Delhi K.C.,2,Bengaluru Bulls,1,75,Dabang Delhi K.C.,Bengaluru Bulls,40
+8,2891,Final,Final,2021,"Sheraton Grand, Whitefield, Bengaluru",1,36,37,Patna Pirates,6,Dabang Delhi K.C.,2,73,Dabang Delhi K.C.,Patna Pirates,37
+9,2892,Match 1,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",14,41,27,Dabang Delhi K.C.,2,U Mumba,5,68,Dabang Delhi K.C.,U Mumba,41
+9,2893,Match 2,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",5,34,29,Bengaluru Bulls,1,Telugu Titans,8,63,Bengaluru Bulls,Telugu Titans,34
+9,2894,Match 3,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,32,34,Jaipur Pink Panthers,3,U.P. Yoddhas,30,66,U.P. Yoddhas,Jaipur Pink Panthers,34
+9,2895,Match 4,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",0,34,34,Patna Pirates,6,Puneri Paltan,7,68,tied,tied,34
+9,2896,Match 5,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",0,31,31,Gujarat Giants,31,Tamil Thalaivas,29,62,tied,tied,31
+9,2897,Match 6,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",8,33,41,Bengal Warriors,4,Haryana Steelers,28,74,Haryana Steelers,Bengal Warriors,41
+9,2898,Match 7,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",5,35,30,Jaipur Pink Panthers,3,Patna Pirates,6,65,Jaipur Pink Panthers,Patna Pirates,35
+9,2899,Match 8,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",20,25,45,Telugu Titans,8,Bengal Warriors,4,70,Bengal Warriors,Telugu Titans,45
+9,2900,Match 9,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,39,41,Puneri Paltan,7,Bengaluru Bulls,1,80,Bengaluru Bulls,Puneri Paltan,41
+9,2901,Match 10,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",7,30,23,U Mumba,5,U.P. Yoddhas,30,53,U Mumba,U.P. Yoddhas,30
+9,2902,Match 11,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",20,53,33,Dabang Delhi K.C.,2,Gujarat Giants,31,86,Dabang Delhi K.C.,Gujarat Giants,53
+9,2903,Match 12,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",5,27,22,Haryana Steelers,28,Tamil Thalaivas,29,49,Haryana Steelers,Tamil Thalaivas,27
+9,2904,Match 13,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",9,21,30,Patna Pirates,6,Telugu Titans,8,51,Telugu Titans,Patna Pirates,30
+9,2905,Match 14,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",9,33,42,Bengaluru Bulls,1,Bengal Warriors,4,75,Bengal Warriors,Bengaluru Bulls,42
+9,2906,Match 15,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,42,44,U.P. Yoddhas,30,Dabang Delhi K.C.,2,86,Dabang Delhi K.C.,U.P. Yoddhas,44
+9,2907,Match 16,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",7,32,39,Tamil Thalaivas,29,U Mumba,5,71,U Mumba,Tamil Thalaivas,39
+9,2908,Match 17,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",13,31,44,Haryana Steelers,28,Jaipur Pink Panthers,3,75,Jaipur Pink Panthers,Haryana Steelers,44
+9,2909,Match 18,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",10,47,37,Gujarat Giants,31,Puneri Paltan,7,84,Gujarat Giants,Puneri Paltan,47
+9,2910,Match 19,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",7,25,18,Jaipur Pink Panthers,3,Gujarat Giants,31,43,Jaipur Pink Panthers,Gujarat Giants,25
+9,2911,Match 20,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",20,26,46,Telugu Titans,8,Dabang Delhi K.C.,2,72,Dabang Delhi K.C.,Telugu Titans,46
+9,2912,Match 21,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",28,54,26,Bengal Warriors,4,Patna Pirates,6,80,Bengal Warriors,Patna Pirates,54
+9,2913,Match 22,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,30,28,Puneri Paltan,7,U Mumba,5,58,Puneri Paltan,U Mumba,30
+9,2914,Match 23,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",7,44,37,U.P. Yoddhas,30,Bengaluru Bulls,1,81,U.P. Yoddhas,Bengaluru Bulls,44
+9,2915,Match 24,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",1,33,32,Tamil Thalaivas,29,Patna Pirates,6,65,Tamil Thalaivas,Patna Pirates,33
+9,2916,Match 25,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,38,36,Dabang Delhi K.C.,2,Haryana Steelers,28,74,Dabang Delhi K.C.,Haryana Steelers,38
+9,2917,Match 26,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",15,24,39,Bengal Warriors,4,Jaipur Pink Panthers,3,63,Jaipur Pink Panthers,Bengal Warriors,39
+9,2918,Match 27,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",1,25,26,Telugu Titans,8,Puneri Paltan,7,51,Puneri Paltan,Telugu Titans,26
+9,2919,Match 28,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",6,51,45,Gujarat Giants,31,U.P. Yoddhas,30,96,Gujarat Giants,U.P. Yoddhas,51
+9,2920,Match 29,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",17,45,28,Bengaluru Bulls,1,Tamil Thalaivas,29,73,Bengaluru Bulls,Tamil Thalaivas,45
+9,2921,Match 30,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",1,32,31,U Mumba,5,Haryana Steelers,28,63,U Mumba,Haryana Steelers,32
+9,2922,Match 31,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",2,27,25,Puneri Paltan,7,Bengal Warriors,4,52,Puneri Paltan,Bengal Warriors,27
+9,2923,Match 32,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",4,37,33,Patna Pirates,6,Dabang Delhi K.C.,2,70,Patna Pirates,Dabang Delhi K.C.,37
+9,2924,Match 33,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",10,32,42,U Mumba,5,Bengaluru Bulls,1,74,Bengaluru Bulls,U Mumba,42
+9,2925,Match 34,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",24,51,27,Jaipur Pink Panthers,3,Telugu Titans,8,78,Jaipur Pink Panthers,Telugu Titans,51
+9,2926,Match 35,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",4,38,42,Haryana Steelers,28,Gujarat Giants,31,80,Gujarat Giants,Haryana Steelers,42
+9,2927,Match 36,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",0,31,31,Bengaluru Bulls,1,Patna Pirates,6,62,tied,tied,31
+9,2928,Match 37,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",17,41,24,U.P. Yoddhas,30,Tamil Thalaivas,29,65,U.P. Yoddhas,Tamil Thalaivas,41
+9,2929,Match 38,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",8,32,24,Puneri Paltan,7,Jaipur Pink Panthers,3,56,Puneri Paltan,Jaipur Pink Panthers,32
+9,2930,Match 39,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",19,24,43,Telugu Titans,8,Haryana Steelers,28,67,Haryana Steelers,Telugu Titans,43
+9,2931,Match 40,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",8,29,37,Gujarat Giants,31,U Mumba,5,66,U Mumba,Gujarat Giants,37
+9,2932,Match 41,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",5,30,35,Dabang Delhi K.C.,2,Bengal Warriors,4,65,Bengal Warriors,Dabang Delhi K.C.,35
+9,2933,Match 42,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",11,38,27,Tamil Thalaivas,29,Jaipur Pink Panthers,3,65,Tamil Thalaivas,Jaipur Pink Panthers,38
+9,2934,Match 43,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",0,27,27,Haryana Steelers,28,Puneri Paltan,7,54,tied,tied,27
+9,2935,Match 44,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",5,34,29,Patna Pirates,6,U.P. Yoddhas,30,63,Patna Pirates,U.P. Yoddhas,34
+9,2936,Match 45,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",4,47,43,Bengaluru Bulls,1,Dabang Delhi K.C.,2,90,Bengaluru Bulls,Dabang Delhi K.C.,47
+9,2937,Match 46,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",11,19,30,Telugu Titans,8,Gujarat Giants,31,49,Gujarat Giants,Telugu Titans,30
+9,2938,Match 47,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",11,25,36,Bengal Warriors,4,U Mumba,5,61,U Mumba,Bengal Warriors,36
+9,2939,Match 48,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",6,31,37,Jaipur Pink Panthers,3,Bengaluru Bulls,1,68,Bengaluru Bulls,Jaipur Pink Panthers,37
+9,2940,Match 49,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",10,49,39,Tamil Thalaivas,29,Dabang Delhi K.C.,2,88,Tamil Thalaivas,Dabang Delhi K.C.,49
+9,2941,Match 50,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",6,28,34,Gujarat Giants,31,Patna Pirates,6,62,Patna Pirates,Gujarat Giants,34
+9,2942,Match 51,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",19,43,24,U.P. Yoddhas,30,Telugu Titans,8,67,U.P. Yoddhas,Telugu Titans,43
+9,2943,Match 52,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",5,43,38,Puneri Paltan,7,Dabang Delhi K.C.,2,81,Puneri Paltan,Dabang Delhi K.C.,43
+9,2944,Match 53,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",2,29,27,Haryana Steelers,28,Bengaluru Bulls,1,56,Haryana Steelers,Bengaluru Bulls,29
+9,2945,Match 54,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",3,40,37,U Mumba,5,Telugu Titans,8,77,U Mumba,Telugu Titans,40
+9,2946,Match 55,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",0,41,41,Bengal Warriors,4,Tamil Thalaivas,29,82,tied,tied,41
+9,2947,Match 56,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",3,34,31,Patna Pirates,6,U Mumba,5,65,Patna Pirates,U Mumba,34
+9,2948,Match 57,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",5,40,45,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3,85,Jaipur Pink Panthers,Dabang Delhi K.C.,45
+9,2949,Match 58,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",9,31,40,U.P. Yoddhas,30,Puneri Paltan,7,71,Puneri Paltan,U.P. Yoddhas,40
+9,2950,Match 59,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",5,40,45,Gujarat Giants,31,Bengal Warriors,4,85,Bengal Warriors,Gujarat Giants,45
+9,2951,Match 60,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",8,39,31,Tamil Thalaivas,29,Telugu Titans,8,70,Tamil Thalaivas,Telugu Titans,39
+9,2952,Match 61,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",0,36,36,Haryana Steelers,28,U.P. Yoddhas,30,72,tied,tied,36
+9,2953,Match 62,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",2,44,46,Bengaluru Bulls,1,Gujarat Giants,31,90,Gujarat Giants,Bengaluru Bulls,46
+9,2954,Match 63,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",1,34,35,Puneri Paltan,7,Tamil Thalaivas,29,69,Tamil Thalaivas,Puneri Paltan,35
+9,2955,Match 64,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",3,39,42,U Mumba,5,Jaipur Pink Panthers,3,81,Jaipur Pink Panthers,U Mumba,42
+9,2956,Match 65,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",9,41,32,Patna Pirates,6,Haryana Steelers,28,73,Patna Pirates,Haryana Steelers,41
+9,2957,Match 66,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",0,41,41,Bengal Warriors,4,U.P. Yoddhas,30,82,tied,tied,41
+9,2958,Match 67,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",7,40,33,Dabang Delhi K.C.,2,Telugu Titans,8,73,Dabang Delhi K.C.,Telugu Titans,40
+9,2959,Match 68,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",3,36,33,Bengaluru Bulls,1,Haryana Steelers,28,69,Bengaluru Bulls,Haryana Steelers,36
+9,2960,Match 69,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",1,34,35,Tamil Thalaivas,29,Puneri Paltan,7,69,Puneri Paltan,Tamil Thalaivas,35
+9,2961,Match 70,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",6,40,34,U.P. Yoddhas,30,Haryana Steelers,28,74,U.P. Yoddhas,Haryana Steelers,40
+9,2962,Match 71,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",1,34,33,U Mumba,5,Puneri Paltan,7,67,U Mumba,Puneri Paltan,34
+9,2963,Match 72,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",7,37,30,Patna Pirates,6,Jaipur Pink Panthers,3,67,Patna Pirates,Jaipur Pink Panthers,37
+9,2964,Match 73,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",19,46,27,Bengal Warriors,4,Gujarat Giants,31,73,Bengal Warriors,Gujarat Giants,46
+9,2965,Match 74,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",11,30,41,Telugu Titans,8,U.P. Yoddhas,30,71,U.P. Yoddhas,Telugu Titans,41
+9,2966,Match 75,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",25,57,32,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,89,Jaipur Pink Panthers,Dabang Delhi K.C.,57
+9,2967,Match 76,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",13,36,23,U Mumba,5,Patna Pirates,6,59,U Mumba,Patna Pirates,36
+9,2968,Match 77,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",6,34,40,Tamil Thalaivas,29,Bengaluru Bulls,1,74,Bengaluru Bulls,Tamil Thalaivas,40
+9,2969,Match 78,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",16,27,43,Bengal Warriors,4,Puneri Paltan,7,70,Puneri Paltan,Bengal Warriors,43
+9,2970,Match 79,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",1,32,33,Gujarat Giants,31,Haryana Steelers,28,65,Haryana Steelers,Gujarat Giants,33
+9,2971,Match 80,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",10,32,22,Jaipur Pink Panthers,3,U Mumba,5,54,Jaipur Pink Panthers,U Mumba,32
+9,2972,Match 81,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",11,38,49,Telugu Titans,8,Bengaluru Bulls,1,87,Bengaluru Bulls,Telugu Titans,49
+9,2973,Match 82,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",0,33,33,Patna Pirates,6,Tamil Thalaivas,29,66,tied,tied,33
+9,2974,Match 83,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",19,31,50,Dabang Delhi K.C.,2,U.P. Yoddhas,30,81,U.P. Yoddhas,Dabang Delhi K.C.,50
+9,2975,Match 84,League,2022,"Gachibowli Indoor Stadium, Hyderabad",13,41,28,Puneri Paltan,7,Haryana Steelers,28,69,Puneri Paltan,Haryana Steelers,41
+9,2976,Match 85,League,2022,"Gachibowli Indoor Stadium, Hyderabad",8,36,28,Bengal Warriors,4,Telugu Titans,8,64,Bengal Warriors,Telugu Titans,36
+9,2977,Match 86,League,2022,"Gachibowli Indoor Stadium, Hyderabad",7,38,45,Gujarat Giants,31,Bengaluru Bulls,1,83,Bengaluru Bulls,Gujarat Giants,45
+9,2978,Match 87,League,2022,"Gachibowli Indoor Stadium, Hyderabad",13,29,42,U.P. Yoddhas,30,Jaipur Pink Panthers,3,71,Jaipur Pink Panthers,U.P. Yoddhas,42
+9,2979,Match 88,League,2022,"Gachibowli Indoor Stadium, Hyderabad",6,32,26,Telugu Titans,8,U Mumba,5,58,Telugu Titans,U Mumba,32
+9,2980,Match 89,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,30,27,Dabang Delhi K.C.,2,Patna Pirates,6,57,Dabang Delhi K.C.,Patna Pirates,30
+9,2981,Match 90,League,2022,"Gachibowli Indoor Stadium, Hyderabad",12,30,42,Haryana Steelers,28,Dabang Delhi K.C.,2,72,Dabang Delhi K.C.,Haryana Steelers,42
+9,2982,Match 91,League,2022,"Gachibowli Indoor Stadium, Hyderabad",2,33,35,Bengaluru Bulls,1,Puneri Paltan,7,68,Puneri Paltan,Bengaluru Bulls,35
+9,2983,Match 92,League,2022,"Gachibowli Indoor Stadium, Hyderabad",5,35,30,Tamil Thalaivas,29,Bengal Warriors,4,65,Tamil Thalaivas,Bengal Warriors,35
+9,2984,Match 93,League,2022,"Gachibowli Indoor Stadium, Hyderabad",4,35,31,U.P. Yoddhas,30,Gujarat Giants,31,66,U.P. Yoddhas,Gujarat Giants,35
+9,2985,Match 94,League,2022,"Gachibowli Indoor Stadium, Hyderabad",14,20,34,U Mumba,5,Tamil Thalaivas,29,54,Tamil Thalaivas,U Mumba,34
+9,2986,Match 95,League,2022,"Gachibowli Indoor Stadium, Hyderabad",1,35,36,Telugu Titans,8,Patna Pirates,6,71,Patna Pirates,Telugu Titans,36
+9,2987,Match 96,League,2022,"Gachibowli Indoor Stadium, Hyderabad",7,32,39,Jaipur Pink Panthers,3,Puneri Paltan,7,71,Puneri Paltan,Jaipur Pink Panthers,39
+9,2988,Match 97,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,41,38,Bengal Warriors,4,Bengaluru Bulls,1,79,Bengal Warriors,Bengaluru Bulls,41
+9,2989,Match 98,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,47,50,Gujarat Giants,31,Dabang Delhi K.C.,2,97,Dabang Delhi K.C.,Gujarat Giants,50
+9,2990,Match 99,League,2022,"Gachibowli Indoor Stadium, Hyderabad",15,41,26,Jaipur Pink Panthers,3,Tamil Thalaivas,29,67,Jaipur Pink Panthers,Tamil Thalaivas,41
+9,2991,Match 100,League,2022,"Gachibowli Indoor Stadium, Hyderabad",10,33,23,Haryana Steelers,28,Patna Pirates,6,56,Haryana Steelers,Patna Pirates,33
+9,2992,Match 101,League,2022,"Gachibowli Indoor Stadium, Hyderabad",8,49,41,U Mumba,5,Bengal Warriors,4,90,U Mumba,Bengal Warriors,49
+9,2993,Match 102,League,2022,"Gachibowli Indoor Stadium, Hyderabad",13,38,25,Puneri Paltan,7,Telugu Titans,8,63,Puneri Paltan,Telugu Titans,38
+9,2994,Match 103,League,2022,"Gachibowli Indoor Stadium, Hyderabad",2,35,33,U.P. Yoddhas,30,Patna Pirates,6,68,U.P. Yoddhas,Patna Pirates,35
+9,2995,Match 104,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,42,39,Tamil Thalaivas,29,Gujarat Giants,31,81,Tamil Thalaivas,Gujarat Giants,42
+9,2996,Match 105,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,49,52,Dabang Delhi K.C.,2,Bengaluru Bulls,1,101,Bengaluru Bulls,Dabang Delhi K.C.,52
+9,2997,Match 106,League,2022,"Gachibowli Indoor Stadium, Hyderabad",1,33,32,U.P. Yoddhas,30,Bengal Warriors,4,65,U.P. Yoddhas,Bengal Warriors,33
+9,2998,Match 107,League,2022,"Gachibowli Indoor Stadium, Hyderabad",20,28,48,Telugu Titans,8,Jaipur Pink Panthers,3,76,Jaipur Pink Panthers,Telugu Titans,48
+9,2999,Match 108,League,2022,"Gachibowli Indoor Stadium, Hyderabad",12,39,51,Puneri Paltan,7,Gujarat Giants,31,90,Gujarat Giants,Puneri Paltan,51
+9,3000,Match 109,League,2022,"Gachibowli Indoor Stadium, Hyderabad",2,35,33,Haryana Steelers,28,U Mumba,5,68,Haryana Steelers,U Mumba,35
+9,3001,Match 110,League,2022,"Gachibowli Indoor Stadium, Hyderabad",20,25,45,Bengaluru Bulls,1,Jaipur Pink Panthers,3,70,Jaipur Pink Panthers,Bengaluru Bulls,45
+9,3002,Match 111,League,2022,"Gachibowli Indoor Stadium, Hyderabad",0,37,37,Dabang Delhi K.C.,2,Tamil Thalaivas,29,74,tied,tied,37
+9,3003,Match 112,League,2022,"Gachibowli Indoor Stadium, Hyderabad",10,38,28,U.P. Yoddhas,30,U Mumba,5,66,U.P. Yoddhas,U Mumba,38
+9,3004,Match 113,League,2022,"Gachibowli Indoor Stadium, Hyderabad",6,34,40,Patna Pirates,6,Gujarat Giants,31,74,Gujarat Giants,Patna Pirates,40
+9,3005,Match 114,League,2022,"Gachibowli Indoor Stadium, Hyderabad",6,32,26,Haryana Steelers,28,Bengal Warriors,4,58,Haryana Steelers,Bengal Warriors,32
+9,3006,Match 115,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,44,47,Dabang Delhi K.C.,2,Puneri Paltan,7,91,Puneri Paltan,Dabang Delhi K.C.,47
+9,3007,Match 116,League,2022,"Gachibowli Indoor Stadium, Hyderabad",28,24,52,Telugu Titans,8,Tamil Thalaivas,29,76,Tamil Thalaivas,Telugu Titans,52
+9,3008,Match 117,League,2022,"Gachibowli Indoor Stadium, Hyderabad",26,57,31,Jaipur Pink Panthers,3,Bengal Warriors,4,88,Jaipur Pink Panthers,Bengal Warriors,57
+9,3009,Match 118,League,2022,"Gachibowli Indoor Stadium, Hyderabad",2,36,38,U Mumba,5,Gujarat Giants,31,74,Gujarat Giants,U Mumba,38
+9,3010,Match 119,League,2022,"Gachibowli Indoor Stadium, Hyderabad",3,38,35,Bengaluru Bulls,1,U.P. Yoddhas,30,73,Bengaluru Bulls,U.P. Yoddhas,38
+9,3011,Match 120,League,2022,"Gachibowli Indoor Stadium, Hyderabad",14,44,30,Puneri Paltan,7,Patna Pirates,6,74,Puneri Paltan,Patna Pirates,44
+9,3012,Match 121,League,2022,"Gachibowli Indoor Stadium, Hyderabad",14,44,30,Jaipur Pink Panthers,3,Haryana Steelers,28,74,Jaipur Pink Panthers,Haryana Steelers,44
+9,3013,Match 122,League,2022,"Gachibowli Indoor Stadium, Hyderabad",17,24,41,U Mumba,5,Dabang Delhi K.C.,2,65,Dabang Delhi K.C.,U Mumba,41
+9,3014,Match 123,League,2022,"Gachibowli Indoor Stadium, Hyderabad",14,44,30,Gujarat Giants,31,Telugu Titans,8,74,Gujarat Giants,Telugu Titans,44
+9,3015,Match 124,League,2022,"Gachibowli Indoor Stadium, Hyderabad",13,44,57,Patna Pirates,6,Bengaluru Bulls,1,101,Bengaluru Bulls,Patna Pirates,57
+9,3016,Match 125,League,2022,"Gachibowli Indoor Stadium, Hyderabad",15,43,28,Tamil Thalaivas,29,U.P. Yoddhas,30,71,Tamil Thalaivas,U.P. Yoddhas,43
+9,3017,Match 126,League,2022,"Gachibowli Indoor Stadium, Hyderabad",0,46,46,Bengal Warriors,4,Dabang Delhi K.C.,2,92,tied,tied,46
+9,3018,Match 127,League,2022,"Gachibowli Indoor Stadium, Hyderabad",17,50,33,Haryana Steelers,28,Telugu Titans,8,83,Haryana Steelers,Telugu Titans,50
+9,3019,Match 128,League,2022,"Gachibowli Indoor Stadium, Hyderabad",0,51,51,Gujarat Giants,31,Jaipur Pink Panthers,3,102,tied,tied,51
+9,3020,Match 129,League,2022,"Gachibowli Indoor Stadium, Hyderabad",4,41,45,Puneri Paltan,7,U.P. Yoddhas,30,86,U.P. Yoddhas,Puneri Paltan,45
+9,3021,Match 130,League,2022,"Gachibowli Indoor Stadium, Hyderabad",6,30,36,Bengaluru Bulls,1,U Mumba,5,66,U Mumba,Bengaluru Bulls,36
+9,3022,Match 131,League,2022,"Gachibowli Indoor Stadium, Hyderabad",23,38,61,Tamil Thalaivas,29,Haryana Steelers,28,99,Haryana Steelers,Tamil Thalaivas,61
+9,3023,Match 132,League,2022,"Gachibowli Indoor Stadium, Hyderabad",11,49,38,Patna Pirates,6,Bengal Warriors,4,87,Patna Pirates,Bengal Warriors,49
+9,3024,Eliminator 1,Playoffs,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",32,56,24,Bengaluru Bulls,1,Dabang Delhi K.C.,2,80,Bengaluru Bulls,Dabang Delhi K.C.,56
+9,3025,Eliminator 2,Playoffs,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",0,36,36,U.P. Yoddhas,30,Tamil Thalaivas,29,72,tied,tied,36
+9,3026,Semi Final 1,Semi Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",20,49,29,Jaipur Pink Panthers,3,Bengaluru Bulls,1,78,Jaipur Pink Panthers,Bengaluru Bulls,49
+9,3027,Semi Final 2,Semi Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",2,39,37,Puneri Paltan,7,Tamil Thalaivas,29,76,Puneri Paltan,Tamil Thalaivas,39
+9,3028,Final,Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",4,33,29,Jaipur Pink Panthers,3,Puneri Paltan,7,62,Jaipur Pink Panthers,Puneri Paltan,33
+10,3029,Match 1,League,2023,"Eka Arena By Transstadia, Ahmedabad",6,38,32,Gujarat Giants,31,Telugu Titans,8,70,Gujarat Giants,Telugu Titans,38
+10,3030,Match 2,League,2023,"Eka Arena By Transstadia, Ahmedabad",3,34,31,U Mumba,5,U.P. Yoddhas,30,65,U Mumba,U.P. Yoddhas,34
+10,3031,Match 3,League,2023,"Eka Arena By Transstadia, Ahmedabad",11,42,31,Tamil Thalaivas,29,Dabang Delhi K.C.,2,73,Tamil Thalaivas,Dabang Delhi K.C.,42
+10,3032,Match 4,League,2023,"Eka Arena By Transstadia, Ahmedabad",3,34,31,Gujarat Giants,31,Bengaluru Bulls,1,65,Gujarat Giants,Bengaluru Bulls,34
+10,3033,Match 5,League,2023,"Eka Arena By Transstadia, Ahmedabad",4,37,33,Puneri Paltan,7,Jaipur Pink Panthers,3,70,Puneri Paltan,Jaipur Pink Panthers,37
+10,3034,Match 6,League,2023,"Eka Arena By Transstadia, Ahmedabad",2,30,32,Bengaluru Bulls,1,Bengal Warriors,4,62,Bengal Warriors,Bengaluru Bulls,32
+10,3035,Match 7,League,2023,"Eka Arena By Transstadia, Ahmedabad",2,39,37,Gujarat Giants,31,U Mumba,5,76,Gujarat Giants,U Mumba,39
+10,3036,Match 8,League,2023,"Eka Arena By Transstadia, Ahmedabad",22,28,50,Telugu Titans,8,Patna Pirates,6,78,Patna Pirates,Telugu Titans,50
+10,3037,Match 9,League,2023,"Eka Arena By Transstadia, Ahmedabad",30,57,27,U.P. Yoddhas,30,Haryana Steelers,28,84,U.P. Yoddhas,Haryana Steelers,57
+10,3038,Match 10,League,2023,"Eka Arena By Transstadia, Ahmedabad",0,28,28,Bengal Warriors,4,Jaipur Pink Panthers,3,56,tied,tied,28
+10,3039,Match 11,League,2023,"Eka Arena By Transstadia, Ahmedabad",3,30,33,Gujarat Giants,31,Patna Pirates,6,63,Patna Pirates,Gujarat Giants,33
+10,3040,Match 12,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",7,31,38,Bengaluru Bulls,1,Dabang Delhi K.C.,2,69,Dabang Delhi K.C.,Bengaluru Bulls,38
+10,3041,Match 13,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",11,43,32,Puneri Paltan,7,U Mumba,5,75,Puneri Paltan,U Mumba,43
+10,3042,Match 14,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",6,32,38,Bengaluru Bulls,1,Haryana Steelers,28,70,Haryana Steelers,Bengaluru Bulls,38
+10,3043,Match 15,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",15,48,33,U.P. Yoddhas,30,Telugu Titans,8,81,U.P. Yoddhas,Telugu Titans,48
+10,3044,Match 16,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",10,48,38,Bengal Warriors,4,Tamil Thalaivas,29,86,Bengal Warriors,Tamil Thalaivas,48
+10,3045,Match 17,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",2,33,35,Dabang Delhi K.C.,2,Haryana Steelers,28,68,Haryana Steelers,Dabang Delhi K.C.,35
+10,3046,Match 18,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",3,35,32,Jaipur Pink Panthers,3,Gujarat Giants,31,67,Jaipur Pink Panthers,Gujarat Giants,35
+10,3047,Match 19,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",2,38,36,Bengaluru Bulls,1,U.P. Yoddhas,30,74,Bengaluru Bulls,U.P. Yoddhas,38
+10,3048,Match 20,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",18,60,42,Bengal Warriors,4,Patna Pirates,6,102,Bengal Warriors,Patna Pirates,60
+10,3049,Match 21,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",2,38,36,Tamil Thalaivas,29,Telugu Titans,8,74,Tamil Thalaivas,Telugu Titans,38
+10,3050,Match 22,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",2,32,30,Bengaluru Bulls,1,Jaipur Pink Panthers,3,62,Bengaluru Bulls,Jaipur Pink Panthers,32
+10,3051,Match 23,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",2,42,40,U Mumba,5,Patna Pirates,6,82,U Mumba,Patna Pirates,42
+10,3052,Match 24,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",5,39,44,Puneri Paltan,7,Haryana Steelers,28,83,Haryana Steelers,Puneri Paltan,44
+10,3053,Match 25,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",30,49,19,Puneri Paltan,7,Bengal Warriors,4,68,Puneri Paltan,Bengal Warriors,49
+10,3054,Match 26,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",11,40,51,Telugu Titans,8,Dabang Delhi K.C.,2,91,Dabang Delhi K.C.,Telugu Titans,51
+10,3055,Match 27,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",1,28,29,Patna Pirates,6,Jaipur Pink Panthers,3,57,Jaipur Pink Panthers,Patna Pirates,29
+10,3056,Match 28,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",13,46,33,U Mumba,5,Tamil Thalaivas,29,79,U Mumba,Tamil Thalaivas,46
+10,3057,Match 29,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",0,37,37,Bengal Warriors,4,U.P. Yoddhas,30,74,tied,tied,37
+10,3058,Match 30,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",7,30,23,Puneri Paltan,7,Dabang Delhi K.C.,2,53,Puneri Paltan,Dabang Delhi K.C.,30
+10,3059,Match 31,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",2,31,29,Haryana Steelers,28,Gujarat Giants,31,60,Haryana Steelers,Gujarat Giants,31
+10,3060,Match 32,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",17,41,24,Jaipur Pink Panthers,3,U.P. Yoddhas,30,65,Jaipur Pink Panthers,U.P. Yoddhas,41
+10,3061,Match 33,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",25,43,18,Puneri Paltan,7,Bengaluru Bulls,1,61,Puneri Paltan,Bengaluru Bulls,43
+10,3062,Match 34,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",13,33,46,Tamil Thalaivas,29,Patna Pirates,6,79,Patna Pirates,Tamil Thalaivas,46
+10,3063,Match 35,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",1,36,37,Haryana Steelers,28,Telugu Titans,8,73,Telugu Titans,Haryana Steelers,37
+10,3064,Match 36,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",1,24,25,Tamil Thalaivas,29,Jaipur Pink Panthers,3,49,Jaipur Pink Panthers,Tamil Thalaivas,25
+10,3065,Match 37,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",8,38,30,Gujarat Giants,31,U.P. Yoddhas,30,68,Gujarat Giants,U.P. Yoddhas,38
+10,3066,Match 38,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",2,39,37,U Mumba,5,Bengal Warriors,4,76,U Mumba,Bengal Warriors,39
+10,3067,Match 39,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",2,33,31,Bengaluru Bulls,1,Telugu Titans,8,64,Bengaluru Bulls,Telugu Titans,33
+10,3068,Match 40,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",9,29,38,Bengal Warriors,4,Dabang Delhi K.C.,2,67,Dabang Delhi K.C.,Bengal Warriors,38
+10,3069,Match 41,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",13,29,42,Tamil Thalaivas,29,Haryana Steelers,28,71,Haryana Steelers,Tamil Thalaivas,42
+10,3070,Match 42,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",18,46,28,Puneri Paltan,7,Patna Pirates,6,74,Puneri Paltan,Patna Pirates,46
+10,3071,Match 43,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",0,32,32,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2,64,tied,tied,32
+10,3072,Match 44,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",3,30,33,Tamil Thalaivas,29,Gujarat Giants,31,63,Gujarat Giants,Tamil Thalaivas,33
+10,3073,Match 45,League,2023,"Noida Indoor Stadium, Noida",13,46,33,Patna Pirates,6,Haryana Steelers,28,79,Patna Pirates,Haryana Steelers,46
+10,3074,Match 46,League,2023,"Noida Indoor Stadium, Noida",1,34,33,U.P. Yoddhas,30,Bengaluru Bulls,1,67,U.P. Yoddhas,Bengaluru Bulls,34
+10,3075,Match 47,League,2023,"Noida Indoor Stadium, Noida",18,34,52,Telugu Titans,8,U Mumba,5,86,U Mumba,Telugu Titans,52
+10,3076,Match 48,League,2023,"Noida Indoor Stadium, Noida",10,25,35,U.P. Yoddhas,30,Dabang Delhi K.C.,2,60,Dabang Delhi K.C.,U.P. Yoddhas,35
+10,3077,Match 49,League,2023,"Noida Indoor Stadium, Noida",9,51,42,Gujarat Giants,31,Bengal Warriors,4,93,Gujarat Giants,Bengal Warriors,51
+10,3078,Match 50,League,2023,"Noida Indoor Stadium, Noida",1,37,38,Tamil Thalaivas,29,Bengaluru Bulls,1,75,Bengaluru Bulls,Tamil Thalaivas,38
+10,3079,Match 51,League,2023,"Noida Indoor Stadium, Noida",36,18,54,Telugu Titans,8,Puneri Paltan,7,72,Puneri Paltan,Telugu Titans,54
+10,3080,Match 52,League,2023,"Noida Indoor Stadium, Noida",7,41,48,U.P. Yoddhas,30,Patna Pirates,6,89,Patna Pirates,U.P. Yoddhas,48
+10,3081,Match 53,League,2023,"Noida Indoor Stadium, Noida",7,28,35,Gujarat Giants,31,Dabang Delhi K.C.,2,63,Dabang Delhi K.C.,Gujarat Giants,35
+10,3082,Match 54,League,2023,"Noida Indoor Stadium, Noida",11,34,45,Haryana Steelers,28,Jaipur Pink Panthers,3,79,Jaipur Pink Panthers,Haryana Steelers,45
+10,3083,Match 55,League,2023,"Noida Indoor Stadium, Noida",9,31,40,U.P. Yoddhas,30,Puneri Paltan,7,71,Puneri Paltan,U.P. Yoddhas,40
+10,3084,Match 56,League,2023,"Dome By Nsci, Mumbai",1,37,38,Patna Pirates,6,Dabang Delhi K.C.,2,75,Dabang Delhi K.C.,Patna Pirates,38
+10,3085,Match 57,League,2023,"Dome By Nsci, Mumbai",5,40,35,U Mumba,5,Bengaluru Bulls,1,75,U Mumba,Bengaluru Bulls,40
+10,3086,Match 58,League,2023,"Dome By Nsci, Mumbai",10,31,41,U Mumba,5,Jaipur Pink Panthers,3,72,Jaipur Pink Panthers,U Mumba,41
+10,3087,Match 59,League,2023,"Dome By Nsci, Mumbai",7,30,37,Telugu Titans,8,Gujarat Giants,31,67,Gujarat Giants,Telugu Titans,37
+10,3088,Match 60,League,2023,"Dome By Nsci, Mumbai",3,29,26,Puneri Paltan,7,Tamil Thalaivas,29,55,Puneri Paltan,Tamil Thalaivas,29
+10,3089,Match 61,League,2023,"Dome By Nsci, Mumbai",6,35,41,Bengal Warriors,4,Haryana Steelers,28,76,Haryana Steelers,Bengal Warriors,41
+10,3090,Match 62,League,2023,"Dome By Nsci, Mumbai",2,35,33,Bengaluru Bulls,1,Patna Pirates,6,68,Bengaluru Bulls,Patna Pirates,35
+10,3091,Match 63,League,2023,"Dome By Nsci, Mumbai",6,34,40,U Mumba,5,Dabang Delhi K.C.,2,74,Dabang Delhi K.C.,U Mumba,40
+10,3092,Match 64,League,2023,"Dome By Nsci, Mumbai",20,26,46,Telugu Titans,8,Bengal Warriors,4,72,Bengal Warriors,Telugu Titans,46
+10,3093,Match 65,League,2023,"Dome By Nsci, Mumbai",19,27,46,U.P. Yoddhas,30,Tamil Thalaivas,29,73,Tamil Thalaivas,U.P. Yoddhas,46
+10,3094,Match 66,League,2023,"Dome By Nsci, Mumbai",0,44,44,U Mumba,5,Haryana Steelers,28,88,tied,tied,44
+10,3095,Match 67,League,2023,"Sms Indoor Stadium, Jaipur",3,38,35,Jaipur Pink Panthers,3,Telugu Titans,8,73,Jaipur Pink Panthers,Telugu Titans,38
+10,3096,Match 68,League,2023,"Sms Indoor Stadium, Jaipur",20,37,17,Puneri Paltan,7,Gujarat Giants,31,54,Puneri Paltan,Gujarat Giants,37
+10,3097,Match 69,League,2023,"Sms Indoor Stadium, Jaipur",2,36,34,Jaipur Pink Panthers,3,Puneri Paltan,7,70,Jaipur Pink Panthers,Puneri Paltan,36
+10,3098,Match 70,League,2023,"Sms Indoor Stadium, Jaipur",5,37,42,U.P. Yoddhas,30,Bengal Warriors,4,79,Bengal Warriors,U.P. Yoddhas,42
+10,3099,Match 71,League,2023,"Sms Indoor Stadium, Jaipur",5,36,31,Haryana Steelers,28,Tamil Thalaivas,29,67,Haryana Steelers,Tamil Thalaivas,36
+10,3100,Match 72,League,2023,"Sms Indoor Stadium, Jaipur",0,39,39,Dabang Delhi K.C.,2,Patna Pirates,6,78,tied,tied,39
+10,3101,Match 73,League,2023,"Sms Indoor Stadium, Jaipur",6,35,29,Bengal Warriors,4,Bengaluru Bulls,1,64,Bengal Warriors,Bengaluru Bulls,35
+10,3102,Match 74,League,2023,"Sms Indoor Stadium, Jaipur",2,31,29,Jaipur Pink Panthers,3,U Mumba,5,60,Jaipur Pink Panthers,U Mumba,31
+10,3103,Match 75,League,2023,"Sms Indoor Stadium, Jaipur",16,25,41,Patna Pirates,6,Tamil Thalaivas,29,66,Tamil Thalaivas,Patna Pirates,41
+10,3104,Match 76,League,2023,"Sms Indoor Stadium, Jaipur",5,26,31,Dabang Delhi K.C.,2,Gujarat Giants,31,57,Gujarat Giants,Dabang Delhi K.C.,31
+10,3105,Match 77,League,2023,"Sms Indoor Stadium, Jaipur",10,37,27,Jaipur Pink Panthers,3,Haryana Steelers,28,64,Jaipur Pink Panthers,Haryana Steelers,37
+10,3106,Match 78,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",16,26,42,Telugu Titans,8,Bengaluru Bulls,1,68,Bengaluru Bulls,Telugu Titans,42
+10,3107,Match 79,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",3,34,31,Patna Pirates,6,U.P. Yoddhas,30,65,Patna Pirates,U.P. Yoddhas,34
+10,3108,Match 80,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",6,39,33,Dabang Delhi K.C.,2,U Mumba,5,72,Dabang Delhi K.C.,U Mumba,39
+10,3109,Match 81,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",17,49,32,Telugu Titans,8,U.P. Yoddhas,30,81,Telugu Titans,U.P. Yoddhas,49
+10,3110,Match 82,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",17,28,45,Bengaluru Bulls,1,Tamil Thalaivas,29,73,Tamil Thalaivas,Bengaluru Bulls,45
+10,3111,Match 83,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",10,24,34,Gujarat Giants,31,Puneri Paltan,7,58,Puneri Paltan,Gujarat Giants,34
+10,3112,Match 84,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",17,42,25,Jaipur Pink Panthers,3,Bengal Warriors,4,67,Jaipur Pink Panthers,Bengal Warriors,42
+10,3113,Match 85,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",7,30,37,Telugu Titans,8,Haryana Steelers,28,67,Haryana Steelers,Telugu Titans,37
+10,3114,Match 86,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",0,32,32,U Mumba,5,Puneri Paltan,7,64,tied,tied,32
+10,3115,Match 87,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",3,32,35,Haryana Steelers,28,Dabang Delhi K.C.,2,67,Dabang Delhi K.C.,Haryana Steelers,35
+10,3116,Match 88,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",25,29,54,Telugu Titans,8,Tamil Thalaivas,29,83,Tamil Thalaivas,Telugu Titans,54
+10,3117,Match 89,League,2023,"Patliputra Indoor Stadium, Patna",16,44,28,Patna Pirates,6,Bengal Warriors,4,72,Patna Pirates,Bengal Warriors,44
+10,3118,Match 90,League,2023,"Patliputra Indoor Stadium, Patna",9,35,44,U Mumba,5,Gujarat Giants,31,79,Gujarat Giants,U Mumba,44
+10,3119,Match 91,League,2023,"Patliputra Indoor Stadium, Patna",0,32,32,Patna Pirates,6,Puneri Paltan,7,64,tied,tied,32
+10,3120,Match 92,League,2023,"Patliputra Indoor Stadium, Patna",9,36,27,Dabang Delhi K.C.,2,U.P. Yoddhas,30,63,Dabang Delhi K.C.,U.P. Yoddhas,36
+10,3121,Match 93,League,2023,"Patliputra Indoor Stadium, Patna",0,28,28,Jaipur Pink Panthers,3,Bengaluru Bulls,1,56,tied,tied,28
+10,3122,Match 94,League,2023,"Patliputra Indoor Stadium, Patna",16,50,34,Tamil Thalaivas,29,U Mumba,5,84,Tamil Thalaivas,U Mumba,50
+10,3123,Match 95,League,2023,"Patliputra Indoor Stadium, Patna",5,41,36,Haryana Steelers,28,Bengal Warriors,4,77,Haryana Steelers,Bengal Warriors,41
+10,3124,Match 96,League,2023,"Patliputra Indoor Stadium, Patna",12,32,20,Patna Pirates,6,Gujarat Giants,31,52,Patna Pirates,Gujarat Giants,32
+10,3125,Match 97,League,2023,"Patliputra Indoor Stadium, Patna",31,60,29,Puneri Paltan,7,Telugu Titans,8,89,Puneri Paltan,Telugu Titans,60
+10,3126,Match 98,League,2023,"Patliputra Indoor Stadium, Patna",0,29,29,Patna Pirates,6,Bengaluru Bulls,1,58,tied,tied,29
+10,3127,Match 99,League,2023,"Patliputra Indoor Stadium, Patna",15,42,27,Jaipur Pink Panthers,3,Tamil Thalaivas,29,69,Jaipur Pink Panthers,Tamil Thalaivas,42
+10,3128,Match 100,League,2023,"Thyagaraj Indoor Stadium, Delhi",7,38,45,Dabang Delhi K.C.,2,Bengal Warriors,4,83,Bengal Warriors,Dabang Delhi K.C.,45
+10,3129,Match 101,League,2023,"Thyagaraj Indoor Stadium, Delhi",4,30,34,Gujarat Giants,31,Haryana Steelers,28,64,Haryana Steelers,Gujarat Giants,34
+10,3130,Match 102,League,2023,"Thyagaraj Indoor Stadium, Delhi",16,39,23,U.P. Yoddhas,30,U Mumba,5,62,U.P. Yoddhas,U Mumba,39
+10,3131,Match 103,League,2023,"Thyagaraj Indoor Stadium, Delhi",11,44,33,Dabang Delhi K.C.,2,Telugu Titans,8,77,Dabang Delhi K.C.,Telugu Titans,44
+10,3132,Match 104,League,2023,"Thyagaraj Indoor Stadium, Delhi",5,42,37,Bengaluru Bulls,1,U Mumba,5,79,Bengaluru Bulls,U Mumba,42
+10,3133,Match 105,League,2023,"Thyagaraj Indoor Stadium, Delhi",12,42,30,Gujarat Giants,31,Tamil Thalaivas,29,72,Gujarat Giants,Tamil Thalaivas,42
+10,3134,Match 106,League,2023,"Thyagaraj Indoor Stadium, Delhi",3,33,36,Jaipur Pink Panthers,3,Patna Pirates,6,69,Patna Pirates,Jaipur Pink Panthers,36
+10,3135,Match 107,League,2023,"Thyagaraj Indoor Stadium, Delhi",0,30,30,Dabang Delhi K.C.,2,Puneri Paltan,7,60,tied,tied,30
+10,3136,Match 108,League,2023,"Thyagaraj Indoor Stadium, Delhi",7,32,25,Tamil Thalaivas,29,U.P. Yoddhas,30,57,Tamil Thalaivas,U.P. Yoddhas,32
+10,3137,Match 109,League,2023,"Thyagaraj Indoor Stadium, Delhi",9,31,40,Bengaluru Bulls,1,Puneri Paltan,7,71,Puneri Paltan,Bengaluru Bulls,40
+10,3138,Match 110,League,2023,"Thyagaraj Indoor Stadium, Delhi",5,22,27,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3,49,Jaipur Pink Panthers,Dabang Delhi K.C.,27
+10,3139,Match 111,League,2023,"Netaji Indoor Stadium, Kolkata",9,32,41,Bengal Warriors,4,Gujarat Giants,31,73,Gujarat Giants,Bengal Warriors,41
+10,3140,Match 112,League,2023,"Netaji Indoor Stadium, Kolkata",16,50,34,Haryana Steelers,28,U.P. Yoddhas,30,84,Haryana Steelers,U.P. Yoddhas,50
+10,3141,Match 113,League,2023,"Netaji Indoor Stadium, Kolkata",21,44,23,Patna Pirates,6,U Mumba,5,67,Patna Pirates,U Mumba,44
+10,3142,Match 114,League,2023,"Netaji Indoor Stadium, Kolkata",20,55,35,Bengal Warriors,4,Telugu Titans,8,90,Bengal Warriors,Telugu Titans,55
+10,3143,Match 115,League,2023,"Netaji Indoor Stadium, Kolkata",27,29,56,Tamil Thalaivas,29,Puneri Paltan,7,85,Puneri Paltan,Tamil Thalaivas,56
+10,3144,Match 116,League,2023,"Netaji Indoor Stadium, Kolkata",22,28,50,Bengaluru Bulls,1,Gujarat Giants,31,78,Gujarat Giants,Bengaluru Bulls,50
+10,3145,Match 117,League,2023,"Netaji Indoor Stadium, Kolkata",37,30,67,U.P. Yoddhas,30,Jaipur Pink Panthers,3,97,Jaipur Pink Panthers,U.P. Yoddhas,67
+10,3146,Match 118,League,2023,"Netaji Indoor Stadium, Kolkata",12,46,34,Bengal Warriors,4,U Mumba,5,80,Bengal Warriors,U Mumba,46
+10,3147,Match 119,League,2023,"Netaji Indoor Stadium, Kolkata",2,38,36,Patna Pirates,6,Telugu Titans,8,74,Patna Pirates,Telugu Titans,38
+10,3148,Match 120,League,2023,"Netaji Indoor Stadium, Kolkata",2,45,43,Dabang Delhi K.C.,2,Tamil Thalaivas,29,88,Dabang Delhi K.C.,Tamil Thalaivas,45
+10,3149,Match 121,League,2023,"Netaji Indoor Stadium, Kolkata",3,26,29,Bengal Warriors,4,Puneri Paltan,7,55,Puneri Paltan,Bengal Warriors,29
+10,3150,Match 122,League,2023,"Tau Devilal Indoor Stadium, Panchkula",7,39,32,Haryana Steelers,28,Patna Pirates,6,71,Haryana Steelers,Patna Pirates,39
+10,3151,Match 123,League,2023,"Tau Devilal Indoor Stadium, Panchkula",7,44,51,Telugu Titans,8,Jaipur Pink Panthers,3,95,Jaipur Pink Panthers,Telugu Titans,51
+10,3152,Match 124,League,2023,"Tau Devilal Indoor Stadium, Panchkula",6,46,40,Haryana Steelers,28,U Mumba,5,86,Haryana Steelers,U Mumba,46
+10,3153,Match 125,League,2023,"Tau Devilal Indoor Stadium, Panchkula",7,29,36,U.P. Yoddhas,30,Gujarat Giants,31,65,Gujarat Giants,U.P. Yoddhas,36
+10,3154,Match 126,League,2023,"Tau Devilal Indoor Stadium, Panchkula",37,74,37,Tamil Thalaivas,29,Bengal Warriors,4,111,Tamil Thalaivas,Bengal Warriors,74
+10,3155,Match 127,League,2023,"Tau Devilal Indoor Stadium, Panchkula",8,46,38,Dabang Delhi K.C.,2,Bengaluru Bulls,1,84,Dabang Delhi K.C.,Bengaluru Bulls,46
+10,3156,Match 128,League,2023,"Tau Devilal Indoor Stadium, Panchkula",9,36,45,Gujarat Giants,31,Jaipur Pink Panthers,3,81,Jaipur Pink Panthers,Gujarat Giants,45
+10,3157,Match 129,League,2023,"Tau Devilal Indoor Stadium, Panchkula",15,36,51,Haryana Steelers,28,Puneri Paltan,7,87,Puneri Paltan,Haryana Steelers,51
+10,3158,Match 130,League,2023,"Tau Devilal Indoor Stadium, Panchkula",0,45,45,U Mumba,5,Telugu Titans,8,90,tied,tied,45
+10,3159,Match 131,League,2023,"Tau Devilal Indoor Stadium, Panchkula",2,40,38,Puneri Paltan,7,U.P. Yoddhas,30,78,Puneri Paltan,U.P. Yoddhas,40
+10,3160,Match 132,League,2023,"Tau Devilal Indoor Stadium, Panchkula",14,39,53,Haryana Steelers,28,Bengaluru Bulls,1,92,Bengaluru Bulls,Haryana Steelers,53
+10,3161,Eliminator 1,Playoffs,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",2,35,37,Dabang Delhi K.C.,2,Patna Pirates,6,72,Patna Pirates,Dabang Delhi K.C.,37
+10,3162,Eliminator 2,Playoffs,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",17,25,42,Gujarat Giants,31,Haryana Steelers,28,67,Haryana Steelers,Gujarat Giants,42
+10,3163,Semi Final 1,Semi Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",16,37,21,Puneri Paltan,7,Patna Pirates,6,58,Puneri Paltan,Patna Pirates,37
+10,3164,Semi Final 2,Semi Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",4,27,31,Jaipur Pink Panthers,3,Haryana Steelers,28,58,Haryana Steelers,Jaipur Pink Panthers,31
+10,3165,Final,Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",3,28,25,Puneri Paltan,7,Haryana Steelers,28,53,Puneri Paltan,Haryana Steelers,28
