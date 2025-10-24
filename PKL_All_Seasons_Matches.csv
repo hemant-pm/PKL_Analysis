@@ -1,0 +1,1065 @@
+﻿Season,Match_ID,Match_Name,League_Stage,Year,Venue,Match_Outcome,Start_Date,End_Date,Result,Winning Margin,team_score_1,team_score_2,team_name_1,team_id_1,team_name_2,team_id_2
+1,1,Match 1,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Jaipur Pink Panthers (45 - 31),07/26/2014T8:00:00TPM,07/26/2014T8:00:00TPM,,14,45,31,U Mumba,5,Jaipur Pink Panthers,3
+1,2,Match 2,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat Dabang Delhi (47 - 28),07/26/2014T9:00:00TPM,07/26/2014T9:00:00TPM,,19,28,47,Dabang Delhi,2,Bengaluru Bulls,1
+1,3,Match 3,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat Puneri Paltan (40 - 37),07/27/2014T8:00:00TPM,07/27/2014T8:00:00TPM,,3,40,37,Bengaluru Bulls,1,Puneri Paltan,7
+1,4,Match 4,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Bengal Warriors (36 - 25),07/27/2014T9:00:00TPM,07/27/2014T9:00:00TPM,,11,36,25,U Mumba,5,Bengal Warriors,4
+1,5,Match 5,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",Dabang Delhi beat Puneri Paltan (35 - 31),07/28/2014T8:00:00TPM,07/28/2014T8:00:00TPM,,4,31,35,Puneri Paltan,7,Dabang Delhi,2
+1,6,Match 6,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",Match Drawn (35 - 35),07/28/2014T9:00:00TPM,07/28/2014T9:00:00TPM,Tied,0,35,35,U Mumba,5,Telugu Titans,8
+1,7,Match 7,League,2014,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Patna Pirates (36 - 33),07/29/2014T8:00:00TPM,07/29/2014T8:00:00TPM,,3,36,33,U Mumba,5,Patna Pirates,6
+1,8,Match 8,League,2014,Netaji Indoor Stadium,Bengaluru Bulls beat Bengal Warriors (46 - 30),07/30/2014T5:30:00TAM,07/30/2014T5:30:00TAM,,16,30,46,Bengal Warriors,4,Bengaluru Bulls,1
+1,9,Match 9,League,2014,Netaji Indoor Stadium,Jaipur Pink Panthers beat Telugu Titans (46 - 32),07/31/2014T5:30:00TAM,07/31/2014T5:30:00TAM,,14,46,32,Jaipur Pink Panthers,3,Telugu Titans,8
+1,10,Match 10,League,2014,Netaji Indoor Stadium,Bengal Warriors beat Dabang Delhi (42 - 40),07/31/2014T5:30:00TAM,07/31/2014T5:30:00TAM,,2,42,40,Bengal Warriors,4,Dabang Delhi,2
+1,11,Match 11,League,2014,Netaji Indoor Stadium,Patna Pirates beat Telugu Titans (38 - 35),08/01/2014T5:30:00TAM,08/01/2014T5:30:00TAM,,3,35,38,Telugu Titans,8,Patna Pirates,6
+1,12,Match 12,League,2014,Netaji Indoor Stadium,Bengal Warriors beat Puneri Paltan (38 - 35),08/01/2014T5:30:00TAM,08/01/2014T5:30:00TAM,,3,38,35,Bengal Warriors,4,Puneri Paltan,7
+1,13,Match 13,League,2014,Netaji Indoor Stadium,Jaipur Pink Panthers beat Patna Pirates (40 - 18),08/02/2014T5:30:00TAM,08/02/2014T5:30:00TAM,,22,18,40,Patna Pirates,6,Jaipur Pink Panthers,3
+1,14,Match 14,League,2014,Netaji Indoor Stadium,U Mumba beat Bengal Warriors (38 - 29),08/02/2014T5:30:00TAM,08/02/2014T5:30:00TAM,,9,29,38,Bengal Warriors,4,U Mumba,5
+1,15,Match 15,League,2014,Thyagaraj Indoor Stadium,Telugu Titans beat Dabang Delhi (39 - 35),08/03/2014T5:30:00TAM,08/03/2014T5:30:00TAM,,4,35,39,Dabang Delhi,2,Telugu Titans,8
+1,16,Match 16,League,2014,Thyagaraj Indoor Stadium,Puneri Paltan beat Bengaluru Bulls (33 - 31),08/03/2014T5:30:00TAM,08/03/2014T5:30:00TAM,,2,33,31,Puneri Paltan,7,Bengaluru Bulls,1
+1,17,Match 17,League,2014,Thyagaraj Indoor Stadium,U Mumba beat Puneri Paltan (44 - 28),08/04/2014T5:30:00TAM,08/04/2014T5:30:00TAM,,16,44,28,U Mumba,5,Puneri Paltan,7
+1,18,Match 18,League,2014,Thyagaraj Indoor Stadium,Patna Pirates beat Dabang Delhi (36 - 31),08/04/2014T5:30:00TAM,08/04/2014T5:30:00TAM,,5,31,36,Dabang Delhi,2,Patna Pirates,6
+1,19,Match 19,League,2014,Thyagaraj Indoor Stadium,U Mumba beat Bengaluru Bulls (45 - 34),08/05/2014T5:30:00TAM,08/05/2014T5:30:00TAM,,11,34,45,Bengaluru Bulls,1,U Mumba,5
+1,20,Match 20,League,2014,Thyagaraj Indoor Stadium,Jaipur Pink Panthers beat Dabang Delhi (40 - 31),08/05/2014T5:30:00TAM,08/05/2014T5:30:00TAM,,9,31,40,Dabang Delhi,2,Jaipur Pink Panthers,3
+1,21,Match 21,League,2014,Thyagaraj Indoor Stadium,Dabang Delhi beat Bengal Warriors (46 - 36),08/06/2014T5:30:00TAM,08/06/2014T5:30:00TAM,,10,46,36,Dabang Delhi,2,Bengal Warriors,4
+1,22,Match 22,League,2014,Patliputra Indoor Stadium,Patna Pirates beat Puneri Paltan (35 - 27),08/07/2014T5:30:00TAM,08/07/2014T5:30:00TAM,,8,35,Patna Pirates,6,Puneri Paltan,7,
+1,23,Match 23,League,2014,Patliputra Indoor Stadium,Bengal Warriors beat Telugu Titans (40 - 35),08/08/2014T5:30:00TAM,08/08/2014T5:30:00TAM,,5,40,35,Bengal Warriors,4,Telugu Titans,8
+1,24,Match 24,League,2014,Patliputra Indoor Stadium,Match Drawn (37 - 37),08/08/2014T5:30:00TAM,08/08/2014T5:30:00TAM,Tied,0,37,37,Patna Pirates,6,U Mumba,5
+1,25,Match 25,League,2014,Patliputra Indoor Stadium,Jaipur Pink Panthers beat Telugu Titans (49 - 29),08/09/2014T5:30:00TAM,08/09/2014T5:30:00TAM,,20,29,49,Telugu Titans,8,Jaipur Pink Panthers,3
+1,26,Match 26,League,2014,Patliputra Indoor Stadium,Match Drawn (30 - 30),08/09/2014T5:30:00TAM,08/09/2014T5:30:00TAM,Tied,0,30,30,Patna Pirates,6,Dabang Delhi,2
+1,27,Match 27,League,2014,Patliputra Indoor Stadium,Jaipur Pink Panthers beat Bengal Warriors (39 - 23),08/10/2014T5:30:00TAM,08/10/2014T5:30:00TAM,,16,39,23,Jaipur Pink Panthers,3,Bengal Warriors,4
+1,28,Match 28,League,2014,Patliputra Indoor Stadium,Bengaluru Bulls beat Patna Pirates (37 - 35),08/10/2014T5:30:00TAM,08/10/2014T5:30:00TAM,,2,35,37,Patna Pirates,6,Bengaluru Bulls,1
+1,29,Match 29,League,2014,Shree Shiv Chhatrapati Sports Complex,Telugu Titans beat Puneri Paltan (42 - 36),08/12/2014T5:30:00TAM,08/12/2014T5:30:00TAM,,6,36,42,Puneri Paltan,7,Telugu Titans,8
+1,30,Match 30,League,2014,Shree Shiv Chhatrapati Sports Complex,Bengaluru Bulls beat U Mumba (33 - 30),08/13/2014T5:30:00TAM,08/13/2014T5:30:00TAM,,3,30,33,U Mumba,5,Bengaluru Bulls,1
+1,31,Match 31,League,2014,Shree Shiv Chhatrapati Sports Complex,Puneri Paltan beat Bengal Warriors (40 - 30),08/13/2014T5:30:00TAM,08/13/2014T5:30:00TAM,,10,40,30,Puneri Paltan,7,Bengal Warriors,4
+1,32,Match 32,League,2014,Shree Shiv Chhatrapati Sports Complex,Dabang Delhi beat Bengaluru Bulls (29 - 27),08/14/2014T5:30:00TAM,08/14/2014T5:30:00TAM,,2,27,29,Bengaluru Bulls,1,Dabang Delhi,2
+1,33,Match 33,League,2014,Shree Shiv Chhatrapati Sports Complex,Jaipur Pink Panthers beat Puneri Paltan (50 - 23),08/14/2014T5:30:00TAM,08/14/2014T5:30:00TAM,,27,23,50,Puneri Paltan,7,Jaipur Pink Panthers,3
+1,34,Match 34,League,2014,Shree Shiv Chhatrapati Sports Complex,Dabang Delhi beat U Mumba (36 - 27),08/15/2014T5:30:00TAM,08/15/2014T5:30:00TAM,,9,36,27,Dabang Delhi,2,U Mumba,5
+1,35,Match 35,League,2014,Shree Shiv Chhatrapati Sports Complex,Patna Pirates beat Puneri Paltan (37 - 31),08/15/2014T5:30:00TAM,08/15/2014T5:30:00TAM,,6,31,37,Puneri Paltan,7,Patna Pirates,6
+1,36,Match 36,League,2014,Rajiv Gandhi Indoor Stadium,Match Drawn (28 - 28),08/16/2014T5:30:00TAM,08/16/2014T5:30:00TAM,Tied,0,28,28,Telugu Titans,8,Bengaluru Bulls,1
+1,37,Match 37,League,2014,Rajiv Gandhi Indoor Stadium,Jaipur Pink Panthers beat Bengal Warriors (41 - 33),08/16/2014T5:30:00TAM,08/16/2014T5:30:00TAM,,8,33,41,Bengal Warriors,4,Jaipur Pink Panthers,3
+1,38,Match 38,League,2014,Rajiv Gandhi Indoor Stadium,Patna Pirates beat Jaipur Pink Panthers (52 - 30),08/17/2014T5:30:00TAM,08/17/2014T5:30:00TAM,,22,30,52,Jaipur Pink Panthers,3,Patna Pirates,6
+1,39,Match 39,League,2014,Rajiv Gandhi Indoor Stadium,Telugu Titans beat U Mumba (44 - 43),08/17/2014T5:30:00TAM,08/17/2014T5:30:00TAM,,1,44,43,Telugu Titans,8,U Mumba,5
+1,40,Match 40,League,2014,Rajiv Gandhi Indoor Stadium,Bengal Warriors beat Patna Pirates (30 - 28),08/18/2014T5:30:00TAM,08/18/2014T5:30:00TAM,,2,28,30,Patna Pirates,6,Bengal Warriors,4
+1,41,Match 41,League,2014,Rajiv Gandhi Indoor Stadium,Telugu Titans beat Puneri Paltan (60 - 24),08/18/2014T5:30:00TAM,08/18/2014T5:30:00TAM,,36,60,24,Telugu Titans,8,Puneri Paltan,7
+1,42,Match 42,League,2014,Rajiv Gandhi Indoor Stadium,Telugu Titans beat Dabang Delhi (45 - 26),08/19/2014T5:30:00TAM,08/19/2014T5:30:00TAM,,19,45,26,Telugu Titans,8,Dabang Delhi,2
+1,43,Match 43,League,2014,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (36 - 31),08/20/2014T5:30:00TAM,08/20/2014T5:30:00TAM,,5,36,31,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+1,44,Match 44,League,2014,Sawai Mansingh Stadium,Patna Pirates beat Bengal Warriors (36 - 32),08/21/2014T5:30:00TAM,08/21/2014T5:30:00TAM,,4,32,36,Bengal Warriors,4,Patna Pirates,6
+1,45,Match 45,League,2014,Sawai Mansingh Stadium,Match Drawn (31 - 31),08/21/2014T5:30:00TAM,08/21/2014T5:30:00TAM,Tied,0,31,31,Jaipur Pink Panthers,3,U Mumba,5
+1,46,Match 46,League,2014,Sawai Mansingh Stadium,Match Drawn (34 - 34),08/22/2014T5:30:00TAM,08/22/2014T5:30:00TAM,Tied,0,34,34,Telugu Titans,8,Bengal Warriors,4
+1,47,Match 47,League,2014,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Dabang Delhi (41 - 31),08/22/2014T5:30:00TAM,08/22/2014T5:30:00TAM,,10,41,31,Jaipur Pink Panthers,3,Dabang Delhi,2
+1,48,Match 48,League,2014,Sawai Mansingh Stadium,Telugu Titans beat Patna Pirates (32 - 29),08/23/2014T5:30:00TAM,08/23/2014T5:30:00TAM,,3,29,32,Patna Pirates,6,Telugu Titans,8
+1,49,Match 49,League,2014,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Puneri Paltan (33 - 27),08/23/2014T5:30:00TAM,08/23/2014T5:30:00TAM,,6,33,27,Jaipur Pink Panthers,3,Puneri Paltan,7
+1,50,Match 50,League,2014,Kanteerava Indoor Stadium,Bengaluru Bulls beat Bengal Warriors (37 - 24),08/24/2014T5:30:00TAM,08/24/2014T5:30:00TAM,,13,37,24,Bengaluru Bulls,1,Bengal Warriors,4
+1,51,Match 51,League,2014,Kanteerava Indoor Stadium,U Mumba beat Dabang Delhi (37 - 30),08/24/2014T5:30:00TAM,08/24/2014T5:30:00TAM,,7,37,30,U Mumba,5,Dabang Delhi,2
+1,52,Match 52,League,2014,Kanteerava Indoor Stadium,Dabang Delhi beat Puneri Paltan (45 - 22),08/25/2014T5:30:00TAM,08/25/2014T5:30:00TAM,,23,45,22,Dabang Delhi,2,Puneri Paltan,7
+1,53,Match 53,League,2014,Kanteerava Indoor Stadium,Patna Pirates beat Bengaluru Bulls (33 - 31),08/25/2014T5:30:00TAM,08/25/2014T5:30:00TAM,,2,31,33,Bengaluru Bulls,1,Patna Pirates,6
+1,54,Match 54,League,2014,Kanteerava Indoor Stadium,Bengaluru Bulls beat Telugu Titans (27 - 26),08/26/2014T5:30:00TAM,08/26/2014T5:30:00TAM,,1,27,26,Bengaluru Bulls,1,Telugu Titans,8
+1,55,Match 55,League,2014,Kanteerava Indoor Stadium,U Mumba beat Puneri Paltan (36 - 35),08/27/2014T5:30:00TAM,08/27/2014T5:30:00TAM,,1,35,36,Puneri Paltan,7,U Mumba,5
+1,56,Match 56,League,2014,Kanteerava Indoor Stadium,Bengaluru Bulls beat Jaipur Pink Panthers (30 - 29),08/27/2014T5:30:00TAM,08/27/2014T5:30:00TAM,,1,30,29,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+1,57,Semi-Final 1,Semi Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",Jaipur Pink Panthers beat Patna Pirates (38 - 18),08/29/2014T5:30:00TAM,08/29/2014T5:30:00TAM,,20,38,18,Jaipur Pink Panthers,3,Patna Pirates,6
+1,58,Semi-Final 2,Semi Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Bengaluru Bulls (27 - 23),08/29/2014T5:30:00TAM,08/29/2014T5:30:00TAM,,4,27,23,U Mumba,5,Bengaluru Bulls,1
+1,59,3rd Place Playoff,Super Playoffs,2014,"Dome,Nsci,Svp Stadium,Mumbai",Patna Pirates beat Bengaluru Bulls (29 - 22),08/31/2014T5:30:00TAM,08/31/2014T5:30:00TAM,,7,29,22,Patna Pirates,6,Bengaluru Bulls,1
+1,60,Final,Final,2014,"Dome,Nsci,Svp Stadium,Mumbai",Jaipur Pink Panthers beat U Mumba (35 - 24),08/31/2014T5:30:00TAM,08/31/2014T5:30:00TAM,,11,35,24,Jaipur Pink Panthers,3,U Mumba,5
+2,62,Match 1,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Jaipur Pink Panthers (29-28),07/18/2015T8:00:00TPM,07/18/2015T8:00:00TPM,W,1,29,28,U Mumba,5,Jaipur Pink Panthers,3
+2,63,Match 2,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat Bengal Warriors (33-25),07/18/2015T9:00:00TPM,07/18/2015T9:00:00TPM,W,8,33,25,Bengaluru Bulls,1,Bengal Warriors,4
+2,64,Match 3,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",Telugu Titans beat Dabang Delhi (36-27),07/19/2015T8:00:00TPM,07/19/2015T8:00:00TPM,W,9,36,27,Telugu Titans,8,Dabang Delhi,2
+2,65,Match 4,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Bengaluru Bulls (36-23),07/19/2015T9:00:00TPM,07/19/2015T9:00:00TPM,W,13,36,23,U Mumba,5,Bengaluru Bulls,1
+2,66,Match 5,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",Telugu Titans beat Puneri Paltan (45-24),07/20/2015T8:00:00TPM,07/20/2015T8:00:00TPM,W,21,24,45,Puneri Paltan,7,Telugu Titans,8
+2,67,Match 6,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Patna Pirates (25-20),07/20/2015T9:00:00TPM,07/20/2015T9:00:00TPM,W,5,25,20,U Mumba,5,Patna Pirates,6
+2,68,Match 7,League,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Puneri Paltan (28-21),07/21/2015T8:00:00TPM,07/21/2015T8:00:00TPM,W,7,28,21,U Mumba,5,Puneri Paltan,7
+2,69,Match 8,League,2015,Netaji Indoor Stadium,Bengal Warriors beat Jaipur Pink Panthers (28-26),07/22/2015T8:00:00TPM,07/22/2015T8:00:00TPM,W,2,28,26,Bengal Warriors,4,Jaipur Pink Panthers,3
+2,70,Match 9,League,2015,Netaji Indoor Stadium,Bengaluru Bulls beat Patna Pirates (31-26),07/22/2015T9:00:00TPM,07/22/2015T9:00:00TPM,W,5,31,26,Bengaluru Bulls,1,Patna Pirates,6
+2,71,Match 10,League,2015,Netaji Indoor Stadium,Telugu Titans beat Bengal Warriors (32-30),07/23/2015T8:00:00TPM,07/23/2015T8:00:00TPM,W,2,30,32,Bengal Warriors,4,Telugu Titans,8
+2,72,Match 11,League,2015,Netaji Indoor Stadium,Dabang Delhi beat Puneri Paltan (38-37),07/24/2015T8:00:00TPM,07/24/2015T8:00:00TPM,W,1,38,37,Dabang Delhi,2,Puneri Paltan,7
+2,73,Match 12,League,2015,Netaji Indoor Stadium,U Mumba beat Bengal Warriors (29-25),07/24/2015T9:00:00TPM,07/24/2015T9:00:00TPM,W,4,25,29,Bengal Warriors,4,U Mumba,5
+2,74,Match 13,League,2015,Netaji Indoor Stadium,Bengaluru Bulls beat Puneri Paltan (31-26),07/25/2015T8:00:00TPM,07/25/2015T8:00:00TPM,W,5,31,26,Bengaluru Bulls,1,Puneri Paltan,7
+2,75,Match 14,League,2015,Netaji Indoor Stadium,Dabang Delhi beat Bengal Warriors (32-21),07/25/2015T9:00:00TPM,07/25/2015T9:00:00TPM,W,11,21,32,Bengal Warriors,4,Dabang Delhi,2
+2,76,Match 15,League,2015,Sawai Mansingh Stadium,Patna Pirates beat Jaipur Pink Panthers (29-23),07/26/2015T8:00:00TPM,07/26/2015T8:00:00TPM,W,6,23,29,Jaipur Pink Panthers,3,Patna Pirates,6
+2,77,Match 16,League,2015,Sawai Mansingh Stadium,U Mumba beat Telugu Titans (27-26),07/26/2015T9:00:00TPM,07/26/2015T9:00:00TPM,W,1,26,27,Telugu Titans,8,U Mumba,5
+2,78,Match 17,League,2015,Sawai Mansingh Stadium,Bengaluru Bulls beat Dabang Delhi (33-18),07/27/2015T8:00:00TPM,07/27/2015T8:00:00TPM,W,15,18,33,Dabang Delhi,2,Bengaluru Bulls,1
+2,79,Match 18,League,2015,Sawai Mansingh Stadium,Telugu Titans beat Jaipur Pink Panthers (33-22),07/27/2015T9:00:00TPM,07/27/2015T9:00:00TPM,W,11,22,33,Jaipur Pink Panthers,3,Telugu Titans,8
+2,80,Match 19,League,2015,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (36-23),07/28/2015T8:00:00TPM,07/28/2015T8:00:00TPM,W,13,36,23,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+2,81,Match 20,League,2015,Sawai Mansingh Stadium,Puneri Paltan beat Bengal Warriors (33-29),07/29/2015T8:00:00TPM,07/29/2015T8:00:00TPM,W,4,33,29,Puneri Paltan,7,Bengal Warriors,4
+2,82,Match 21,League,2015,Sawai Mansingh Stadium,Dabang Delhi beat Jaipur Pink Panthers (35-27),07/29/2015T9:00:00TPM,07/29/2015T9:00:00TPM,W,8,27,35,Jaipur Pink Panthers,3,Dabang Delhi,2
+2,83,Match 22,League,2015,Patliputra Indoor Stadium,Telugu Titans beat Patna Pirates (34-22),07/30/2015T8:00:00TPM,07/30/2015T8:00:00TPM,W,12,22,34,Patna Pirates,6,Telugu Titans,8
+2,84,Match 23,League,2015,Patliputra Indoor Stadium,Bengaluru Bulls beat Telugu Titans (35-21),07/31/2015T8:00:00TPM,07/31/2015T8:00:00TPM,W,14,21,35,Telugu Titans,8,Bengaluru Bulls,1
+2,85,Match 24,League,2015,Patliputra Indoor Stadium,Patna Pirates beat Dabang Delhi (39-22),07/31/2015T9:00:00TPM,07/31/2015T9:00:00TPM,W,17,39,22,Patna Pirates,6,Dabang Delhi,2
+2,86,Match 25,League,2015,Patliputra Indoor Stadium,U Mumba beat Dabang Delhi (27-22),08/01/2015T8:00:00TPM,08/01/2015T8:00:00TPM,W,5,22,27,Dabang Delhi,2,U Mumba,5
+2,87,Match 26,League,2015,Patliputra Indoor Stadium,Patna Pirates beat Puneri Paltan (32-28),08/01/2015T9:00:00TPM,08/01/2015T9:00:00TPM,W,4,32,28,Patna Pirates,6,Puneri Paltan,7
+2,88,Match 27,League,2015,Patliputra Indoor Stadium,Jaipur Pink Panthers beat Puneri Paltan (35-29),08/02/2015T8:00:00TPM,08/02/2015T8:00:00TPM,W,6,29,35,Puneri Paltan,7,Jaipur Pink Panthers,3
+2,89,Match 28,League,2015,Patliputra Indoor Stadium,Match Tied,08/02/2015T9:00:00TPM,08/02/2015T9:00:00TPM,Tied,0,20,20,Patna Pirates,6,Bengal Warriors,4
+2,90,Match 29,League,2015,Gachibowli Indoor Stadium,Match Tied,08/04/2015T8:00:00TPM,08/04/2015T8:00:00TPM,Tied,0,39,39,Telugu Titans,8,Jaipur Pink Panthers,3
+2,91,Match 30,League,2015,Gachibowli Indoor Stadium,U Mumba beat Dabang Delhi (29-25),08/04/2015T9:00:00TPM,08/04/2015T9:00:00TPM,W,4,29,25,U Mumba,5,Dabang Delhi,2
+2,92,Match 31,League,2015,Gachibowli Indoor Stadium,Telugu Titans beat Bengal Warriors (44-28),08/05/2015T8:00:00TPM,08/05/2015T8:00:00TPM,W,16,44,28,Telugu Titans,8,Bengal Warriors,4
+2,93,Match 32,League,2015,Gachibowli Indoor Stadium,Bengaluru Bulls beat Bengal Warriors (33-22),08/06/2015T8:00:00TPM,08/06/2015T8:00:00TPM,W,11,22,33,Bengal Warriors,4,Bengaluru Bulls,1
+2,94,Match 33,League,2015,Gachibowli Indoor Stadium,Telugu Titans beat Patna Pirates (54-32),08/06/2015T9:00:00TPM,08/06/2015T9:00:00TPM,W,22,54,32,Telugu Titans,8,Patna Pirates,6
+2,95,Match 34,League,2015,Gachibowli Indoor Stadium,Jaipur Pink Panthers beat U Mumba (35-25),08/07/2015T8:00:00TPM,08/07/2015T8:00:00TPM,W,10,35,25,Jaipur Pink Panthers,3,U Mumba,5
+2,96,Match 35,League,2015,Gachibowli Indoor Stadium,Match Tied,08/07/2015T9:00:00TPM,08/07/2015T9:00:00TPM,Tied,0,29,29,Telugu Titans,8,Puneri Paltan,7
+2,97,Match 36,League,2015,Thyagaraj Indoor Stadium,Bengal Warriors beat Dabang Delhi (20-17),08/08/2015T8:00:00TPM,08/08/2015T8:00:00TPM,W,3,17,20,Dabang Delhi,2,Bengal Warriors,4
+2,98,Match 37,League,2015,Thyagaraj Indoor Stadium,Patna Pirates beat Bengaluru Bulls (30-28),08/08/2015T9:00:00TPM,08/08/2015T9:00:00TPM,W,2,30,28,Patna Pirates,6,Bengaluru Bulls,1
+2,99,Match 38,League,2015,Thyagaraj Indoor Stadium,U Mumba beat Bengal Warriors (31-17),08/09/2015T8:00:00TPM,08/09/2015T8:00:00TPM,W,14,31,17,U Mumba,5,Bengal Warriors,4
+2,100,Match 39,League,2015,Thyagaraj Indoor Stadium,Dabang Delhi beat Patna Pirates (45-26),08/09/2015T9:00:00TPM,08/09/2015T9:00:00TPM,W,19,45,26,Dabang Delhi,2,Patna Pirates,6
+2,101,Match 40,League,2015,Thyagaraj Indoor Stadium,Jaipur Pink Panthers beat Dabang Delhi (51-21),08/10/2015T8:00:00TPM,08/10/2015T8:00:00TPM,W,30,21,51,Dabang Delhi,2,Jaipur Pink Panthers,3
+2,102,Match 41,League,2015,Thyagaraj Indoor Stadium,Jaipur Pink Panthers beat Puneri Paltan (31-18),08/11/2015T8:00:00TPM,08/11/2015T8:00:00TPM,W,13,31,18,Jaipur Pink Panthers,3,Puneri Paltan,7
+2,103,Match 42,League,2015,Thyagaraj Indoor Stadium,Match Tied,08/11/2015T9:00:00TPM,08/11/2015T9:00:00TPM,Tied,0,45,45,Dabang Delhi,2,Telugu Titans,8
+2,104,Match 43,League,2015,Kanteerava Indoor Stadium,U Mumba beat Bengaluru Bulls (36-29),08/12/2015T8:00:00TPM,08/12/2015T8:00:00TPM,W,7,29,36,Bengaluru Bulls,1,U Mumba,5
+2,105,Match 44,League,2015,Kanteerava Indoor Stadium,Bengal Warriors beat Puneri Paltan (31-28),08/13/2015T8:00:00TPM,08/13/2015T8:00:00TPM,W,3,31,28,Bengal Warriors,4,Puneri Paltan,7
+2,106,Match 45,League,2015,Kanteerava Indoor Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (27-25),08/13/2015T9:00:00TPM,08/13/2015T9:00:00TPM,W,2,25,27,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+2,107,Match 46,League,2015,Kanteerava Indoor Stadium,Patna Pirates beat Bengal Warriors (34-32),08/14/2015T8:00:00TPM,08/14/2015T8:00:00TPM,W,2,32,34,Bengal Warriors,4,Patna Pirates,6
+2,108,Match 47,League,2015,Kanteerava Indoor Stadium,Bengaluru Bulls beat Dabang Delhi (40-21),08/14/2015T9:00:00TPM,08/14/2015T9:00:00TPM,W,19,40,21,Bengaluru Bulls,1,Dabang Delhi,2
+2,109,Match 48,League,2015,Kanteerava Indoor Stadium,U Mumba beat Patna Pirates (32-27),08/15/2015T8:00:00TPM,08/15/2015T8:00:00TPM,W,5,27,32,Patna Pirates,6,U Mumba,5
+2,110,Match 49,League,2015,Kanteerava Indoor Stadium,Bengaluru Bulls beat Telugu Titans (43-29),08/15/2015T9:00:00TPM,08/15/2015T9:00:00TPM,W,14,43,29,Bengaluru Bulls,1,Telugu Titans,8
+2,111,Match 50,League,2015,Shree Shiv Chhatrapati Sports Complex,Puneri Paltan beat Dabang Delhi (33-28),08/16/2015T8:00:00TPM,08/16/2015T8:00:00TPM,W,5,33,28,Puneri Paltan,7,Dabang Delhi,2
+2,112,Match 51,League,2015,Shree Shiv Chhatrapati Sports Complex,Bengal Warriors beat Jaipur Pink Panthers (39-38),08/16/2015T9:00:00TPM,08/16/2015T9:00:00TPM,W,1,38,39,Jaipur Pink Panthers,3,Bengal Warriors,4
+2,113,Match 52,League,2015,Shree Shiv Chhatrapati Sports Complex,U Mumba beat Puneri Paltan (39-34),08/17/2015T8:00:00TPM,08/17/2015T8:00:00TPM,W,5,34,39,Puneri Paltan,7,U Mumba,5
+2,114,Match 53,League,2015,Shree Shiv Chhatrapati Sports Complex,Telugu Titans beat U Mumba (46-25),08/18/2015T8:00:00TPM,08/18/2015T8:00:00TPM,W,21,25,46,U Mumba,5,Telugu Titans,8
+2,115,Match 54,League,2015,Shree Shiv Chhatrapati Sports Complex,Patna Pirates beat Puneri Paltan (38-21),08/18/2015T9:00:00TPM,08/18/2015T9:00:00TPM,W,17,21,38,Puneri Paltan,7,Patna Pirates,6
+2,116,Match 55,League,2015,Shree Shiv Chhatrapati Sports Complex,Patna Pirates beat Jaipur Pink Panthers (26-24),08/19/2015T8:00:00TPM,08/19/2015T8:00:00TPM,W,2,26,24,Patna Pirates,6,Jaipur Pink Panthers,3
+2,117,Match 56,League,2015,Shree Shiv Chhatrapati Sports Complex,Bengaluru Bulls beat Puneri Paltan (31-30),08/19/2015T9:00:00TPM,08/19/2015T9:00:00TPM,W,1,30,31,Puneri Paltan,7,Bengaluru Bulls,1
+2,118,Semi-Final 1,Semi Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat Telugu Titans (39-38),08/21/2015T8:00:00TPM,08/21/2015T8:00:00TPM,W,1,38,39,Telugu Titans,8,Bengaluru Bulls,1
+2,119,Semi-Final 2,Semi Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Patna Pirates (35-18),08/21/2015T9:00:00TPM,08/21/2015T9:00:00TPM,W,17,35,18,U Mumba,5,Patna Pirates,6
+2,120,3/4 Place,Super Playoffs,2015,"Dome,Nsci,Svp Stadium,Mumbai",Telugu Titans beat Patna Pirates (34-26),08/23/2015T8:00:00TPM,08/23/2015T8:00:00TPM,W,8,26,34,Patna Pirates,6,Telugu Titans,8
+2,121,Final,Final,2015,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Bengaluru Bulls (36-30),08/23/2015T9:00:00TPM,08/23/2015T9:00:00TPM,W,6,36,30,U Mumba,5,Bengaluru Bulls,1
+3,122,Match 1,League,2016,Rajiv Gandhi Indoor Stadium,U Mumba beat Telugu Titans (27-25),01/30/2016T8:00:00TPM,01/30/2016T8:00:00TPM,W,2,25,27,Telugu Titans,8,U Mumba,5
+3,123,Match 2,League,2016,Rajiv Gandhi Indoor Stadium,Bengaluru Bulls beat Dabang Delhi (35-29),01/30/2016T9:00:00TPM,01/30/2016T9:00:00TPM,W,6,29,35,Dabang Delhi,2,Bengaluru Bulls,1
+3,124,Match 3,League,2016,Rajiv Gandhi Indoor Stadium,Jaipur Pink Panthers beat U Mumba (27-18),01/31/2016T8:00:00TPM,01/31/2016T8:00:00TPM,W,9,27,18,Jaipur Pink Panthers,3,U Mumba,5
+3,125,Match 4,League,2016,Rajiv Gandhi Indoor Stadium,Telugu Titans beat Puneri Paltan (27-26),01/31/2016T9:00:00TPM,01/31/2016T9:00:00TPM,W,1,27,26,Telugu Titans,8,Puneri Paltan,7
+3,126,Match 5,League,2016,Rajiv Gandhi Indoor Stadium,Patna Pirates beat Jaipur Pink Panthers (29-28),02/01/2016T8:00:00TPM,02/01/2016T8:00:00TPM,W,1,29,28,Patna Pirates,6,Jaipur Pink Panthers,3
+3,127,Match 6,League,2016,Rajiv Gandhi Indoor Stadium,Telugu Titans beat Dabang Delhi (45-34),02/01/2016T9:00:00TPM,02/01/2016T9:00:00TPM,W,11,45,34,Telugu Titans,8,Dabang Delhi,2
+3,128,Match 7,League,2016,Rajiv Gandhi Indoor Stadium,Bengal Warriors beat Telugu Titans (25-17),02/02/2016T8:00:00TPM,02/02/2016T8:00:00TPM,W,8,17,25,Telugu Titans,8,Bengal Warriors,4
+3,129,Match 8,League,2016,Kanteerava Indoor Stadium,Patna Pirates beat Bengaluru Bulls (33-24),02/03/2016T8:00:00TPM,02/03/2016T8:00:00TPM,W,9,24,33,Bengaluru Bulls,1,Patna Pirates,6
+3,130,Match 9,League,2016,Kanteerava Indoor Stadium,Puneri Paltan beat Dabang Delhi (38-20),02/03/2016T9:00:00TPM,02/03/2016T9:00:00TPM,W,18,20,38,Dabang Delhi,2,Puneri Paltan,7
+3,131,Match 10,League,2016,Kanteerava Indoor Stadium,Bengal Warriors beat Bengaluru Bulls (34-24),02/04/2016T8:00:00TPM,02/04/2016T8:00:00TPM,W,10,24,34,Bengaluru Bulls,1,Bengal Warriors,4
+3,132,Match 11,League,2016,Kanteerava Indoor Stadium,U Mumba beat Dabang Delhi (30-17),02/05/2016T8:00:00TPM,02/05/2016T8:00:00TPM,W,13,17,30,Dabang Delhi,2,U Mumba,5
+3,133,Match 12,League,2016,Kanteerava Indoor Stadium,Bengaluru Bulls beat Jaipur Pink Panthers (36-26),02/05/2016T9:00:00TPM,02/05/2016T9:00:00TPM,W,10,36,26,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+3,134,Match 13,League,2016,Kanteerava Indoor Stadium,Patna Pirates beat U Mumba (40-26),02/06/2016T8:00:00TPM,02/06/2016T8:00:00TPM,W,14,26,40,U Mumba,5,Patna Pirates,6
+3,135,Match 14,League,2016,Kanteerava Indoor Stadium,Telugu Titans beat Bengaluru Bulls (35-26),02/06/2016T9:00:00TPM,02/06/2016T9:00:00TPM,W,9,26,35,Bengaluru Bulls,1,Telugu Titans,8
+3,136,Match 15,League,2016,Netaji Indoor Stadium,Bengal Warriors beat Puneri Paltan (33-28),02/07/2016T8:00:00TPM,02/07/2016T8:00:00TPM,W,5,33,28,Bengal Warriors,4,Puneri Paltan,7
+3,137,Match 16,League,2016,Netaji Indoor Stadium,Jaipur Pink Panthers beat Dabang Delhi (39-34),02/07/2016T9:00:00TPM,02/07/2016T9:00:00TPM,W,5,39,34,Jaipur Pink Panthers,3,Dabang Delhi,2
+3,138,Match 17,League,2016,Netaji Indoor Stadium,Patna Pirates beat Telugu Titans (29-25),02/08/2016T8:00:00TPM,02/08/2016T8:00:00TPM,W,4,29,25,Patna Pirates,6,Telugu Titans,8
+3,139,Match 18,League,2016,Netaji Indoor Stadium,Bengal Warriors beat Dabang Delhi (34-17),02/08/2016T9:00:00TPM,02/08/2016T9:00:00TPM,W,17,34,17,Bengal Warriors,4,Dabang Delhi,2
+3,140,Match 19,League,2016,Netaji Indoor Stadium,Patna Pirates beat Bengal Warriors (36-31),02/09/2016T8:00:00TPM,02/09/2016T8:00:00TPM,W,5,31,36,Bengal Warriors,4,Patna Pirates,6
+3,141,Match 20,League,2016,Netaji Indoor Stadium,U Mumba beat Bengaluru Bulls (29-28),02/10/2016T8:00:00TPM,02/10/2016T8:00:00TPM,W,1,29,28,U Mumba,5,Bengaluru Bulls,1
+3,142,Match 21,League,2016,Netaji Indoor Stadium,Bengal Warriors beat Jaipur Pink Panthers (34-20),02/10/2016T9:00:00TPM,02/10/2016T9:00:00TPM,W,14,34,20,Bengal Warriors,4,Jaipur Pink Panthers,3
+3,143,Match 22,League,2016,Shree Shiv Chhatrapati Sports Complex,Match Tied,02/11/2016T8:00:00TPM,02/11/2016T8:00:00TPM,Tied,0,30,30,Puneri Paltan,7,Patna Pirates,6
+3,144,Match 23,League,2016,Shree Shiv Chhatrapati Sports Complex,Patna Pirates beat Dabang Delhi (47-34),02/12/2016T8:00:00TPM,02/12/2016T8:00:00TPM,W,13,47,34,Patna Pirates,6,Dabang Delhi,2
+3,145,Match 24,League,2016,Shree Shiv Chhatrapati Sports Complex,Match Tied,02/12/2016T9:00:00TPM,02/12/2016T9:00:00TPM,Tied,0,32,32,Puneri Paltan,7,Jaipur Pink Panthers,3
+3,146,Match 25,League,2016,Shree Shiv Chhatrapati Sports Complex,Telugu Titans beat Jaipur Pink Panthers (27-25),02/13/2016T8:00:00TPM,02/13/2016T8:00:00TPM,W,2,25,27,Jaipur Pink Panthers,3,Telugu Titans,8
+3,147,Match 26,League,2016,Shree Shiv Chhatrapati Sports Complex,U Mumba beat Puneri Paltan (29-27),02/13/2016T9:00:00TPM,02/13/2016T9:00:00TPM,W,2,27,29,Puneri Paltan,7,U Mumba,5
+3,148,Match 27,League,2016,Shree Shiv Chhatrapati Sports Complex,U Mumba beat Bengal Warriors (32-21),02/14/2016T8:00:00TPM,02/14/2016T8:00:00TPM,W,11,32,21,U Mumba,5,Bengal Warriors,4
+3,149,Match 28,League,2016,Shree Shiv Chhatrapati Sports Complex,Puneri Paltan beat Bengaluru Bulls (29-27),02/14/2016T9:00:00TPM,02/14/2016T9:00:00TPM,W,2,29,27,Puneri Paltan,7,Bengaluru Bulls,1
+3,150,Match 29,League,2016,Patliputra Indoor Stadium,Patna Pirates beat Bengal Warriors (32-27),02/16/2016T8:00:00TPM,02/16/2016T8:00:00TPM,W,5,32,27,Patna Pirates,6,Bengal Warriors,4
+3,151,Match 30,League,2016,Patliputra Indoor Stadium,Jaipur Pink Panthers beat Telugu Titans (35-26),02/16/2016T9:30:00TPM,02/16/2016T9:30:00TPM,W,9,26,35,Telugu Titans,8,Jaipur Pink Panthers,3
+3,152,Match 31,League,2016,Patliputra Indoor Stadium,Patna Pirates beat Bengaluru Bulls (36-32),02/17/2016T8:00:00TPM,02/17/2016T8:00:00TPM,W,4,36,32,Patna Pirates,6,Bengaluru Bulls,1
+3,153,Match 32,League,2016,Patliputra Indoor Stadium,Dabang Delhi beat Bengaluru Bulls (35-21),02/18/2016T8:00:00TPM,02/18/2016T8:00:00TPM,W,14,21,35,Bengaluru Bulls,1,Dabang Delhi,2
+3,154,Match 33,League,2016,Patliputra Indoor Stadium,Match Tied,02/18/2016T9:00:00TPM,02/18/2016T9:00:00TPM,Tied,0,28,28,Patna Pirates,6,Puneri Paltan,7
+3,155,Match 34,League,2016,Patliputra Indoor Stadium,Bengal Warriors beat Telugu Titans (32-28),02/19/2016T8:00:00TPM,02/19/2016T8:00:00TPM,W,4,32,28,Bengal Warriors,4,Telugu Titans,8
+3,156,Match 35,League,2016,Patliputra Indoor Stadium,U Mumba beat Patna Pirates (34-28),02/19/2016T9:00:00TPM,02/19/2016T9:00:00TPM,W,6,28,34,Patna Pirates,6,U Mumba,5
+3,157,Match 36,League,2016,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (30-21),02/20/2016T8:00:00TPM,02/20/2016T8:00:00TPM,W,9,30,21,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+3,158,Match 37,League,2016,Sawai Mansingh Stadium,Puneri Paltan beat Dabang Delhi (32-22),02/20/2016T9:00:00TPM,02/20/2016T9:00:00TPM,W,10,32,22,Puneri Paltan,7,Dabang Delhi,2
+3,159,Match 38,League,2016,Sawai Mansingh Stadium,Telugu Titans beat Bengaluru Bulls (40-22),02/21/2016T8:00:00TPM,02/21/2016T8:00:00TPM,W,18,40,22,Telugu Titans,8,Bengaluru Bulls,1
+3,160,Match 39,League,2016,Sawai Mansingh Stadium,Puneri Paltan beat Jaipur Pink Panthers (33-18),02/21/2016T9:00:00TPM,02/21/2016T9:00:00TPM,W,15,18,33,Jaipur Pink Panthers,3,Puneri Paltan,7
+3,161,Match 40,League,2016,Sawai Mansingh Stadium,Bengal Warriors beat Jaipur Pink Panthers (34-18),02/22/2016T8:00:00TPM,02/22/2016T8:00:00TPM,W,16,18,34,Jaipur Pink Panthers,3,Bengal Warriors,4
+3,162,Match 41,League,2016,Sawai Mansingh Stadium,U Mumba beat Bengal Warriors (30-17),02/23/2016T8:00:00TPM,02/23/2016T8:00:00TPM,W,13,17,30,Bengal Warriors,4,U Mumba,5
+3,163,Match 42,League,2016,Sawai Mansingh Stadium,Patna Pirates beat Jaipur Pink Panthers (47-24),02/23/2016T9:00:00TPM,02/23/2016T9:00:00TPM,W,23,24,47,Jaipur Pink Panthers,3,Patna Pirates,6
+3,164,Match 43,League,2016,Thyagaraj Indoor Stadium,Telugu Titans beat Dabang Delhi (44-36),02/24/2016T8:00:00TPM,02/24/2016T8:00:00TPM,W,8,36,44,Dabang Delhi,2,Telugu Titans,8
+3,165,Match 44,League,2016,Thyagaraj Indoor Stadium,U Mumba beat Bengaluru Bulls (39-18),02/25/2016T8:00:00TPM,02/25/2016T8:00:00TPM,W,21,18,39,Bengaluru Bulls,1,U Mumba,5
+3,166,Match 45,League,2016,Thyagaraj Indoor Stadium,Patna Pirates beat Dabang Delhi (67-34),02/25/2016T9:00:00TPM,02/25/2016T9:00:00TPM,W,33,34,67,Dabang Delhi,2,Patna Pirates,6
+3,167,Match 46,League,2016,Thyagaraj Indoor Stadium,Puneri Paltan beat Telugu Titans (41-24),02/26/2016T8:00:00TPM,02/26/2016T8:00:00TPM,W,17,41,24,Puneri Paltan,7,Telugu Titans,8
+3,168,Match 47,League,2016,Thyagaraj Indoor Stadium,Match Tied,02/26/2016T9:00:00TPM,02/26/2016T9:00:00TPM,Tied,0,21,21,Dabang Delhi,2,Jaipur Pink Panthers,3
+3,169,Match 48,League,2016,Thyagaraj Indoor Stadium,Puneri Paltan beat Bengaluru Bulls (44-27),02/27/2016T8:00:00TPM,02/27/2016T8:00:00TPM,W,17,27,44,Bengaluru Bulls,1,Puneri Paltan,7
+3,170,Match 49,League,2016,Thyagaraj Indoor Stadium,Bengal Warriors beat Dabang Delhi (37-31),02/27/2016T9:00:00TPM,02/27/2016T9:00:00TPM,W,6,31,37,Dabang Delhi,2,Bengal Warriors,4
+3,171,Match 50,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Jaipur Pink Panthers (35-21),02/28/2016T8:00:00TPM,02/28/2016T8:00:00TPM,W,14,35,21,U Mumba,5,Jaipur Pink Panthers,3
+3,172,Match 51,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Telugu Titans beat Patna Pirates (42-41),02/28/2016T9:00:00TPM,02/28/2016T9:00:00TPM,W,1,42,41,Telugu Titans,8,Patna Pirates,6
+3,173,Match 52,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Puneri Paltan (30-27),02/29/2016T8:00:00TPM,02/29/2016T8:00:00TPM,W,3,30,27,U Mumba,5,Puneri Paltan,7
+3,174,Match 53,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Bengal Warriors beat Bengaluru Bulls (26-22),03/01/2016T8:00:00TPM,03/01/2016T8:00:00TPM,W,4,26,22,Bengal Warriors,4,Bengaluru Bulls,1
+3,175,Match 54,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Telugu Titans (38-22),03/01/2016T9:00:00TPM,03/01/2016T9:00:00TPM,W,16,38,22,U Mumba,5,Telugu Titans,8
+3,176,Match 55,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Puneri Paltan beat Bengal Warriors (43-19),03/02/2016T8:00:00TPM,03/02/2016T8:00:00TPM,W,24,43,19,Puneri Paltan,7,Bengal Warriors,4
+3,177,Match 56,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Dabang Delhi (36-20),03/02/2016T9:00:00TPM,03/02/2016T9:00:00TPM,W,16,36,20,U Mumba,5,Dabang Delhi,2
+3,178,Semi-Final 1,Semi Final,2016,,Patna Pirates beat Puneri Paltan (40-21),03/04/2016T8:00:00TPM,03/04/2016T8:00:00TPM,W,19,40,21,Patna Pirates,6,Puneri Paltan,7
+3,179,Semi-Final 2,Semi Final,2016,,U Mumba beat Bengal Warriors (41-29),03/04/2016T9:00:00TPM,03/04/2016T9:00:00TPM,W,12,41,29,U Mumba,5,Bengal Warriors,4
+3,180,3/4 Place,Super Playoffs,2016,,Puneri Paltan beat Bengal Warriors (31-27),03/05/2016T8:00:00TPM,03/05/2016T8:00:00TPM,W,4,27,31,Bengal Warriors,4,Puneri Paltan,7
+3,181,Final,Final,2016,,Patna Pirates beat U Mumba (31-28),03/05/2016T9:00:00TPM,03/05/2016T9:00:00TPM,W,3,28,31,U Mumba,5,Patna Pirates,6
+4,182,Match 1,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Puneri Paltan beat Telugu Titans (28-24),06/25/2016T8:00:00TPM,06/25/2016T8:00:00TPM,W,4,28,24,Puneri Paltan,7,Telugu Titans,8
+4,183,Match 2,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Jaipur Pink Panthers (36-34),06/25/2016T9:00:00TPM,06/25/2016T9:00:00TPM,W,2,36,34,U Mumba,5,Jaipur Pink Panthers,3
+4,184,Match 3,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat Bengal Warriors (24-23),06/26/2016T8:00:00TPM,06/26/2016T8:00:00TPM,W,1,24,23,Bengaluru Bulls,1,Bengal Warriors,4
+4,185,Match 4,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Puneri Paltan beat U Mumba (41-19),06/26/2016T9:00:00TPM,06/26/2016T9:00:00TPM,W,22,41,19,Puneri Paltan,7,U Mumba,5
+4,186,Match 5,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Bengal Warriors beat Dabang Delhi K.C. (31-23),06/27/2016T8:00:00TPM,06/27/2016T8:00:00TPM,W,8,31,23,Bengal Warriors,4,Dabang Delhi,2
+4,187,Match 6,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Patna Pirates beat Puneri Paltan (30-24),06/27/2016T9:00:00TPM,06/27/2016T9:00:00TPM,W,6,24,30,Puneri Paltan,7,Patna Pirates,6
+4,188,Match 7,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Match Tied,06/28/2016T8:00:00TPM,06/28/2016T8:00:00TPM,Tied,0,27,27,Puneri Paltan,7,Dabang Delhi,2
+4,189,Match 8,League,2016,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Telugu Titans (28-24),06/29/2016T8:00:00TPM,06/29/2016T8:00:00TPM,W,4,28,24,Jaipur Pink Panthers,3,Telugu Titans,8
+4,190,Match 9,League,2016,Sawai Mansingh Stadium,Patna Pirates beat U Mumba (36-34),06/29/2016T9:00:00TPM,06/29/2016T9:00:00TPM,W,2,34,36,U Mumba,5,Patna Pirates,6
+4,191,Match 10,League,2016,Sawai Mansingh Stadium,Match Tied,06/30/2016T8:00:00TPM,06/30/2016T8:00:00TPM,Tied,0,28,28,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+4,192,Match 11,League,2016,Sawai Mansingh Stadium,U Mumba beat Dabang Delhi K.C. (27-25),07/01/2016T8:00:00TPM,07/01/2016T8:00:00TPM,W,2,27,25,U Mumba,5,Dabang Delhi,2
+4,193,Match 12,League,2016,Sawai Mansingh Stadium,Jaipur Pink Panthers beat Bengal Warriors (36-33),07/01/2016T9:00:00TPM,07/01/2016T9:00:00TPM,W,3,36,33,Jaipur Pink Panthers,3,Bengal Warriors,4
+4,194,Match 13,League,2016,Sawai Mansingh Stadium,Dabang Delhi K.C. beat Bengaluru Bulls (32-24),07/02/2016T8:00:00TPM,07/02/2016T8:00:00TPM,W,8,32,24,Dabang Delhi,2,Bengaluru Bulls,1
+4,195,Match 14,League,2016,Sawai Mansingh Stadium,Puneri Paltan beat Jaipur Pink Panthers (33-28),07/02/2016T9:00:00TPM,07/02/2016T9:00:00TPM,W,5,28,33,Jaipur Pink Panthers,3,Puneri Paltan,7
+4,196,Match 15,League,2016,Gachibowli Indoor Stadium,Patna Pirates beat Telugu Titans (35-33),07/03/2016T8:00:00TPM,07/03/2016T8:00:00TPM,W,2,33,35,Telugu Titans,8,Patna Pirates,6
+4,197,Match 16,League,2016,Gachibowli Indoor Stadium,U Mumba beat Bengal Warriors (26-18),07/03/2016T9:00:00TPM,07/03/2016T9:00:00TPM,W,8,18,26,Bengal Warriors,4,U Mumba,5
+4,198,Match 17,League,2016,Gachibowli Indoor Stadium,Bengaluru Bulls beat Puneri Paltan (29-27),07/04/2016T8:00:00TPM,07/04/2016T8:00:00TPM,W,2,29,27,Bengaluru Bulls,1,Puneri Paltan,7
+4,199,Match 18,League,2016,Gachibowli Indoor Stadium,Telugu Titans beat Bengal Warriors (35-18),07/04/2016T9:00:00TPM,07/04/2016T9:00:00TPM,W,17,35,18,Telugu Titans,8,Bengal Warriors,4
+4,200,Match 19,League,2016,Gachibowli Indoor Stadium,Bengaluru Bulls beat Telugu Titans (30-28),07/05/2016T8:00:00TPM,07/05/2016T8:00:00TPM,W,2,28,30,Telugu Titans,8,Bengaluru Bulls,1
+4,201,Match 20,League,2016,Gachibowli Indoor Stadium,Jaipur Pink Panthers beat Dabang Delhi K.C. (51-26),07/06/2016T8:00:00TPM,07/06/2016T8:00:00TPM,W,25,26,51,Dabang Delhi,2,Jaipur Pink Panthers,3
+4,202,Match 21,League,2016,Gachibowli Indoor Stadium,Telugu Titans beat U Mumba (35-30),07/06/2016T9:00:00TPM,07/06/2016T9:00:00TPM,W,5,35,30,Telugu Titans,8,U Mumba,5
+4,203,Match 22,League,2016,Patliputra Indoor Stadium,Patna Pirates beat Bengaluru Bulls (31-25),07/07/2016T8:00:00TPM,07/07/2016T8:00:00TPM,W,6,31,25,Patna Pirates,6,Bengaluru Bulls,1
+4,204,Match 23,League,2016,Patliputra Indoor Stadium,U Mumba beat Bengaluru Bulls (24-23),07/08/2016T8:00:00TPM,07/08/2016T8:00:00TPM,W,1,23,24,Bengaluru Bulls,1,U Mumba,5
+4,205,Match 24,League,2016,Patliputra Indoor Stadium,Patna Pirates beat Bengal Warriors (35-21),07/08/2016T9:00:00TPM,07/08/2016T9:00:00TPM,W,14,35,21,Patna Pirates,6,Bengal Warriors,4
+4,206,Match 25,League,2016,Patliputra Indoor Stadium,Puneri Paltan beat Bengal Warriors (38-31),07/09/2016T8:00:00TPM,07/09/2016T8:00:00TPM,W,7,31,38,Bengal Warriors,4,Puneri Paltan,7
+4,207,Match 26,League,2016,Patliputra Indoor Stadium,Dabang Delhi K.C. beat Patna Pirates (33-15),07/09/2016T9:00:00TPM,07/09/2016T9:00:00TPM,W,18,15,33,Patna Pirates,6,Dabang Delhi,2
+4,208,Match 27,League,2016,Patliputra Indoor Stadium,Telugu Titans beat Dabang Delhi K.C. (28-23),07/10/2016T8:00:00TPM,07/10/2016T8:00:00TPM,W,5,23,28,Dabang Delhi,2,Telugu Titans,8
+4,209,Match 28,League,2016,Patliputra Indoor Stadium,Jaipur Pink Panthers beat Patna Pirates (26-21),07/10/2016T9:00:00TPM,07/10/2016T9:00:00TPM,W,5,21,26,Patna Pirates,6,Jaipur Pink Panthers,3
+4,210,Match 29,League,2016,Kanteerava Indoor Stadium,Telugu Titans beat Bengaluru Bulls (32-24),07/12/2016T8:00:00TPM,07/12/2016T8:00:00TPM,W,8,24,32,Bengaluru Bulls,1,Telugu Titans,8
+4,211,Match 30,League,2016,Kanteerava Indoor Stadium,Match Tied,07/12/2016T9:00:00TPM,07/12/2016T9:00:00TPM,Tied,0,34,34,Puneri Paltan,7,Bengal Warriors,4
+4,212,Match 31,League,2016,Kanteerava Indoor Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (24-22),07/13/2016T8:00:00TPM,07/13/2016T8:00:00TPM,W,2,22,24,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+4,213,Match 32,League,2016,Kanteerava Indoor Stadium,U Mumba beat Jaipur Pink Panthers (29-23),07/14/2016T8:00:00TPM,07/14/2016T8:00:00TPM,W,6,23,29,Jaipur Pink Panthers,3,U Mumba,5
+4,214,Match 33,League,2016,Kanteerava Indoor Stadium,Patna Pirates beat Bengaluru Bulls (38-23),07/14/2016T9:00:00TPM,07/14/2016T9:00:00TPM,W,15,23,38,Bengaluru Bulls,1,Patna Pirates,6
+4,215,Match 34,League,2016,Kanteerava Indoor Stadium,Telugu Titans beat Puneri Paltan (32-29),07/15/2016T8:00:00TPM,07/15/2016T8:00:00TPM,W,3,32,29,Telugu Titans,8,Puneri Paltan,7
+4,216,Match 35,League,2016,Kanteerava Indoor Stadium,Dabang Delhi K.C. beat Bengaluru Bulls (40-20),07/15/2016T9:00:00TPM,07/15/2016T9:00:00TPM,W,20,20,40,Bengaluru Bulls,1,Dabang Delhi,2
+4,217,Match 36,League,2016,Netaji Indoor Stadium,Bengal Warriors beat Jaipur Pink Panthers (32-25),07/16/2016T8:00:00TPM,07/16/2016T8:00:00TPM,W,7,32,25,Bengal Warriors,4,Jaipur Pink Panthers,3
+4,218,Match 37,League,2016,Netaji Indoor Stadium,Patna Pirates beat U Mumba (34-24),07/16/2016T9:00:00TPM,07/16/2016T9:00:00TPM,W,10,34,24,Patna Pirates,6,U Mumba,5
+4,219,Match 38,League,2016,Netaji Indoor Stadium,Jaipur Pink Panthers beat Puneri Paltan (33-27),07/17/2016T8:00:00TPM,07/17/2016T8:00:00TPM,W,6,27,33,Puneri Paltan,7,Jaipur Pink Panthers,3
+4,220,Match 39,League,2016,Netaji Indoor Stadium,Patna Pirates beat Bengal Warriors (33-27),07/17/2016T9:00:00TPM,07/17/2016T9:00:00TPM,W,6,27,33,Bengal Warriors,4,Patna Pirates,6
+4,221,Match 40,League,2016,Netaji Indoor Stadium,Match Tied,07/18/2016T8:00:00TPM,07/18/2016T8:00:00TPM,Tied,0,34,34,Bengal Warriors,4,Telugu Titans,8
+4,222,Match 41,League,2016,Netaji Indoor Stadium,Telugu Titans beat Dabang Delhi K.C. (36-28),07/19/2016T8:00:00TPM,07/19/2016T8:00:00TPM,W,8,36,28,Telugu Titans,8,Dabang Delhi,2
+4,223,Match 42,League,2016,Netaji Indoor Stadium,Bengaluru Bulls beat Bengal Warriors (27-25),07/19/2016T9:00:00TPM,07/19/2016T9:00:00TPM,W,2,25,27,Bengal Warriors,4,Bengaluru Bulls,1
+4,224,Match 43,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",U Mumba beat Puneri Paltan (34-31),07/20/2016T8:00:00TPM,07/20/2016T8:00:00TPM,W,3,34,31,U Mumba,5,Puneri Paltan,7
+4,225,Match 44,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Jaipur Pink Panthers beat Dabang Delhi K.C. (24-22),07/21/2016T8:00:00TPM,07/21/2016T8:00:00TPM,W,2,24,22,Jaipur Pink Panthers,3,Dabang Delhi,2
+4,226,Match 45,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Match Tied,07/21/2016T9:00:00TPM,07/21/2016T9:00:00TPM,Tied,0,25,25,U Mumba,5,Telugu Titans,8
+4,227,Match 46,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Jaipur Pink Panthers beat Patna Pirates (29-22),07/22/2016T8:00:00TPM,07/22/2016T8:00:00TPM,W,7,29,22,Jaipur Pink Panthers,3,Patna Pirates,6
+4,228,Match 47,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Bengal Warriors beat U Mumba (31-27),07/22/2016T9:00:00TPM,07/22/2016T9:00:00TPM,W,4,27,31,U Mumba,5,Bengal Warriors,4
+4,229,Match 48,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Patna Pirates beat Puneri Paltan (31-28),07/23/2016T8:00:00TPM,07/23/2016T8:00:00TPM,W,3,31,28,Patna Pirates,6,Puneri Paltan,7
+4,230,Match 49,League,2016,"Dome,Nsci,Svp Stadium,Mumbai",Bengaluru Bulls beat U Mumba (28-27),07/23/2016T9:00:00TPM,07/23/2016T9:00:00TPM,W,1,27,28,U Mumba,5,Bengaluru Bulls,1
+4,231,Match 50,League,2016,Thyagaraj Indoor Stadium,Dabang Delhi K.C. beat Bengal Warriors (41-20),07/24/2016T8:00:00TPM,07/24/2016T8:00:00TPM,W,21,41,20,Dabang Delhi,2,Bengal Warriors,4
+4,232,Match 51,League,2016,Thyagaraj Indoor Stadium,Telugu Titans beat Jaipur Pink Panthers (35-23),07/24/2016T9:00:00TPM,07/24/2016T9:00:00TPM,W,12,35,23,Telugu Titans,8,Jaipur Pink Panthers,3
+4,233,Match 52,League,2016,Thyagaraj Indoor Stadium,Patna Pirates beat Dabang Delhi K.C. (32-31),07/25/2016T8:00:00TPM,07/25/2016T8:00:00TPM,W,1,31,32,Dabang Delhi,2,Patna Pirates,6
+4,234,Match 53,League,2016,Thyagaraj Indoor Stadium,Telugu Titans beat Patna Pirates (46-25),07/26/2016T8:00:00TPM,07/26/2016T8:00:00TPM,W,21,25,46,Patna Pirates,6,Telugu Titans,8
+4,235,Match 54,League,2016,Thyagaraj Indoor Stadium,Puneri Paltan beat Dabang Delhi K.C. (39-34),07/26/2016T9:00:00TPM,07/26/2016T9:00:00TPM,W,5,34,39,Dabang Delhi,2,Puneri Paltan,7
+4,236,Match 55,League,2016,Thyagaraj Indoor Stadium,Puneri Paltan beat Bengaluru Bulls (36-33),07/27/2016T8:00:00TPM,07/27/2016T8:00:00TPM,W,3,36,33,Puneri Paltan,7,Bengaluru Bulls,1
+4,237,Match 56,League,2016,Thyagaraj Indoor Stadium,U Mumba beat Dabang Delhi K.C. (38-34),07/27/2016T9:00:00TPM,07/27/2016T9:00:00TPM,W,4,34,38,Dabang Delhi,2,U Mumba,5
+4,238,Semi-Final 1,Semi Final,2016,Gachibowli Indoor Stadium,Patna Pirates beat Puneri Paltan (37-33),07/29/2016T8:00:00TPM,07/29/2016T8:00:00TPM,W,4,37,33,Patna Pirates,6,Puneri Paltan,7
+4,239,Semi-Final 2,Semi Final,2016,Gachibowli Indoor Stadium,Jaipur Pink Panthers beat Telugu Titans (34-24),07/29/2016T9:00:00TPM,07/29/2016T9:00:00TPM,W,10,24,34,Telugu Titans,8,Jaipur Pink Panthers,3
+4,240,3/4 Place,Super Playoffs,2016,Gachibowli Indoor Stadium,Puneri Paltan beat Telugu Titans (40-35),07/31/2016T8:00:00TPM,07/31/2016T8:00:00TPM,W,5,35,40,Telugu Titans,8,Puneri Paltan,7
+4,241,Final,Final,2016,Gachibowli Indoor Stadium,Patna Pirates beat Jaipur Pink Panthers (37-29),07/31/2016T9:15:00TPM,07/31/2016T9:15:00TPM,W,8,37,29,Patna Pirates,6,Jaipur Pink Panthers,3
+5,286,Match 1,League,2017,Gachibowli Indoor Stadium,Telugu Titans beat Tamil Thalaivas (32-27),7/28/2017T8:00:00TPM,7/28/2017T8:00:00TPM,W,5,32,27,Telugu Titans,8,Tamil Thalaivas,29
+5,287,Match 2,League,2017,Gachibowli Indoor Stadium,Puneri Paltan beat U Mumba (33-21),7/28/2017T9:00:00TPM,7/28/2017T9:00:00TPM,W,12,21,33,U Mumba,5,Puneri Paltan,7
+5,288,Match 3,League,2017,Gachibowli Indoor Stadium,Dabang Delhi K.C. beat Jaipur Pink Panthers (30-26),7/29/2017T8:00:00TPM,7/29/2017T8:00:00TPM,W,4,26,30,Jaipur Pink Panthers,3,Dabang Delhi,2
+5,289,Match 4,League,2017,Gachibowli Indoor Stadium,Patna Pirates beat Telugu Titans (35-29),7/29/2017T9:00:00TPM,7/29/2017T9:00:00TPM,W,6,29,35,Telugu Titans,8,Patna Pirates,6
+5,290,Match 5,League,2017,Gachibowli Indoor Stadium,U Mumba beat Haryana Steelers (29-28),7/30/2017T8:00:00TPM,7/30/2017T8:00:00TPM,W,1,29,28,U Mumba,5,Haryana Steelers,28
+5,291,Match 6,League,2017,Gachibowli Indoor Stadium,Bengaluru Bulls beat Telugu Titans (31-21),7/30/2017T9:00:00TPM,7/30/2017T9:00:00TPM,W,10,21,31,Telugu Titans,8,Bengaluru Bulls,1
+5,292,Match 7,League,2017,Gachibowli Indoor Stadium,Gujarat Fortunegiants beat Dabang Delhi K.C. (26-20),8/1/2017T8:00:00TPM,8/1/2017T8:00:00TPM,W,6,26,20,Gujarat Giants,31,Dabang Delhi,2
+5,293,Match 8,League,2017,Gachibowli Indoor Stadium,U.P. Yoddha beat Telugu Titans (31-18),8/1/2017T9:00:00TPM,8/1/2017T9:00:00TPM,W,13,18,31,Telugu Titans,8,U.P. Yoddhas,30
+5,294,Match 9,League,2017,Gachibowli Indoor Stadium,Match Tied,8/2/2017T8:00:00TPM,8/2/2017T8:00:00TPM,T,0,27,27,Gujarat Giants,31,Haryana Steelers,28
+5,295,Match 10,League,2017,Gachibowli Indoor Stadium,Bengal Warriors beat Telugu Titans (30-24),8/2/2017T9:00:00TPM,8/2/2017T9:00:00TPM,W,6,24,30,Telugu Titans,8,Bengal Warriors,4
+5,296,Match 11,League,2017,Gachibowli Indoor Stadium,Patna Pirates beat Telugu Titans (43-36),8/3/2017T8:00:00TPM,8/3/2017T8:00:00TPM,W,7,36,43,Telugu Titans,8,Patna Pirates,6
+5,297,Match 12,League,2017,Mankapur Indoor Stadium,Bengaluru Bulls beat Tamil Thalaivas (32-31),8/4/2017T8:00:00TPM,8/4/2017T8:00:00TPM,W,1,32,31,Bengaluru Bulls,1,Tamil Thalaivas,29
+5,298,Match 13,League,2017,Mankapur Indoor Stadium,Puneri Paltan beat Dabang Delhi K.C. (26-21),8/4/2017T9:00:00TPM,8/4/2017T9:00:00TPM,W,5,26,21,Puneri Paltan,7,Dabang Delhi,2
+5,299,Match 14,League,2017,Mankapur Indoor Stadium,U Mumba beat Dabang Delhi K.C. (36-22),8/5/2017T8:00:00TPM,8/5/2017T8:00:00TPM,W,14,36,22,U Mumba,5,Dabang Delhi,2
+5,300,Match 15,League,2017,Mankapur Indoor Stadium,U.P. Yoddha beat Bengaluru Bulls (32-27),8/5/2017T9:00:00TPM,8/5/2017T9:00:00TPM,W,5,27,32,Bengaluru Bulls,1,U.P. Yoddhas,30
+5,301,Match 16,League,2017,Mankapur Indoor Stadium,Bengal Warriors beat U.P. Yoddha (40-20),8/6/2017T8:00:00TPM,8/6/2017T8:00:00TPM,W,20,40,20,Bengal Warriors,4,U.P. Yoddhas,30
+5,302,Match 17,League,2017,Mankapur Indoor Stadium,Patna Pirates beat Bengaluru Bulls (46-32),8/6/2017T9:00:00TPM,8/6/2017T9:00:00TPM,W,14,32,46,Bengaluru Bulls,1,Patna Pirates,6
+5,303,Match 18,League,2017,Mankapur Indoor Stadium,Haryana Steelers beat Gujarat Fortunegiants (32-20),8/8/2017T8:00:00TPM,8/8/2017T8:00:00TPM,W,12,20,32,Gujarat Giants,31,Haryana Steelers,28
+5,304,Match 19,League,2017,Mankapur Indoor Stadium,Match Tied,8/8/2017T9:00:00TPM,8/8/2017T9:00:00TPM,T,0,21,21,Bengaluru Bulls,1,Telugu Titans,8
+5,305,Match 20,League,2017,Mankapur Indoor Stadium,Bengaluru Bulls beat Bengal Warriors (31-25),8/9/2017T8:00:00TPM,8/9/2017T8:00:00TPM,W,6,31,25,Bengaluru Bulls,1,Bengal Warriors,4
+5,306,Match 21,League,2017,Mankapur Indoor Stadium,Jaipur Pink Panthers beat Puneri Paltan (30-28),8/10/2017T8:00:00TPM,8/10/2017T8:00:00TPM,W,2,28,30,Puneri Paltan,7,Jaipur Pink Panthers,3
+5,307,Match 22,League,2017,Mankapur Indoor Stadium,Tamil Thalaivas beat Bengaluru Bulls (29-24),8/10/2017T9:00:00TPM,8/10/2017T9:00:00TPM,W,5,24,29,Bengaluru Bulls,1,Tamil Thalaivas,29
+5,308,Match 23,League,2017,The Arena By Transstadia,Gujarat Fortunegiants beat U Mumba (39-21),8/11/2017T8:00:00TPM,8/11/2017T8:00:00TPM,W,18,39,21,Gujarat Giants,31,U Mumba,5
+5,309,Match 24,League,2017,The Arena By Transstadia,U.P. Yoddha beat Telugu Titans (39-32),8/12/2017T8:00:00TPM,8/12/2017T8:00:00TPM,W,7,32,39,Telugu Titans,8,U.P. Yoddhas,30
+5,310,Match 25,League,2017,The Arena By Transstadia,Gujarat Fortunegiants beat Dabang Delhi K.C. (29-25),8/12/2017T9:00:00TPM,8/12/2017T9:00:00TPM,W,4,29,25,Gujarat Giants,31,Dabang Delhi,2
+5,311,Match 26,League,2017,The Arena By Transstadia,Match Tied,8/13/2017T8:00:00TPM,8/13/2017T8:00:00TPM,T,0,27,27,Patna Pirates,6,U.P. Yoddhas,30
+5,312,Match 27,League,2017,The Arena By Transstadia,Gujarat Fortunegiants beat Jaipur Pink Panthers (27-20),8/13/2017T9:00:00TPM,8/13/2017T9:00:00TPM,W,7,27,20,Gujarat Giants,31,Jaipur Pink Panthers,3
+5,313,Match 28,League,2017,The Arena By Transstadia,Puneri Paltan beat Bengal Warriors (34-17),8/15/2017T8:00:00TPM,8/15/2017T8:00:00TPM,W,17,17,34,Bengal Warriors,4,Puneri Paltan,7
+5,314,Match 29,League,2017,The Arena By Transstadia,Gujarat Fortunegiants beat Bengaluru Bulls (27-24),8/15/2017T9:00:00TPM,8/15/2017T9:00:00TPM,W,3,27,24,Gujarat Giants,31,Bengaluru Bulls,1
+5,315,Match 30,League,2017,The Arena By Transstadia,Match Tied,8/16/2017T8:00:00TPM,8/16/2017T8:00:00TPM,T,0,25,25,Haryana Steelers,28,Tamil Thalaivas,29
+5,316,Match 31,League,2017,The Arena By Transstadia,Gujarat Fortunegiants beat Telugu Titans (29-19),8/16/2017T9:00:00TPM,8/16/2017T9:00:00TPM,W,10,29,19,Gujarat Giants,31,Telugu Titans,8
+5,317,Match 32,League,2017,The Arena By Transstadia,Dabang Delhi K.C. beat Tamil Thalaivas (30-29),8/17/2017T8:00:00TPM,8/17/2017T8:00:00TPM,W,1,30,29,Dabang Delhi,2,Tamil Thalaivas,29
+5,318,Match 33,League,2017,The Arena By Transstadia,Match Tied,8/17/2017T9:00:00TPM,8/17/2017T9:00:00TPM,T,0,26,26,Gujarat Giants,31,Bengal Warriors,4
+5,319,Match 34,League,2017,Babu Banarasi Das Indoor Stadium,U Mumba beat U.P. Yoddha (37-34),8/18/2017T8:00:00TPM,8/18/2017T8:00:00TPM,W,3,34,37,U.P. Yoddhas,30,U Mumba,5
+5,320,Match 35,League,2017,Babu Banarasi Das Indoor Stadium,Jaipur Pink Panthers beat Bengaluru Bulls (30-28),8/18/2017T9:00:00TPM,8/18/2017T9:00:00TPM,W,2,28,30,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+5,321,Match 36,League,2017,Babu Banarasi Das Indoor Stadium,Telugu Titans beat U Mumba (37-32),8/19/2017T8:00:00TPM,8/19/2017T8:00:00TPM,W,5,37,32,Telugu Titans,8,U Mumba,5
+5,322,Match 37,League,2017,Babu Banarasi Das Indoor Stadium,Haryana Steelers beat U.P. Yoddha (36-29),8/19/2017T9:00:00TPM,8/19/2017T9:00:00TPM,W,7,29,36,U.P. Yoddhas,30,Haryana Steelers,28
+5,323,Match 38,League,2017,Babu Banarasi Das Indoor Stadium,Puneri Paltan beat Patna Pirates (47-42),8/20/2017T8:00:00TPM,8/20/2017T8:00:00TPM,W,5,42,47,Patna Pirates,6,Puneri Paltan,7
+5,324,Match 39,League,2017,Babu Banarasi Das Indoor Stadium,Jaipur Pink Panthers beat U.P. Yoddha (24-22),8/20/2017T9:00:00TPM,8/20/2017T9:00:00TPM,W,2,22,24,U.P. Yoddhas,30,Jaipur Pink Panthers,3
+5,325,Match 40,League,2017,Babu Banarasi Das Indoor Stadium,Gujarat Fortunegiants beat Puneri Paltan (35-21),8/22/2017T8:00:00TPM,8/22/2017T8:00:00TPM,W,14,35,21,Gujarat Giants,31,Puneri Paltan,7
+5,326,Match 41,League,2017,Babu Banarasi Das Indoor Stadium,Bengal Warriors beat U.P. Yoddha (32-31),8/22/2017T9:00:00TPM,8/22/2017T9:00:00TPM,W,1,31,32,U.P. Yoddhas,30,Bengal Warriors,4
+5,327,Match 42,League,2017,Babu Banarasi Das Indoor Stadium,Haryana Steelers beat Dabang Delhi K.C. (27-25),8/23/2017T8:00:00TPM,8/23/2017T8:00:00TPM,W,2,27,25,Haryana Steelers,28,Dabang Delhi,2
+5,328,Match 43,League,2017,Babu Banarasi Das Indoor Stadium,Match Tied,8/23/2017T9:00:00TPM,8/23/2017T9:00:00TPM,T,0,33,33,U.P. Yoddhas,30,Tamil Thalaivas,29
+5,329,Match 44,League,2017,Babu Banarasi Das Indoor Stadium,U.P. Yoddha beat Telugu Titans (25-23),8/24/2017T8:00:00TPM,8/24/2017T8:00:00TPM,W,2,25,23,U.P. Yoddhas,30,Telugu Titans,8
+5,330,Match 45,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Jaipur Pink Panthers beat U Mumba (39-36),8/25/2017T8:00:00TPM,8/25/2017T8:00:00TPM,W,3,36,39,U Mumba,5,Jaipur Pink Panthers,3
+5,331,Match 46,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Match Tied,8/25/2017T9:00:00TPM,8/25/2017T9:00:00TPM,T,0,36,36,Bengal Warriors,4,Patna Pirates,6
+5,332,Match 47,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Patna Pirates beat Tamil Thalaivas (35-24),8/26/2017T8:00:00TPM,8/26/2017T8:00:00TPM,W,11,35,24,Patna Pirates,6,Tamil Thalaivas,29
+5,333,Match 48,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Puneri Paltan beat U Mumba (26-24),8/26/2017T9:00:00TPM,8/26/2017T9:00:00TPM,W,2,24,26,U Mumba,5,Puneri Paltan,7
+5,334,Match 49,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Bengal Warriors beat Bengaluru Bulls (32-26),8/27/2017T8:00:00TPM,8/27/2017T8:00:00TPM,W,6,32,26,Bengal Warriors,4,Bengaluru Bulls,1
+5,335,Match 50,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Dabang Delhi K.C. beat U Mumba (33-32),8/27/2017T9:00:00TPM,8/27/2017T9:00:00TPM,W,1,32,33,U Mumba,5,Dabang Delhi,2
+5,338,Match 53,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",U Mumba beat Haryana Steelers (38-32),8/30/2017T8:00:00TPM,8/30/2017T8:00:00TPM,W,6,38,32,U Mumba,5,Haryana Steelers,28
+5,339,Match 54,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",Telugu Titans beat Tamil Thalaivas (33-28),8/31/2017T8:00:00TPM,8/31/2017T8:00:00TPM,W,5,33,28,Telugu Titans,8,Tamil Thalaivas,29
+5,340,Match 55,League,2017,"Â€˜Dome, Nsci Svp Stadiumâ€™",U Mumba beat Jaipur Pink Panthers (36-32),8/31/2017T9:00:00TPM,8/31/2017T9:00:00TPM,W,4,36,32,U Mumba,5,Jaipur Pink Panthers,3
+5,341,Match 56,League,2017,Netaji Indoor Stadium,Bengal Warriors beat Patna Pirates (41-38),9/1/2017T8:00:00TPM,9/1/2017T8:00:00TPM,W,3,41,38,Bengal Warriors,4,Patna Pirates,6
+5,342,Match 57,League,2017,Netaji Indoor Stadium,Haryana Steelers beat Gujarat Fortunegiants (42-36),9/2/2017T8:00:00TPM,9/2/2017T8:00:00TPM,W,6,36,42,Gujarat Giants,31,Haryana Steelers,28
+5,343,Match 58,League,2017,Netaji Indoor Stadium,Match Tied,9/2/2017T9:00:00TPM,9/2/2017T9:00:00TPM,T,0,26,26,Bengal Warriors,4,U.P. Yoddhas,30
+5,344,Match 59,League,2017,Netaji Indoor Stadium,Jaipur Pink Panthers beat Gujarat Fortunegiants (31-25),9/3/2017T8:00:00TPM,9/3/2017T8:00:00TPM,W,6,25,31,Gujarat Giants,31,Jaipur Pink Panthers,3
+5,345,Match 60,League,2017,Netaji Indoor Stadium,Bengal Warriors beat Tamil Thalaivas (29-25),9/3/2017T9:00:00TPM,9/3/2017T9:00:00TPM,W,4,29,25,Bengal Warriors,4,Tamil Thalaivas,29
+5,346,Match 61,League,2017,Netaji Indoor Stadium,Patna Pirates beat Jaipur Pink Panthers (47-21),9/5/2017T8:00:00TPM,9/5/2017T8:00:00TPM,W,26,47,21,Patna Pirates,6,Jaipur Pink Panthers,3
+5,347,Match 62,League,2017,Netaji Indoor Stadium,Haryana Steelers beat Bengal Warriors (36-29),9/5/2017T9:00:00TPM,9/5/2017T9:00:00TPM,W,7,29,36,Bengal Warriors,4,Haryana Steelers,28
+5,348,Match 63,League,2017,Netaji Indoor Stadium,Dabang Delhi K.C. beat Bengaluru Bulls (38-30),9/6/2017T8:00:00TPM,9/6/2017T8:00:00TPM,W,8,38,30,Dabang Delhi,2,Bengaluru Bulls,1
+5,349,Match 64,League,2017,Netaji Indoor Stadium,U Mumba beat Bengal Warriors (37-31),9/6/2017T9:00:00TPM,9/6/2017T9:00:00TPM,W,6,31,37,Bengal Warriors,4,U Mumba,5
+5,350,Match 65,League,2017,Netaji Indoor Stadium,Puneri Paltan beat Telugu Titans (42-37),9/7/2017T8:00:00TPM,9/7/2017T8:00:00TPM,W,5,37,42,Telugu Titans,8,Puneri Paltan,7
+5,351,Match 66,League,2017,Netaji Indoor Stadium,Match Tied,9/7/2017T9:00:00TPM,9/7/2017T9:00:00TPM,T,0,31,31,Bengal Warriors,4,Dabang Delhi,2
+5,352,Match 67,League,2017,Motilal Nehru School Of Sports,Match Tied,9/8/2017T8:00:00TPM,9/8/2017T8:00:00TPM,T,0,41,41,Haryana Steelers,28,Patna Pirates,6
+5,353,Match 68,League,2017,Motilal Nehru School Of Sports,Match Tied,9/8/2017T9:00:00TPM,9/8/2017T9:00:00TPM,T,0,30,30,Gujarat Giants,31,U.P. Yoddhas,30
+5,354,Match 69,League,2017,Motilal Nehru School Of Sports,U Mumba beat Patna Pirates (51-41),9/9/2017T8:00:00TPM,9/9/2017T8:00:00TPM,W,10,41,51,Patna Pirates,6,U Mumba,5
+5,355,Match 70,League,2017,Motilal Nehru School Of Sports,Haryana Steelers beat Bengaluru Bulls (38-31),9/9/2017T9:00:00TPM,9/9/2017T9:00:00TPM,W,7,38,31,Haryana Steelers,28,Bengaluru Bulls,1
+5,356,Match 71,League,2017,Motilal Nehru School Of Sports,Bengaluru Bulls beat Puneri Paltan (24-20),9/10/2017T8:00:00TPM,9/10/2017T8:00:00TPM,W,4,24,20,Bengaluru Bulls,1,Puneri Paltan,7
+5,357,Match 72,League,2017,Motilal Nehru School Of Sports,Telugu Titans beat Haryana Steelers (37-19),9/10/2017T9:00:00TPM,9/10/2017T9:00:00TPM,W,18,19,37,Haryana Steelers,28,Telugu Titans,8
+5,358,Match 73,League,2017,Motilal Nehru School Of Sports,Bengal Warriors beat Telugu Titans (32-31),9/12/2017T8:00:00TPM,9/12/2017T8:00:00TPM,W,1,32,31,Bengal Warriors,4,Telugu Titans,8
+5,359,Match 74,League,2017,Motilal Nehru School Of Sports,Haryana Steelers beat Dabang Delhi K.C. (27-24),9/12/2017T9:00:00TPM,9/12/2017T9:00:00TPM,W,3,27,24,Haryana Steelers,28,Dabang Delhi,2
+5,360,Match 75,League,2017,Motilal Nehru School Of Sports,Tamil Thalaivas beat U.P. Yoddha (34-33),9/13/2017T8:00:00TPM,9/13/2017T8:00:00TPM,W,1,34,33,Tamil Thalaivas,29,U.P. Yoddhas,30
+5,361,Match 76,League,2017,Motilal Nehru School Of Sports,Puneri Paltan beat Haryana Steelers (38-22),9/13/2017T9:00:00TPM,9/13/2017T9:00:00TPM,W,16,22,38,Haryana Steelers,28,Puneri Paltan,7
+5,362,Match 77,League,2017,Motilal Nehru School Of Sports,Match Tied,9/14/2017T8:00:00TPM,9/14/2017T8:00:00TPM,T,0,27,27,Haryana Steelers,28,Jaipur Pink Panthers,3
+5,363,Match 78,League,2017,,Patna Pirates beat Telugu Titans (46-30),9/15/2017T8:00:00TPM,9/15/2017T8:00:00TPM,W,16,46,30,Patna Pirates,6,Telugu Titans,8
+5,364,Match 79,League,2017,,Gujarat Fortunegiants beat U Mumba (39-28),9/15/2017T9:00:00TPM,9/15/2017T9:00:00TPM,W,11,28,39,U Mumba,5,Gujarat Giants,31
+5,365,Match 80,League,2017,,Match Tied,9/16/2017T8:00:00TPM,9/16/2017T8:00:00TPM,T,0,26,26,Bengaluru Bulls,1,Telugu Titans,8
+5,366,Match 81,League,2017,,Patna Pirates beat U.P. Yoddha (45-42),9/16/2017T9:00:00TPM,9/16/2017T9:00:00TPM,W,3,45,42,Patna Pirates,6,U.P. Yoddhas,30
+5,367,Match 82,League,2017,,Jaipur Pink Panthers beat Dabang Delhi K.C. (36-25),9/17/2017T8:00:00TPM,9/17/2017T8:00:00TPM,W,11,36,25,Jaipur Pink Panthers,3,Dabang Delhi,2
+5,368,Match 83,League,2017,,Match Tied,9/17/2017T9:00:00TPM,9/17/2017T9:00:00TPM,T,0,37,37,Patna Pirates,6,Bengal Warriors,4
+5,369,match 84,League,2017,,Puneri Paltan beat Haryana Steelers (37-25),9/19/2017T8:00:00TPM,9/19/2017T8:00:00TPM,W,12,37,25,Puneri Paltan,7,Haryana Steelers,28
+5,370,Match 85,League,2017,,Patna Pirates beat Bengaluru Bulls (36-32),9/19/2017T9:00:00TPM,9/19/2017T9:00:00TPM,W,4,36,32,Patna Pirates,6,Bengaluru Bulls,1
+5,337,Match 52,League,2017,,Gujarat Fortunegiants beat U Mumba (45-23),9/20/2017T8:00:00TPM,9/20/2017T8:00:00TPM,W,22,23,45,U Mumba,5,Gujarat Giants,31
+5,371,Match 86,League,2017,,Patna Pirates beat Tamil Thalaivas (41-39),9/20/2017T9:00:00TPM,9/20/2017T9:00:00TPM,W,2,41,39,Patna Pirates,6,Tamil Thalaivas,29
+5,372,Match 87,League,2017,,Haryana Steelers beat Jaipur Pink Panthers (30-26),9/21/2017T8:00:00TPM,9/21/2017T8:00:00TPM,W,4,26,30,Jaipur Pink Panthers,3,Haryana Steelers,28
+5,373,Match 88,League,2017,,U.P. Yoddha beat Patna Pirates (46-41),9/21/2017T9:00:00TPM,9/21/2017T9:00:00TPM,W,5,41,46,Patna Pirates,6,U.P. Yoddhas,30
+5,374,Match 89,League,2017,Thyagaraj Indoor Stadium,U Mumba beat Dabang Delhi K.C. (30-28),9/22/2017T8:00:00TPM,9/22/2017T8:00:00TPM,W,2,28,30,Dabang Delhi,2,U Mumba,5
+5,375,Match 90,League,2017,Thyagaraj Indoor Stadium,Bengal Warriors beat Bengaluru Bulls (33-29),9/23/2017T8:00:00TPM,9/23/2017T8:00:00TPM,W,4,29,33,Bengaluru Bulls,1,Bengal Warriors,4
+5,376,Match 91,League,2017,Thyagaraj Indoor Stadium,Puneri Paltan beat Dabang Delhi K.C. (34-29),9/23/2017T9:00:00TPM,9/23/2017T9:00:00TPM,W,5,29,34,Dabang Delhi,2,Puneri Paltan,7
+5,377,Match 92,League,2017,Thyagaraj Indoor Stadium,Tamil Thalaivas beat Bengal Warriors (33-32),9/24/2017T8:00:00TPM,9/24/2017T8:00:00TPM,W,1,32,33,Bengal Warriors,4,Tamil Thalaivas,29
+5,378,Match 93,League,2017,Thyagaraj Indoor Stadium,Haryana Steelers beat Dabang Delhi K.C. (42-24),9/24/2017T9:00:00TPM,9/24/2017T9:00:00TPM,W,18,24,42,Dabang Delhi,2,Haryana Steelers,28
+5,379,Match 94,League,2017,Thyagaraj Indoor Stadium,Tamil Thalaivas beat Gujarat Fortunegiants (35-34),9/26/2017T8:00:00TPM,9/26/2017T8:00:00TPM,W,1,34,35,Gujarat Giants,31,Tamil Thalaivas,29
+5,380,Match 95,League,2017,Thyagaraj Indoor Stadium,Patna Pirates beat Dabang Delhi K.C. (36-34),9/26/2017T9:00:00TPM,9/26/2017T9:00:00TPM,W,2,34,36,Dabang Delhi,2,Patna Pirates,6
+5,381,Match 96,League,2017,Thyagaraj Indoor Stadium,Telugu Titans beat Jaipur Pink Panthers (41-34),9/27/2017T8:00:00TPM,9/27/2017T8:00:00TPM,W,7,41,34,Telugu Titans,8,Jaipur Pink Panthers,3
+5,382,Match 97,League,2017,Thyagaraj Indoor Stadium,U.P. Yoddha beat Dabang Delhi K.C. (45-16),9/27/2017T9:00:00TPM,9/27/2017T9:00:00TPM,W,29,16,45,Dabang Delhi,2,U.P. Yoddhas,30
+5,383,Match 98,League,2017,Thyagaraj Indoor Stadium,U Mumba beat Bengaluru Bulls (42-30),9/28/2017T8:00:00TPM,9/28/2017T8:00:00TPM,W,12,30,42,Bengaluru Bulls,1,U Mumba,5
+5,384,Match 99,League,2017,Thyagaraj Indoor Stadium,Telugu Titans beat Dabang Delhi K.C. (44-22),9/28/2017T9:00:00TPM,9/28/2017T9:00:00TPM,W,22,22,44,Dabang Delhi,2,Telugu Titans,8
+5,385,Match 100,League,2017,Jawaharlal Nehru Indoor Stadium,Puneri Paltan beat Tamil Thalaivas (33-20),9/29/2017T8:00:00TPM,9/29/2017T8:00:00TPM,W,13,20,33,Tamil Thalaivas,29,Puneri Paltan,7
+5,386,Match 101,League,2017,Jawaharlal Nehru Indoor Stadium,Gujarat Fortunegiants beat Patna Pirates (30-29),9/29/2017T9:00:00TPM,9/29/2017T9:00:00TPM,W,1,30,29,Gujarat Giants,31,Patna Pirates,6
+5,387,Match 102,League,2017,Jawaharlal Nehru Indoor Stadium,Puneri Paltan beat U.P. Yoddha (34-33),9/30/2017T8:00:00TPM,9/30/2017T8:00:00TPM,W,1,34,33,Puneri Paltan,7,U.P. Yoddhas,30
+5,388,Match 103,League,2017,Jawaharlal Nehru Indoor Stadium,Jaipur Pink Panthers beat Tamil Thalaivas (27-26),9/30/2017T9:00:00TPM,9/30/2017T9:00:00TPM,W,1,26,27,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+5,389,Match 104,League,2017,Jawaharlal Nehru Indoor Stadium,Bengal Warriors beat Jaipur Pink Panthers (32-31),10/1/2017T8:00:00TPM,10/1/2017T8:00:00TPM,W,1,31,32,Jaipur Pink Panthers,3,Bengal Warriors,4
+5,390,Match 105,League,2017,Jawaharlal Nehru Indoor Stadium,U Mumba beat Tamil Thalaivas (33-30),10/1/2017T9:00:00TPM,10/1/2017T9:00:00TPM,W,3,30,33,Tamil Thalaivas,29,U Mumba,5
+5,391,Match 106,League,2017,Jawaharlal Nehru Indoor Stadium,Gujarat Fortunegiants beat Dabang Delhi K.C. (42-22),10/3/2017T8:00:00TPM,10/3/2017T8:00:00TPM,W,20,22,42,Dabang Delhi,2,Gujarat Giants,31
+5,392,Match 107,League,2017,Jawaharlal Nehru Indoor Stadium,Telugu Titans beat Tamil Thalaivas (58-37),10/3/2017T9:00:00TPM,10/3/2017T9:00:00TPM,W,21,37,58,Tamil Thalaivas,29,Telugu Titans,8
+5,393,Match 108,League,2017,Jawaharlal Nehru Indoor Stadium,Haryana Steelers beat U Mumba (41-30),10/4/2017T8:00:00TPM,10/4/2017T8:00:00TPM,W,11,30,41,U Mumba,5,Haryana Steelers,28
+5,394,Match 109,League,2017,Jawaharlal Nehru Indoor Stadium,U.P. Yoddha beat Tamil Thalaivas (37-33),10/4/2017T9:00:00TPM,10/4/2017T9:00:00TPM,W,4,33,37,Tamil Thalaivas,29,U.P. Yoddhas,30
+5,395,Match 110,League,2017,Jawaharlal Nehru Indoor Stadium,Bengaluru Bulls beat Tamil Thalaivas (45-35),10/5/2017T8:00:00TPM,10/5/2017T8:00:00TPM,W,10,35,45,Tamil Thalaivas,29,Bengaluru Bulls,1
+5,396,Match 111,League,2017,Sawai Mansingh Stadium,Gujarat Fortunegiants beat Jaipur Pink Panthers (29-23),10/6/2017T8:00:00TPM,10/6/2017T8:00:00TPM,W,6,23,29,Jaipur Pink Panthers,3,Gujarat Giants,31
+5,397,Match 112,League,2017,Sawai Mansingh Stadium,Bengal Warriors beat Puneri Paltan (25-19),10/6/2017T9:00:00TPM,10/6/2017T9:00:00TPM,W,6,19,25,Puneri Paltan,7,Bengal Warriors,4
+5,398,Match 113,League,2017,Sawai Mansingh Stadium,Haryana Steelers beat Telugu Titans (32-30),10/7/2017T8:00:00TPM,10/7/2017T8:00:00TPM,W,2,32,30,Haryana Steelers,28,Telugu Titans,8
+5,399,Match 114,League,2017,Sawai Mansingh Stadium,Jaipur Pink Panthers beat U Mumba (36-32),10/7/2017T9:00:00TPM,10/7/2017T9:00:00TPM,W,4,36,32,Jaipur Pink Panthers,3,U Mumba,5
+5,400,Match 115,League,2017,Sawai Mansingh Stadium,Gujarat Fortunegiants beat Patna Pirates (33-29),10/8/2017T8:00:00TPM,10/8/2017T8:00:00TPM,W,4,33,29,Gujarat Giants,31,Patna Pirates,6
+5,401,Match 116,League,2017,Sawai Mansingh Stadium,Puneri Paltan beat Jaipur Pink Panthers (38-30),10/8/2017T9:00:00TPM,10/8/2017T9:00:00TPM,W,8,30,38,Jaipur Pink Panthers,3,Puneri Paltan,7
+5,402,Match 117,League,2017,Sawai Mansingh Stadium,Tamil Thalaivas beat U Mumba (38-35),10/10/2017T8:00:00TPM,10/10/2017T8:00:00TPM,W,3,35,38,U Mumba,5,Tamil Thalaivas,29
+5,403,Match 118,League,2017,Sawai Mansingh Stadium,Dabang Delhi K.C. beat Jaipur Pink Panthers (35-34),10/10/2017T9:00:00TPM,10/10/2017T9:00:00TPM,W,1,34,35,Jaipur Pink Panthers,3,Dabang Delhi,2
+5,404,Match 119,League,2017,Sawai Mansingh Stadium,Bengaluru Bulls beat Dabang Delhi K.C. (35-32),10/11/2017T8:00:00TPM,10/11/2017T8:00:00TPM,W,3,32,35,Dabang Delhi,2,Bengaluru Bulls,1
+5,405,Match 120,League,2017,Sawai Mansingh Stadium,Haryana Steelers beat Jaipur Pink Panthers (37-27),10/11/2017T9:00:00TPM,10/11/2017T9:00:00TPM,W,10,27,37,Jaipur Pink Panthers,3,Haryana Steelers,28
+5,406,Match 121,League,2017,Sawai Mansingh Stadium,U.P. Yoddha beat Jaipur Pink Panthers (53-32),10/12/2017T8:00:00TPM,10/12/2017T8:00:00TPM,W,21,32,53,Jaipur Pink Panthers,3,U.P. Yoddhas,30
+5,407,Match 122,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Gujarat Fortunegiants beat Puneri Paltan (44-20),10/13/2017T8:00:00TPM,10/13/2017T8:00:00TPM,W,24,20,44,Puneri Paltan,7,Gujarat Giants,31
+5,408,Match 123,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Bengal Warriors beat Tamil Thalaivas (34-30),10/13/2017T9:00:00TPM,10/13/2017T9:00:00TPM,W,4,34,30,Bengal Warriors,4,Tamil Thalaivas,29
+5,409,Match 124,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Tamil Thalaivas beat Patna Pirates (40-37),10/14/2017T8:00:00TPM,10/14/2017T8:00:00TPM,W,3,40,37,Tamil Thalaivas,29,Patna Pirates,6
+5,410,Match 125,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Puneri Paltan beat U Mumba (43-24),10/14/2017T9:00:00TPM,10/14/2017T9:00:00TPM,W,19,43,24,Puneri Paltan,7,U Mumba,5
+5,411,Match 126,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Bengaluru Bulls beat U.P. Yoddha (38-32),10/15/2017T8:00:00TPM,10/15/2017T8:00:00TPM,W,6,38,32,Bengaluru Bulls,1,U.P. Yoddhas,30
+5,412,Match 127,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Puneri Paltan beat Dabang Delhi K.C. (34-31),10/15/2017T9:00:00TPM,10/15/2017T9:00:00TPM,W,3,34,31,Puneri Paltan,7,Dabang Delhi,2
+5,336,Match 51,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Bengaluru Bulls beat U.P. Yoddha (64-24),10/17/2017T8:00:00TPM,10/17/2017T8:00:00TPM,W,40,64,24,Bengaluru Bulls,1,U.P. Yoddhas,30
+5,413,Match 128,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Haryana Steelers beat Puneri Paltan (31-27),10/17/2017T9:00:00TPM,10/17/2017T9:00:00TPM,W,4,27,31,Puneri Paltan,7,Haryana Steelers,28
+5,414,Match 129,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Match Tied,10/18/2017T8:00:00TPM,10/18/2017T8:00:00TPM,T,0,29,29,Patna Pirates,6,Bengaluru Bulls,1
+5,415,Match 130,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Puneri Paltan beat Jaipur Pink Panthers (38-15),10/18/2017T9:00:00TPM,10/18/2017T9:00:00TPM,W,23,38,15,Puneri Paltan,7,Jaipur Pink Panthers,3
+5,416,Match 131,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Match Tied,10/20/2017T8:00:00TPM,10/20/2017T8:00:00TPM,T,0,37,37,Telugu Titans,8,Bengal Warriors,4
+5,417,Match 132,League,2017,"Shree Shivchhatrapati Sports Complex,Balewadi",Gujarat Fortunegiants beat Puneri Paltan (23-22),10/20/2017T9:00:00TPM,10/20/2017T9:00:00TPM,W,1,22,23,Puneri Paltan,7,Gujarat Giants,31
+5,418,Eliminator 1,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",Puneri Paltan beat U.P. Yoddha (40-38),10/23/2017T8:00:00TPM,10/23/2017T8:00:00TPM,W,2,40,38,Puneri Paltan,7,U.P. Yoddhas,30
+5,419,Eliminator 2,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",Patna Pirates beat Haryana Steelers (69-30),10/23/2017T9:00:00TPM,10/23/2017T9:00:00TPM,W,39,69,30,Patna Pirates,6,Haryana Steelers,28
+5,420,Qualifier 1,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",Gujarat Fortunegiants beat Bengal Warriors (42-17),10/24/2017T8:00:00TPM,10/24/2017T8:00:00TPM,W,25,42,17,Gujarat Giants,31,Bengal Warriors,4
+5,421,Eliminator 3,Playoffs,2017,"Dome, Nsci Svp Stadiumâ€™",Patna Pirates beat Puneri Paltan (42-32),10/24/2017T9:00:00TPM,10/24/2017T9:00:00TPM,W,10,32,42,Puneri Paltan,7,Patna Pirates,6
+5,422,Qualifier 2,Playoffs,2017,Jawaharlal Nehru Indoor Stadium,Patna Pirates beat Bengal Warriors (47-44),10/26/2017T8:00:00TPM,10/26/2017T8:00:00TPM,W,3,44,47,Bengal Warriors,4,Patna Pirates,6
+5,423,Final,Final,2017,Jawaharlal Nehru Indoor Stadium,Patna Pirates beat Gujarat Fortunegiants (55-38),10/28/2017T8:00:00TPM,10/28/2017T8:00:00TPM,W,17,38,55,Gujarat Giants,31,Patna Pirates,6
+6,625,Match 1,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Tamil Thalaivas Won by 16 Pts,2018-10-07T20:00+05:30,2018-10-07T20:00+05:30,W,16,42,26,Tamil Thalaivas,29,Patna Pirates,6
+6,626,Match 2,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",,2018-10-07T21:00+05:30,2018-10-07T21:00+05:30,Tied,,32,32,Puneri Paltan,7,U Mumba,5
+6,627,Match 3,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Puneri Paltan Won by 12 Pts,2018-10-08T20:00+05:30,2018-10-08T20:00+05:30,W,12,34,22,Puneri Paltan,7,Haryana Steelers,28
+6,628,Match 4,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha Won by 5 Pts,2018-10-08T21:00+05:30,2018-10-08T21:00+05:30,W,5,32,37,Tamil Thalaivas,29,U.P. Yoddha,30
+6,629,Match 5,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",,2018-10-09T20:00+05:30,2018-10-09T20:00+05:30,Tied,,32,32,Dabang Delhi K.C.,2,Gujarat Giants,31
+6,630,Match 6,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Telugu Titans Won by 5 Pts,2018-10-09T21:00+05:30,2018-10-09T21:00+05:30,W,5,28,33,Tamil Thalaivas,29,Telugu Titans,8
+6,631,Match 7,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",U Mumba Won by 7 Pts,2018-10-10T20:00+05:30,2018-10-10T20:00+05:30,W,7,39,32,U Mumba,5,Jaipur Pink Panthers,3
+6,632,Match 8,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengaluru Bulls Won by 11 Pts,2018-10-10T21:00+05:30,2018-10-10T21:00+05:30,W,11,37,48,Tamil Thalaivas,29,Bengaluru Bulls,1
+6,677,Match 9,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Patna Pirates Won by 2 Pts,2018-10-11T20:00+05:30,2018-10-11T20:00+05:30,W,2,41,43,U.P. Yoddha,30,Patna Pirates,6
+6,634,Match 10,League,2018,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengal Warriors Won by 9 Pts,2018-10-11T21:00+05:30,2018-10-11T21:00+05:30,W,9,27,36,Tamil Thalaivas,29,Bengal Warriors,4
+6,636,Match 11,League,2018,"Motilal Nehru School Of Sports, Sonepat",Haryana Steelers Won by 7 Pts,2018-10-12T20:00+05:30,2018-10-12T20:00+05:30,W,7,32,25,Haryana Steelers,28,Gujarat Giants,31
+6,638,Match 12,League,2018,"Motilal Nehru School Of Sports, Sonepat",Dabang Delhi K.C. Won by 4 Pts,2018-10-12T21:00+05:30,2018-10-12T21:00+05:30,W,4,37,41,Puneri Paltan,7,Dabang Delhi K.C.,2
+6,640,Match 13,League,2018,"Motilal Nehru School Of Sports, Sonepat",Telugu Titans Won by 5 Pts,2018-10-13T20:00+05:30,2018-10-13T20:00+05:30,W,5,34,29,Telugu Titans,8,U.P. Yoddha,30
+6,639,Match 14,League,2018,"Motilal Nehru School Of Sports, Sonepat",U Mumba Won by 27 Pts,2018-10-13T21:00+05:30,2018-10-13T21:00+05:30,W,27,26,53,Haryana Steelers,28,U Mumba,5
+6,637,Match 15,League,2018,"Motilal Nehru School Of Sports, Sonepat",Patna Pirates Won by 6 Pts,2018-10-14T20:00+05:30,2018-10-14T20:00+05:30,W,6,43,37,Patna Pirates,6,U.P. Yoddha,30
+6,641,Match 16,League,2018,"Motilal Nehru School Of Sports, Sonepat",Puneri Paltan Won by 17 Pts,2018-10-14T21:00+05:30,2018-10-14T21:00+05:30,W,17,28,45,Haryana Steelers,28,Puneri Paltan,7
+6,642,Match 17,League,2018,"Motilal Nehru School Of Sports, Sonepat",Bengal Warriors Won by 5 Pts,2018-10-16T20:00+05:30,2018-10-16T20:00+05:30,W,5,30,25,Bengal Warriors,4,Telugu Titans,8
+6,643,Match 18,League,2018,"Motilal Nehru School Of Sports, Sonepat",Jaipur Pink Panthers Won by 3 Pts,2018-10-16T21:00+05:30,2018-10-16T21:00+05:30,W,3,33,36,Haryana Steelers,28,Jaipur Pink Panthers,3
+6,644,Match 19,League,2018,"Motilal Nehru School Of Sports, Sonepat",Bengaluru Bulls Won by 9 Pts,2018-10-17T20:00+05:30,2018-10-17T20:00+05:30,W,9,44,35,Bengaluru Bulls,1,Tamil Thalaivas,29
+6,645,Match 20,League,2018,"Motilal Nehru School Of Sports, Sonepat",U Mumba Won by 10 Pts,2018-10-17T21:00+05:30,2018-10-17T21:00+05:30,W,10,32,42,Haryana Steelers,28,U Mumba,5
+6,646,Match 21,League,2018,"Motilal Nehru School Of Sports, Sonepat",Haryana Steelers Won by 3 Pts,2018-10-18T20:00+05:30,2018-10-18T20:00+05:30,W,3,34,31,Haryana Steelers,28,Dabang Delhi K.C.,2
+6,647,Match 22,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Gujarat Giants Won by 6 Pts,2018-10-18T21:00+05:30,2018-10-18T21:00+05:30,W,6,28,34,Puneri Paltan,7,Gujarat Giants,31
+6,648,Match 23,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Telugu Titans Won by 4 Pts,2018-10-19T20:00+05:30,2018-10-19T20:00+05:30,W,4,31,35,Patna Pirates,6,Telugu Titans,8
+6,649,Match 24,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan Won by 4 Pts,2018-10-19T21:00+05:30,2018-10-19T21:00+05:30,W,4,29,25,Puneri Paltan,7,Jaipur Pink Panthers,3
+6,650,Match 25,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",,2018-10-20T20:00+05:30,2018-10-20T20:00+05:30,Tied,,40,40,U.P. Yoddha,30,Bengal Warriors,4
+6,651,Match 26,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan Won by 1 Pts,2018-10-20T21:00+05:30,2018-10-20T21:00+05:30,W,1,33,32,Puneri Paltan,7,U Mumba,5
+6,652,Match 27,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C. Won by 9 Pts,2018-10-21T20:00+05:30,2018-10-21T20:00+05:30,W,9,39,30,Dabang Delhi K.C.,2,Bengal Warriors,4
+6,653,Match 28,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan Won by 2 Pts,2018-10-21T21:00+05:30,2018-10-21T21:00+05:30,W,2,27,25,Puneri Paltan,7,Bengaluru Bulls,1
+6,654,Match 29,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba Won by 21 Pts,2018-10-23T20:00+05:30,2018-10-23T20:00+05:30,W,21,41,20,U Mumba,5,Telugu Titans,8
+6,655,Match 30,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Tamil Thalaivas Won by 5 Pts,2018-10-23T21:00+05:30,2018-10-23T21:00+05:30,W,5,31,36,Puneri Paltan,7,Tamil Thalaivas,29
+6,656,Match 31,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengaluru Bulls Won by 8 Pts,2018-10-24T20:00+05:30,2018-10-24T20:00+05:30,W,8,42,34,Bengaluru Bulls,1,Haryana Steelers,28
+6,657,Match 32,League,2018,"Shree Shiv Chhatrapati Sports Complex, Pune",U.P. Yoddha Won by 6 Pts,2018-10-24T21:00+05:30,2018-10-24T21:00+05:30,W,6,23,29,Puneri Paltan,7,U.P. Yoddha,30
+6,658,Match 33,League,2018,"Patliputra Indoor Stadium, Patna",Patna Pirates Won by 11 Pts,2018-10-26T20:00+05:30,2018-10-26T20:00+05:30,W,11,41,30,Patna Pirates,6,Jaipur Pink Panthers,3
+6,659,Match 34,League,2018,"Patliputra Indoor Stadium, Patna",Gujarat Giants Won by 11 Pts,2018-10-26T21:00+05:30,2018-10-26T21:00+05:30,W,11,36,25,Gujarat Giants,31,Tamil Thalaivas,29
+6,660,Match 35,League,2018,"Patliputra Indoor Stadium, Patna",Bengal Warriors Won by 11 Pts,2018-10-27T20:00+05:30,2018-10-27T20:00+05:30,W,11,28,39,Jaipur Pink Panthers,3,Bengal Warriors,4
+6,661,Match 36,League,2018,"Patliputra Indoor Stadium, Patna",U Mumba Won by 1 Pts,2018-10-27T21:00+05:30,2018-10-27T21:00+05:30,W,1,39,40,Patna Pirates,6,U Mumba,5
+6,662,Match 37,League,2018,"Patliputra Indoor Stadium, Patna",U.P. Yoddha Won by 2 Pts,2018-10-28T20:00+05:30,2018-10-28T20:00+05:30,W,2,36,38,Dabang Delhi K.C.,2,U.P. Yoddha,30
+6,663,Match 38,League,2018,"Patliputra Indoor Stadium, Patna",Haryana Steelers Won by 11 Pts,2018-10-28T21:00+05:30,2018-10-28T21:00+05:30,W,11,32,43,Patna Pirates,6,Haryana Steelers,28
+6,664,Match 39,League,2018,"Patliputra Indoor Stadium, Patna",Gujarat Giants Won by 10 Pts,2018-10-30T20:00+05:30,2018-10-30T20:00+05:30,W,10,27,37,Puneri Paltan,7,Gujarat Giants,31
+6,665,Match 40,League,2018,"Patliputra Indoor Stadium, Patna",Telugu Titans Won by 21 Pts,2018-10-30T21:00+05:30,2018-10-30T21:00+05:30,W,21,32,53,Patna Pirates,6,Telugu Titans,8
+6,666,Match 41,League,2018,"Patliputra Indoor Stadium, Patna",Puneri Paltan Won by 4 Pts,2018-10-31T20:00+05:30,2018-10-31T20:00+05:30,W,4,27,31,Dabang Delhi K.C.,2,Puneri Paltan,7
+6,667,Match 42,League,2018,"Patliputra Indoor Stadium, Patna",Bengaluru Bulls Won by 1 Pts,2018-10-31T21:00+05:30,2018-10-31T21:00+05:30,W,1,42,43,Patna Pirates,6,Bengaluru Bulls,1
+6,668,Match 43,League,2018,"Patliputra Indoor Stadium, Patna",Patna Pirates Won by 2 Pts,2018-11-01T20:00+05:30,2018-11-01T20:00+05:30,W,2,29,27,Patna Pirates,6,Bengal Warriors,4
+6,669,Match 44,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Tamil Thalaivas Won by 22 Pts,2018-11-02T20:00+05:30,2018-11-02T20:00+05:30,W,22,25,47,U.P. Yoddha,30,Tamil Thalaivas,29
+6,670,Match 45,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Gujarat Giants Won by 11 Pts,2018-11-02T21:00+05:30,2018-11-02T21:00+05:30,W,11,25,36,Jaipur Pink Panthers,3,Gujarat Giants,31
+6,671,Match 46,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U Mumba Won by 9 Pts,2018-11-03T20:00+05:30,2018-11-03T20:00+05:30,W,9,31,22,U Mumba,5,Puneri Paltan,7
+6,672,Match 47,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Bengaluru Bulls Won by 6 Pts,2018-11-03T21:00+05:30,2018-11-03T21:00+05:30,W,6,29,35,U.P. Yoddha,30,Bengaluru Bulls,1
+6,673,Match 48,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Gujarat Giants Won by 7 Pts,2018-11-04T20:00+05:30,2018-11-04T20:00+05:30,W,7,38,45,Dabang Delhi K.C.,2,Gujarat Giants,31
+6,674,Match 49,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",,2018-11-04T21:00+05:30,2018-11-04T21:00+05:30,Tied,,30,30,U.P. Yoddha,30,Bengal Warriors,4
+6,675,Match 50,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Jaipur Pink Panthers Won by 6 Pts,2018-11-06T20:00+05:30,2018-11-06T20:00+05:30,W,6,38,32,Jaipur Pink Panthers,3,Haryana Steelers,28
+6,676,Match 51,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",,2018-11-06T21:00+05:30,2018-11-06T21:00+05:30,Tied,,26,26,U.P. Yoddha,30,Telugu Titans,8
+6,678,Match 52,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Dabang Delhi K.C. Won by 6 Pts,2018-11-08T20:00+05:30,2018-11-08T20:00+05:30,W,6,33,39,Haryana Steelers,28,Dabang Delhi K.C.,2
+6,679,Match 53,League,2018,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Bengaluru Bulls Won by 10 Pts,2018-11-08T21:00+05:30,2018-11-08T21:00+05:30,W,10,27,37,U.P. Yoddha,30,Bengaluru Bulls,1
+6,680,Match 54,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 24 Pts,2018-11-09T20:00+05:30,2018-11-09T20:00+05:30,W,24,48,24,U Mumba,5,Jaipur Pink Panthers,3
+6,681,Match 55,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Bengal Warriors Won by 5 Pts,2018-11-09T21:00+05:30,2018-11-09T21:00+05:30,W,5,30,25,Bengal Warriors,4,Telugu Titans,8
+6,682,Match 56,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Patna Pirates Won by 20 Pts,2018-11-10T20:00+05:30,2018-11-10T20:00+05:30,W,20,50,30,Patna Pirates,6,Bengal Warriors,4
+6,683,Match 57,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Gujarat Giants Won by 2 Pts,2018-11-10T21:00+05:30,2018-11-10T21:00+05:30,W,2,36,38,U Mumba,5,Gujarat Giants,31
+6,633,Match 58,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Dabang Delhi K.C. Won by 11 Pts,2018-11-11T20:00+05:30,2018-11-11T20:00+05:30,W,11,29,40,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+6,684,Match 59,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Haryana Steelers Won by 4 Pts,2018-11-11T21:00+05:30,2018-11-11T21:00+05:30,W,4,31,35,U Mumba,5,Haryana Steelers,28
+6,685,Match 60,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Telugu Titans Won by 3 Pts,2018-11-13T20:00+05:30,2018-11-13T20:00+05:30,W,3,25,28,Puneri Paltan,7,Telugu Titans,8
+6,686,Match 61,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 17 Pts,2018-11-13T21:00+05:30,2018-11-13T21:00+05:30,W,17,41,24,U Mumba,5,U.P. Yoddha,30
+6,687,Match 62,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",,2018-11-14T20:00+05:30,2018-11-14T20:00+05:30,Tied,,32,32,Tamil Thalaivas,29,Haryana Steelers,28
+6,688,Match 63,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 3 Pts,2018-11-14T21:00+05:30,2018-11-14T21:00+05:30,W,3,32,29,U Mumba,5,Bengaluru Bulls,1
+6,689,Match 64,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Patna Pirates Won by 3 Pts,2018-11-15T20:00+05:30,2018-11-15T20:00+05:30,W,3,38,35,Patna Pirates,6,Dabang Delhi K.C.,2
+6,690,Match 65,League,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 14 Pts,2018-11-15T21:00+05:30,2018-11-15T21:00+05:30,W,14,36,22,U Mumba,5,Tamil Thalaivas,29
+6,691,Match 66,League,2018,"The Arena By Transstadia, Ahmedabad",Gujarat Giants Won by 12 Pts,2018-11-16T20:00+05:30,2018-11-16T20:00+05:30,W,12,35,23,Gujarat Giants,31,Bengal Warriors,4
+6,692,Match 67,League,2018,"The Arena By Transstadia, Ahmedabad",Jaipur Pink Panthers Won by 17 Pts,2018-11-16T21:00+05:30,2018-11-16T21:00+05:30,W,17,45,28,Jaipur Pink Panthers,3,U.P. Yoddha,30
+6,693,Match 68,League,2018,"The Arena By Transstadia, Ahmedabad",Bengal Warriors Won by 4 Pts,2018-11-17T20:00+05:30,2018-11-17T20:00+05:30,W,4,22,26,Puneri Paltan,7,Bengal Warriors,4
+6,694,Match 69,League,2018,"The Arena By Transstadia, Ahmedabad",,2018-11-17T21:00+05:30,2018-11-17T21:00+05:30,Tied,,30,30,Gujarat Giants,31,Bengaluru Bulls,1
+6,695,Match 70,League,2018,"The Arena By Transstadia, Ahmedabad",Bengaluru Bulls Won by 13 Pts,2018-11-18T20:00+05:30,2018-11-18T20:00+05:30,W,13,32,45,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+6,696,Match 71,League,2018,"The Arena By Transstadia, Ahmedabad",Gujarat Giants Won by 5 Pts,2018-11-18T21:00+05:30,2018-11-18T21:00+05:30,W,5,37,32,Gujarat Giants,31,U.P. Yoddha,30
+6,697,Match 72,League,2018,"The Arena By Transstadia, Ahmedabad",Tamil Thalaivas Won by 4 Pts,2018-11-20T20:00+05:30,2018-11-20T20:00+05:30,W,4,27,23,Tamil Thalaivas,29,Telugu Titans,8
+6,698,Match 73,League,2018,"The Arena By Transstadia, Ahmedabad",Dabang Delhi K.C. Won by 3 Pts,2018-11-20T21:00+05:30,2018-11-20T21:00+05:30,W,3,26,29,Gujarat Giants,31,Dabang Delhi K.C.,2
+6,699,Match 74,League,2018,"The Arena By Transstadia, Ahmedabad",Patna Pirates Won by 18 Pts,2018-11-21T20:00+05:30,2018-11-21T20:00+05:30,W,18,45,27,Patna Pirates,6,Tamil Thalaivas,29
+6,700,Match 75,League,2018,"The Arena By Transstadia, Ahmedabad",Gujarat Giants Won by 4 Pts,2018-11-21T21:00+05:30,2018-11-21T21:00+05:30,W,4,39,35,Gujarat Giants,31,U Mumba,5
+6,701,Match 76,League,2018,"The Arena By Transstadia, Ahmedabad",Gujarat Giants Won by 9 Pts,2018-11-22T20:00+05:30,2018-11-22T20:00+05:30,W,9,40,31,Gujarat Giants,31,Haryana Steelers,28
+6,702,Match 77,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors Won by 2 Pts,2018-11-23T20:00+05:30,2018-11-23T20:00+05:30,W,2,31,33,Bengaluru Bulls,1,Bengal Warriors,4
+6,703,Match 78,League,2018,"Kanteerava Indoor Stadium, Bengaluru",,2018-11-23T21:00+05:30,2018-11-23T21:00+05:30,Tied,,30,30,Jaipur Pink Panthers,3,Puneri Paltan,7
+6,704,Match 79,League,2018,"Kanteerava Indoor Stadium, Bengaluru",U Mumba Won by 16 Pts,2018-11-24T20:00+05:30,2018-11-24T20:00+05:30,W,16,39,23,U Mumba,5,Dabang Delhi K.C.,2
+6,705,Match 80,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 14 Pts,2018-11-24T21:00+05:30,2018-11-24T21:00+05:30,W,14,36,22,Bengaluru Bulls,1,Tamil Thalaivas,29
+6,707,Match 81,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers Won by 7 Pts,2018-11-25T20:00+05:30,2018-11-25T20:00+05:30,W,7,27,34,Dabang Delhi K.C.,2,Haryana Steelers,28
+6,706,Match 82,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Patna Pirates Won by 3 Pts,2018-11-25T21:00+05:30,2018-11-25T21:00+05:30,W,3,32,35,Bengaluru Bulls,1,Patna Pirates,6
+6,708,Match 83,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Tamil Thalaivas Won by 6 Pts,2018-11-26T20:00+05:30,2018-11-26T20:00+05:30,W,6,31,25,Tamil Thalaivas,29,Telugu Titans,8
+6,635,Match 84,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 10 Pts,2018-11-26T20:00+05:30,2018-11-26T20:00+05:30,W,10,37,27,Bengaluru Bulls,1,U.P. Yoddha,30
+6,709,Match 85,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan Won by 2 Pts,2018-11-28T20:00+05:30,2018-11-28T20:00+05:30,W,2,33,35,Haryana Steelers,28,Puneri Paltan,7
+6,710,Match 86,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 8 Pts,2018-11-28T21:00+05:30,2018-11-28T21:00+05:30,W,8,34,26,Bengaluru Bulls,1,Telugu Titans,8
+6,711,Match 87,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Gujarat Giants Won by 15 Pts,2018-11-29T20:00+05:30,2018-11-29T20:00+05:30,W,15,20,35,Puneri Paltan,7,Gujarat Giants,31
+6,712,Match 88,League,2018,"Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors Won by 7 Pts,2018-11-29T21:00+05:30,2018-11-29T21:00+05:30,W,7,37,44,Bengaluru Bulls,1,Bengal Warriors,4
+6,713,Match 89,League,2018,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 13 Pts,2018-11-30T20:00+05:30,2018-11-30T20:00+05:30,W,13,48,35,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3
+6,714,Match 90,League,2018,"Thyagaraj Indoor Stadium, Delhi",,2018-11-30T21:00+05:30,2018-11-30T21:00+05:30,Tied,,35,35,Tamil Thalaivas,29,Patna Pirates,6
+6,715,Match 91,League,2018,"Thyagaraj Indoor Stadium, Delhi",U Mumba Won by 7 Pts,2018-12-01T20:00+05:30,2018-12-01T20:00+05:30,W,7,34,41,Dabang Delhi K.C.,2,U Mumba,5
+6,716,Match 92,League,2018,"Thyagaraj Indoor Stadium, Delhi",U Mumba Won by 10 Pts,2018-12-02T20:00+05:30,2018-12-02T20:00+05:30,W,10,36,26,U Mumba,5,Gujarat Giants,31
+6,717,Match 93,League,2018,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 11 Pts,2018-12-02T21:00+05:30,2018-12-02T21:00+05:30,W,11,35,24,Dabang Delhi K.C.,2,Puneri Paltan,7
+6,718,Match 94,League,2018,"Thyagaraj Indoor Stadium, Delhi",Gujarat Giants Won by 18 Pts,2018-12-04T20:00+05:30,2018-12-04T20:00+05:30,W,18,27,45,Patna Pirates,6,Gujarat Giants,31
+6,719,Match 95,League,2018,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 5 Pts,2018-12-04T21:00+05:30,2018-12-04T21:00+05:30,W,5,34,29,Dabang Delhi K.C.,2,Telugu Titans,8
+6,720,Match 96,League,2018,"Thyagaraj Indoor Stadium, Delhi",Haryana Steelers Won by 2 Pts,2018-12-05T20:00+05:30,2018-12-05T20:00+05:30,W,2,35,33,Haryana Steelers,28,Bengal Warriors,4
+6,721,Match 97,League,2018,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 1 Pts,2018-12-05T21:00+05:30,2018-12-05T21:00+05:30,W,1,32,31,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+6,722,Match 98,League,2018,"Thyagaraj Indoor Stadium, Delhi",U.P. Yoddha Won by 1 Pts,2018-12-06T20:00+05:30,2018-12-06T20:00+05:30,W,1,30,29,U.P. Yoddha,30,Haryana Steelers,28
+6,723,Match 99,League,2018,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 5 Pts,2018-12-06T21:00+05:30,2018-12-06T21:00+05:30,W,5,38,33,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+6,724,Match 100,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants Won by 2 Pts,2018-12-07T20:00+05:30,2018-12-07T20:00+05:30,W,2,27,29,Telugu Titans,8,Gujarat Giants,31
+6,725,Match 101,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates Won by 17 Pts,2018-12-07T21:00+05:30,2018-12-07T21:00+05:30,W,17,53,36,Patna Pirates,6,Puneri Paltan,7
+6,726,Match 102,League,2018,"Gachibowli Indoor Stadium, Hyderabad",U Mumba Won by 11 Pts,2018-12-08T20:00+05:30,2018-12-08T20:00+05:30,W,11,31,20,U Mumba,5,Bengal Warriors,4
+6,727,Match 103,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans Won by 10 Pts,2018-12-08T21:00+05:30,2018-12-08T21:00+05:30,W,10,36,26,Telugu Titans,8,Jaipur Pink Panthers,3
+6,728,Match 104,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers Won by 13 Pts,2018-12-09T20:00+05:30,2018-12-09T20:00+05:30,W,13,24,37,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+6,729,Match 105,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans Won by 4 Pts,2018-12-09T21:00+05:30,2018-12-09T21:00+05:30,W,4,35,31,Telugu Titans,8,Haryana Steelers,28
+6,730,Match 106,League,2018,"Gachibowli Indoor Stadium, Hyderabad",U Mumba Won by 25 Pts,2018-12-11T20:00+05:30,2018-12-11T20:00+05:30,W,25,19,44,Dabang Delhi K.C.,2,U Mumba,5
+6,731,Match 107,League,2018,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddha Won by 7 Pts,2018-12-11T21:00+05:30,2018-12-11T21:00+05:30,W,7,20,27,Telugu Titans,8,U.P. Yoddha,30
+6,732,Match 108,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants Won by 10 Pts,2018-12-12T20:00+05:30,2018-12-12T20:00+05:30,W,10,37,47,Haryana Steelers,28,Gujarat Giants,31
+6,733,Match 109,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls Won by 13 Pts,2018-12-12T21:00+05:30,2018-12-12T21:00+05:30,W,13,24,37,Telugu Titans,8,Bengaluru Bulls,1
+6,734,Match 110,League,2018,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans Won by 5 Pts,2018-12-13T20:00+05:30,2018-12-13T20:00+05:30,W,5,41,36,Telugu Titans,8,Patna Pirates,6
+6,735,Match 111,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Jaipur Pink Panthers Won by 13 Pts,2018-12-14T20:00+05:30,2018-12-14T20:00+05:30,W,13,36,23,Jaipur Pink Panthers,3,Puneri Paltan,7
+6,736,Match 112,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Bengal Warriors Won by 7 Pts,2018-12-14T21:00+05:30,2018-12-14T21:00+05:30,W,7,28,21,Bengal Warriors,4,Tamil Thalaivas,29
+6,737,Match 113,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",,2018-12-15T20:00+05:30,2018-12-15T20:00+05:30,Tied,,25,25,U.P. Yoddha,30,Tamil Thalaivas,29
+6,738,Match 114,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",,2018-12-15T21:00+05:30,2018-12-15T21:00+05:30,Tied,,35,35,Jaipur Pink Panthers,3,U Mumba,5
+6,739,Match 115,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",U.P. Yoddha Won by 16 Pts,2018-12-16T20:00+05:30,2018-12-16T20:00+05:30,W,16,31,47,Patna Pirates,6,U.P. Yoddha,30
+6,740,Match 116,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Gujarat Giants Won by 5 Pts,2018-12-16T21:00+05:30,2018-12-16T21:00+05:30,W,5,29,34,Jaipur Pink Panthers,3,Gujarat Giants,31
+6,741,Match 117,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Bengaluru Bulls Won by 16 Pts,2018-12-18T20:00+05:30,2018-12-18T20:00+05:30,W,16,44,28,Bengaluru Bulls,1,Telugu Titans,8
+6,742,Match 118,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Jaipur Pink Panthers Won by 9 Pts,2018-12-18T21:00+05:30,2018-12-18T21:00+05:30,W,9,39,30,Jaipur Pink Panthers,3,Haryana Steelers,28
+6,743,Match 119,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",,2018-12-19T20:00+05:30,2018-12-19T20:00+05:30,Tied,,40,40,Patna Pirates,6,Bengaluru Bulls,1
+6,744,Match 120,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",Gujarat Giants Won by 2 Pts,2018-12-19T21:00+05:30,2018-12-19T21:00+05:30,W,2,31,33,Jaipur Pink Panthers,3,Gujarat Giants,31
+6,745,Match 121,League,2018,"Sawai Man Singh Indoor Stadium, Jaipur",,2018-12-20T20:00+05:30,2018-12-20T20:00+05:30,Tied,,37,37,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+6,749,Match 126,League,2018,"Netaji Indoor Stadium, Kolkata",Dabang Delhi K.C. Won by 6 Pts,2018-12-23T20:00+05:30,2018-12-23T20:00+05:30,W,6,31,37,Bengal Warriors,4,Dabang Delhi K.C.,2
+6,747,Match 124,League,2018,"Netaji Indoor Stadium, Kolkata",U.P. Yoddha Won by 2 Pts,2018-12-22T20:00+05:30,2018-12-22T20:00+05:30,W,2,32,34,U Mumba,5,U.P. Yoddha,30
+6,748,Match 125,League,2018,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 16 Pts,2018-12-22T21:00+05:30,2018-12-22T21:00+05:30,W,16,39,23,Bengal Warriors,4,Patna Pirates,6
+6,750,Match 122,League,2018,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 3 Pts,2018-12-21T20:00+05:30,2018-12-21T20:00+05:30,W,3,27,24,Bengal Warriors,4,Tamil Thalaivas,29
+6,746,Match 123,League,2018,"Netaji Indoor Stadium, Kolkata",Puneri Paltan Won by 15 Pts,2018-12-21T21:00+05:30,2018-12-21T21:00+05:30,W,15,35,20,Puneri Paltan,7,Telugu Titans,8
+6,751,Match 127,League,2018,"Netaji Indoor Stadium, Kolkata",,2018-12-25T20:00+05:30,2018-12-25T20:00+05:30,Tied,,40,40,Haryana Steelers,28,Tamil Thalaivas,29
+6,752,Match 128,League,2018,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 5 Pts,2018-12-25T21:00+05:30,2018-12-25T21:00+05:30,W,5,39,34,Bengal Warriors,4,Telugu Titans,8
+6,753,Match 129,League,2018,"Netaji Indoor Stadium, Kolkata",Gujarat Giants Won by 8 Pts,2018-12-26T20:00+05:30,2018-12-26T20:00+05:30,W,8,37,29,Gujarat Giants,31,Patna Pirates,6
+6,754,Match 130,League,2018,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 6 Pts,2018-12-26T21:00+05:30,2018-12-26T21:00+05:30,W,6,37,31,Bengal Warriors,4,Bengaluru Bulls,1
+6,755,Match 131,League,2018,"Netaji Indoor Stadium, Kolkata",Bengaluru Bulls Won by 8 Pts,2018-12-27T20:00+05:30,2018-12-27T20:00+05:30,W,8,32,40,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+6,756,Match 132,League,2018,"Netaji Indoor Stadium, Kolkata",U.P. Yoddha Won by 16 Pts,2018-12-27T21:00+05:30,2018-12-27T21:00+05:30,W,16,25,41,Bengal Warriors,4,U.P. Yoddha,30
+6,757,Match 133,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",U.P. Yoddha Won by 5 Pts,2018-12-30T20:00+05:30,2018-12-30T20:00+05:30,W,5,29,34,U Mumba,5,U.P. Yoddha,30
+6,758,Match 134,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",Dabang Delhi K.C. Won by 11 Pts,2018-12-30T21:00+05:30,2018-12-30T21:00+05:30,W,11,39,28,Dabang Delhi K.C.,2,Bengal Warriors,4
+6,759,Match 135,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",Bengaluru Bulls Won by 12 Pts,2018-12-31T20:00+05:30,2018-12-31T20:00+05:30,W,12,29,41,Gujarat Giants,31,Bengaluru Bulls,1
+6,760,Match 136,Playoffs,2018,"Rajiv Gandhi Indoor Stadium, Kochi",U.P. Yoddha Won by 12 Pts,2018-12-31T21:00+05:30,2018-12-31T21:00+05:30,W,12,45,33,U.P. Yoddha,30,Dabang Delhi K.C.,2
+6,761,Match 137,Playoffs,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Gujarat Giants Won by 7 Pts,2019-01-03T20:00+05:30,2019-01-03T20:00+05:30,W,7,38,31,Gujarat Giants,31,U.P. Yoddha,30
+6,762,Match 138,Final,2018,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Bengaluru Bulls Won by 5 Pts,2019-01-05T20:00+05:30,2019-01-05T20:00+05:30,W,5,38,33,Bengaluru Bulls,1,Gujarat Giants,31
+7,1685,Match 1,League,2019,"Gachibowli Indoor Stadium, Hyderabad",U Mumba Won by 6 Pts,2019-07-20T19:30+05:30,2019-07-20T19:30+05:30,W,6,25,31,Telugu Titans,8,U Mumba,5
+7,1686,Match 2,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls Won by 2 Pts,2019-07-20T20:30+05:30,2019-07-20T20:30+05:30,W,2,34,32,Bengaluru Bulls,1,Patna Pirates,6
+7,1687,Match 3,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants Won by 18 Pts,2019-07-21T19:30+05:30,2019-07-21T19:30+05:30,W,18,24,42,Bengaluru Bulls,1,Gujarat Giants,31
+7,1688,Match 4,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas Won by 13 Pts,2019-07-21T20:30+05:30,2019-07-21T20:30+05:30,W,13,26,39,Telugu Titans,8,Tamil Thalaivas,29
+7,1689,Match 5,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers Won by 19 Pts,2019-07-22T19:30+05:30,2019-07-22T19:30+05:30,W,19,23,42,U Mumba,5,Jaipur Pink Panthers,3
+7,1690,Match 6,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers Won by 10 Pts,2019-07-22T20:30:20.000T+05:30,2019-07-22T20:30:20.000T+05:30,W,10,24,34,Puneri Paltan,7,Haryana Steelers,28
+7,1691,Match 7,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Bengal Warriors Won by 31 Pts,2019-07-24T19:30+05:30,2019-07-24T19:30+05:30,W,31,17,48,U.P. Yoddha,30,Bengal Warriors,4
+7,1692,Match 8,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. Won by 1 Pts,2019-07-24T20:30+05:30,2019-07-24T20:30+05:30,W,1,33,34,Telugu Titans,8,Dabang Delhi K.C.,2
+7,1693,Match 9,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. Won by 1 Pts,2019-07-25T19:30+05:30,2019-07-25T19:30+05:30,W,1,30,29,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+7,1694,Match 10,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants Won by 25 Pts,2019-07-26T19:30+05:30,2019-07-26T19:30+05:30,W,25,19,44,U.P. Yoddha,30,Gujarat Giants,31
+7,1695,Match 11,League,2019,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates Won by 12 Pts,2019-07-26T20:30+05:30,2019-07-26T20:30+05:30,W,12,22,34,Telugu Titans,8,Patna Pirates,6
+7,1696,Match 12,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 10 Pts,2019-07-27T19:30+05:30,2019-07-27T19:30+05:30,W,10,33,23,U Mumba,5,Puneri Paltan,7
+7,1697,Match 13,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Jaipur Pink Panthers Won by 2 Pts,2019-07-27T20:30+05:30,2019-07-27T20:30+05:30,W,2,27,25,Jaipur Pink Panthers,3,Bengal Warriors,4
+7,1698,Match 14,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Dabang Delhi K.C. Won by 20 Pts,2019-07-28T19:30+05:30,2019-07-28T19:30+05:30,W,20,41,21,Dabang Delhi K.C.,2,Haryana Steelers,28
+7,1699,Match 15,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Bengaluru Bulls Won by 4 Pts,2019-07-28T20:30+05:30,2019-07-28T20:30+05:30,W,4,26,30,U Mumba,5,Bengaluru Bulls,1
+7,1700,Match 16,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Patna Pirates Won by 1 Pts,2019-07-29T19:30+05:30,2019-07-29T19:30+05:30,W,1,23,24,Tamil Thalaivas,29,Patna Pirates,6
+7,1701,Match 17,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Bengal Warriors Won by 20 Pts,2019-07-29T20:30+05:30,2019-07-29T20:30+05:30,W,20,43,23,Bengal Warriors,4,Puneri Paltan,7
+7,1702,Match 18,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Jaipur Pink Panthers Won by 16 Pts,2019-07-31T19:30+05:30,2019-07-31T19:30+05:30,W,16,21,37,Haryana Steelers,28,Jaipur Pink Panthers,3
+7,1703,Match 19,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U.P. Yoddha Won by 4 Pts,2019-07-31T20:30+05:30,2019-07-31T20:30+05:30,W,4,23,27,U Mumba,5,U.P. Yoddha,30
+7,1704,Match 20,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",Gujarat Giants Won by 5 Pts,2019-08-01T19:30+05:30,2019-08-01T19:30+05:30,W,5,31,26,Gujarat Giants,31,Dabang Delhi K.C.,2
+7,1705,Match 21,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",,2019-08-02T19:30+05:30,2019-08-02T19:30+05:30,Tied,,20,20,Telugu Titans,8,U.P. Yoddha,30
+7,1706,Match 22,League,2019,"Dome,Nsci,Svp Stadium,Mumbai, Mumbai",U Mumba Won by 12 Pts,2019-08-02T20:30+05:30,2019-08-02T20:30+05:30,W,12,32,20,U Mumba,5,Gujarat Giants,31
+7,1707,Match 23,League,2019,"Patliputra Indoor Stadium, Patna",Jaipur Pink Panthers Won by 13 Pts,2019-08-03T19:30+05:30,2019-08-03T19:30+05:30,W,13,21,34,Patna Pirates,6,Jaipur Pink Panthers,3
+7,1708,Match 24,League,2019,"Patliputra Indoor Stadium, Patna",Bengaluru Bulls Won by 1 Pts,2019-08-03T20:30+05:30,2019-08-03T20:30+05:30,W,1,42,43,Bengal Warriors,4,Bengaluru Bulls,1
+7,1709,Match 25,League,2019,"Patliputra Indoor Stadium, Patna",Tamil Thalaivas Won by 7 Pts,2019-08-04T19:30+05:30,2019-08-04T19:30+05:30,W,7,28,35,Haryana Steelers,28,Tamil Thalaivas,29
+7,1710,Match 26,League,2019,"Patliputra Indoor Stadium, Patna",Puneri Paltan Won by 21 Pts,2019-08-04T20:30+05:30,2019-08-04T20:30+05:30,W,21,20,41,Patna Pirates,6,Puneri Paltan,7
+7,1711,Match 27,League,2019,"Patliputra Indoor Stadium, Patna",Dabang Delhi K.C. Won by 11 Pts,2019-08-05T19:30+05:30,2019-08-05T19:30+05:30,W,11,35,24,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3
+7,1712,Match 28,League,2019,"Patliputra Indoor Stadium, Patna",Puneri Paltan Won by 2 Pts,2019-08-05T20:30+05:30,2019-08-05T20:30+05:30,W,2,31,33,Gujarat Giants,31,Puneri Paltan,7
+7,1713,Match 29,League,2019,"Patliputra Indoor Stadium, Patna",,2019-08-07T19:30+05:30,2019-08-07T19:30+05:30,Tied,,28,28,U.P. Yoddha,30,Tamil Thalaivas,29
+7,1714,Match 30,League,2019,"Patliputra Indoor Stadium, Patna",Haryana Steelers Won by 9 Pts,2019-08-07T20:30+05:30,2019-08-07T20:30+05:30,W,9,26,35,Patna Pirates,6,Haryana Steelers,28
+7,1715,Match 31,League,2019,"Patliputra Indoor Stadium, Patna",Bengaluru Bulls Won by 21 Pts,2019-08-08T19:30+05:30,2019-08-08T19:30+05:30,W,21,26,47,Telugu Titans,8,Bengaluru Bulls,1
+7,1716,Match 32,League,2019,"Patliputra Indoor Stadium, Patna",Bengal Warriors Won by 2 Pts,2019-08-09T19:30+05:30,2019-08-09T19:30+05:30,W,2,32,30,Bengal Warriors,4,U Mumba,5
+7,1717,Match 33,League,2019,"Patliputra Indoor Stadium, Patna",Patna Pirates Won by 21 Pts,2019-08-09T20:30+05:30,2019-08-09T20:30+05:30,W,21,41,20,Patna Pirates,6,U.P. Yoddha,30
+7,1718,Match 34,League,2019,"The Arena By Transstadia, Ahmedabad",Tamil Thalaivas Won by 6 Pts,2019-08-10T19:30+05:30,2019-08-10T19:30+05:30,W,6,28,34,Gujarat Giants,31,Tamil Thalaivas,29
+7,1719,Match 35,League,2019,"The Arena By Transstadia, Ahmedabad",Dabang Delhi K.C. Won by 2 Pts,2019-08-10T20:30+05:30,2019-08-10T20:30+05:30,W,2,30,32,Puneri Paltan,7,Dabang Delhi K.C.,2
+7,1720,Match 36,League,2019,"The Arena By Transstadia, Ahmedabad",Haryana Steelers Won by 3 Pts,2019-08-11T19:30+05:30,2019-08-11T19:30+05:30,W,3,30,33,Bengaluru Bulls,1,Haryana Steelers,28
+7,1721,Match 37,League,2019,"The Arena By Transstadia, Ahmedabad",Telugu Titans Won by 6 Pts,2019-08-11T20:30+05:30,2019-08-11T20:30+05:30,W,6,24,30,Gujarat Giants,31,Telugu Titans,8
+7,1722,Match 38,League,2019,"The Arena By Transstadia, Ahmedabad",,2019-08-12T19:30+05:30,2019-08-12T19:30+05:30,Tied,,29,29,Bengal Warriors,4,Telugu Titans,8
+7,1723,Match 39,League,2019,"The Arena By Transstadia, Ahmedabad",U.P. Yoddha Won by 2 Pts,2019-08-12T20:30+05:30,2019-08-12T20:30+05:30,W,2,35,33,U.P. Yoddha,30,Bengaluru Bulls,1
+7,1724,Match 40,League,2019,"The Arena By Transstadia, Ahmedabad",Haryana Steelers Won by 3 Pts,2019-08-14T19:30+05:30,2019-08-14T19:30+05:30,W,3,33,36,U.P. Yoddha,30,Haryana Steelers,28
+7,1725,Match 41,League,2019,"The Arena By Transstadia, Ahmedabad",Bengal Warriors Won by 2 Pts,2019-08-14T20:30+05:30,2019-08-14T20:30+05:30,W,2,26,28,Gujarat Giants,31,Bengal Warriors,4
+7,1726,Match 42,League,2019,"The Arena By Transstadia, Ahmedabad",Jaipur Pink Panthers Won by 8 Pts,2019-08-15T19:30+05:30,2019-08-15T19:30+05:30,W,8,33,25,Jaipur Pink Panthers,3,Puneri Paltan,7
+7,1727,Match 43,League,2019,"The Arena By Transstadia, Ahmedabad",U Mumba Won by 4 Pts,2019-08-16T19:30+05:30,2019-08-16T19:30+05:30,W,4,34,30,U Mumba,5,Patna Pirates,6
+7,1728,Match 44,League,2019,"The Arena By Transstadia, Ahmedabad",Jaipur Pink Panthers Won by 3 Pts,2019-08-16T20:30+05:30,2019-08-16T20:30+05:30,W,3,19,22,Gujarat Giants,31,Jaipur Pink Panthers,3
+7,1729,Match 45,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengaluru Bulls Won by 11 Pts,2019-08-17T19:30+05:30,2019-08-17T19:30+05:30,W,11,21,32,Tamil Thalaivas,29,Bengaluru Bulls,1
+7,1730,Match 46,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",,2019-08-17T20:30+05:30,2019-08-17T20:30+05:30,Tied,,30,30,Bengal Warriors,4,Dabang Delhi K.C.,2
+7,1731,Match 47,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Telugu Titans Won by 11 Pts,2019-08-18T19:30+05:30,2019-08-18T19:30+05:30,W,11,29,40,Haryana Steelers,28,Telugu Titans,8
+7,1732,Match 48,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",,2019-08-18T20:30+05:30,2019-08-18T20:30+05:30,Tied,,31,31,Tamil Thalaivas,29,Puneri Paltan,7
+7,1733,Match 49,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Haryana Steelers Won by 3 Pts,2019-08-19T19:30+05:30,2019-08-19T19:30+05:30,W,3,27,30,U Mumba,5,Haryana Steelers,28
+7,1734,Match 50,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",U.P. Yoddha Won by 7 Pts,2019-08-19T20:30+05:30,2019-08-19T20:30+05:30,W,7,31,24,U.P. Yoddha,30,Jaipur Pink Panthers,3
+7,1735,Match 51,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Puneri Paltan Won by 8 Pts,2019-08-21T19:30+05:30,2019-08-21T19:30+05:30,W,8,31,23,Puneri Paltan,7,Bengaluru Bulls,1
+7,1736,Match 52,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Jaipur Pink Panthers Won by 2 Pts,2019-08-21T20:30+05:30,2019-08-21T20:30+05:30,W,2,26,28,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+7,1737,Match 53,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Bengal Warriors Won by 9 Pts,2019-08-22T19:30+05:30,2019-08-22T19:30+05:30,W,9,35,26,Bengal Warriors,4,Patna Pirates,6
+7,1738,Match 54,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",Gujarat Giants Won by 3 Pts,2019-08-23T19:30+05:30,2019-08-23T19:30+05:30,W,3,29,26,Gujarat Giants,31,Patna Pirates,6
+7,1739,Match 55,League,2019,"Jawaharlal Nehru Indoor Stadium, Chennai",U Mumba Won by 5 Pts,2019-08-23T20:30+05:30,2019-08-23T20:30+05:30,W,5,24,29,Tamil Thalaivas,29,U Mumba,5
+7,1740,Match 56,League,2019,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 2 Pts,2019-08-24T19:30+05:30,2019-08-24T19:30+05:30,W,2,33,31,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+7,1741,Match 57,League,2019,"Thyagaraj Indoor Stadium, Delhi",Telugu Titans Won by 3 Pts,2019-08-24T20:30+05:30,2019-08-24T20:30+05:30,W,3,21,24,Jaipur Pink Panthers,3,Telugu Titans,8
+7,1742,Match 58,League,2019,"Thyagaraj Indoor Stadium, Delhi",Bengaluru Bulls Won by 11 Pts,2019-08-25T19:30+05:30,2019-08-25T19:30+05:30,W,11,30,41,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+7,1743,Match 59,League,2019,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 9 Pts,2019-08-25T20:30+05:30,2019-08-25T20:30+05:30,W,9,36,27,Dabang Delhi K.C.,2,U.P. Yoddha,30
+7,1744,Match 60,League,2019,"Thyagaraj Indoor Stadium, Delhi",Haryana Steelers Won by 3 Pts,2019-08-26T19:30+05:30,2019-08-26T19:30+05:30,W,3,33,36,Bengal Warriors,4,Haryana Steelers,28
+7,1745,Match 61,League,2019,"Thyagaraj Indoor Stadium, Delhi",U.P. Yoddha Won by 5 Pts,2019-08-26T20:30+05:30,2019-08-26T20:30+05:30,W,5,35,30,U.P. Yoddha,30,Puneri Paltan,7
+7,1746,Match 62,League,2019,"Thyagaraj Indoor Stadium, Delhi",Haryana Steelers Won by 16 Pts,2019-08-28T19:30+05:30,2019-08-28T19:30+05:30,W,16,25,41,Gujarat Giants,31,Haryana Steelers,28
+7,1747,Match 63,League,2019,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 16 Pts,2019-08-28T20:30+05:30,2019-08-28T20:30+05:30,W,16,40,24,Dabang Delhi K.C.,2,U Mumba,5
+7,1748,Match 64,League,2019,"Thyagaraj Indoor Stadium, Delhi",Bengal Warriors Won by 9 Pts,2019-08-29T19:30+05:30,2019-08-29T19:30+05:30,W,9,35,26,Bengal Warriors,4,Tamil Thalaivas,29
+7,1749,Match 65,League,2019,"Thyagaraj Indoor Stadium, Delhi",Puneri Paltan Won by 7 Pts,2019-08-30T19:30+05:30,2019-08-30T19:30+05:30,W,7,27,34,Telugu Titans,8,Puneri Paltan,7
+7,1750,Match 66,League,2019,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. Won by 3 Pts,2019-08-30T20:30+05:30,2019-08-30T20:30+05:30,W,3,38,35,Dabang Delhi K.C.,2,Patna Pirates,6
+7,1751,Match 67,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Gujarat Giants Won by 9 Pts,2019-08-31T19:30+05:30,2019-08-31T19:30+05:30,W,9,23,32,Bengaluru Bulls,1,Gujarat Giants,31
+7,1752,Match 68,League,2019,"Kanteerava Indoor Stadium, Bengaluru",U Mumba Won by 26 Pts,2019-08-31T20:30+05:30,2019-08-31T20:30+05:30,W,26,47,21,U Mumba,5,Jaipur Pink Panthers,3
+7,1753,Match 69,League,2019,"Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddha Won by 3 Pts,2019-09-01T19:30+05:30,2019-09-01T19:30+05:30,W,3,32,29,U.P. Yoddha,30,Bengal Warriors,4
+7,1754,Match 70,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 6 Pts,2019-09-01T20:30+05:30,2019-09-01T20:30+05:30,W,6,33,27,Bengaluru Bulls,1,Tamil Thalaivas,29
+7,1755,Match 71,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers Won by 14 Pts,2019-09-02T19:30+05:30,2019-09-02T19:30+05:30,W,14,27,41,Puneri Paltan,7,Haryana Steelers,28
+7,1756,Match 72,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Telugu Titans Won by 5 Pts,2019-09-02T20:30+05:30,2019-09-02T20:30+05:30,W,5,35,30,Telugu Titans,8,Tamil Thalaivas,29
+7,1757,Match 73,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. Won by 2 Pts,2019-09-04T19:30+05:30,2019-09-04T19:30+05:30,W,2,44,46,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+7,1758,Match 74,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 1 Pts,2019-09-04T20:30+05:30,2019-09-04T20:30+05:30,W,1,40,39,Bengaluru Bulls,1,Patna Pirates,6
+7,1759,Match 75,League,2019,"Kanteerava Indoor Stadium, Bengaluru",,2019-09-05T19:30+05:30,2019-09-05T19:30+05:30,Tied,,33,33,Puneri Paltan,7,U Mumba,5
+7,1760,Match 76,League,2019,"Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddha Won by 12 Pts,2019-09-06T19:30+05:30,2019-09-06T19:30+05:30,W,12,29,41,Patna Pirates,6,U.P. Yoddha,30
+7,1761,Match 77,League,2019,"Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls Won by 1 Pts,2019-09-06T20:30+05:30,2019-09-06T20:30+05:30,W,1,40,39,Bengaluru Bulls,1,Telugu Titans,8
+7,1762,Match 78,League,2019,"Netaji Indoor Stadium, Kolkata",,2019-09-07T19:30+05:30,2019-09-07T19:30+05:30,Tied,,25,25,Bengal Warriors,4,Gujarat Giants,31
+7,1763,Match 79,League,2019,"Netaji Indoor Stadium, Kolkata",Haryana Steelers Won by 22 Pts,2019-09-07T20:30+05:30,2019-09-07T20:30+05:30,W,22,25,47,Dabang Delhi K.C.,2,Haryana Steelers,28
+7,1764,Match 80,League,2019,"Netaji Indoor Stadium, Kolkata",Dabang Delhi K.C. Won by 16 Pts,2019-09-08T19:30+05:30,2019-09-08T19:30+05:30,W,16,50,34,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+7,1765,Match 81,League,2019,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 3 Pts,2019-09-08T20:30+05:30,2019-09-08T20:30+05:30,W,3,42,39,Bengal Warriors,4,Puneri Paltan,7
+7,1766,Match 82,League,2019,"Netaji Indoor Stadium, Kolkata",U.P. Yoddha Won by 7 Pts,2019-09-09T19:30+05:30,2019-09-09T19:30+05:30,W,7,33,26,U.P. Yoddha,30,Gujarat Giants,31
+7,1767,Match 83,League,2019,"Netaji Indoor Stadium, Kolkata",Patna Pirates Won by 26 Pts,2019-09-09T20:30+05:30,2019-09-09T20:30+05:30,W,26,25,51,Tamil Thalaivas,29,Patna Pirates,6
+7,1768,Match 85,League,2019,"Netaji Indoor Stadium, Kolkata",,2019-09-11T19:30+05:30,2019-09-11T19:30+05:30,Tied,,32,32,Haryana Steelers,28,Jaipur Pink Panthers,3
+7,1769,Match 86,League,2019,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 3 Pts,2019-09-11T20:30+05:30,2019-09-11T20:30+05:30,W,3,29,26,Bengal Warriors,4,U Mumba,5
+7,1770,Match 87,League,2019,"Netaji Indoor Stadium, Kolkata",Patna Pirates Won by 3 Pts,2019-09-12T19:30+05:30,2019-09-12T19:30+05:30,W,3,33,36,Jaipur Pink Panthers,3,Patna Pirates,6
+7,1771,Match 84,League,2019,"Netaji Indoor Stadium, Kolkata",U Mumba Won by 14 Pts,2019-09-10T19:30+05:30,2019-09-10T19:30+05:30,W,14,27,41,Telugu Titans,8,U Mumba,5
+7,1772,Match 88,League,2019,"Netaji Indoor Stadium, Kolkata",Bengal Warriors Won by 2 Pts,2019-09-12T20:30+05:30,2019-09-12T20:30+05:30,W,2,42,40,Bengal Warriors,4,Bengaluru Bulls,1
+7,1773,Match 89,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan Won by 10 Pts,2019-09-14T19:30+05:30,2019-09-14T19:30+05:30,W,10,43,33,Puneri Paltan,7,Gujarat Giants,31
+7,1774,Match 90,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Haryana Steelers Won by 8 Pts,2019-09-14T20:30+05:30,2019-09-14T20:30+05:30,W,8,35,43,Tamil Thalaivas,29,Haryana Steelers,28
+7,1775,Match 91,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C. Won by 4 Pts,2019-09-15T19:30+05:30,2019-09-15T19:30+05:30,W,4,34,30,Dabang Delhi K.C.,2,Gujarat Giants,31
+7,1776,Match 92,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Patna Pirates Won by 22 Pts,2019-09-15T20:30+05:30,2019-09-15T20:30+05:30,W,22,33,55,Puneri Paltan,7,Patna Pirates,6
+7,1777,Match 93,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",U.P. Yoddha Won by 6 Pts,2019-09-16T19:30+05:30,2019-09-16T19:30+05:30,W,6,32,38,Jaipur Pink Panthers,3,U.P. Yoddha,30
+7,1778,Match 94,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Dabang Delhi K.C. Won by 8 Pts,2019-09-16T20:30+05:30,2019-09-16T20:30+05:30,W,8,29,37,Telugu Titans,8,Dabang Delhi K.C.,2
+7,1779,Match 95,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",U Mumba Won by 3 Pts,2019-09-18T19:30+05:30,2019-09-18T19:30+05:30,W,3,39,36,U Mumba,5,U.P. Yoddha,30
+7,1780,Match 96,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",,2019-09-18T20:30+05:30,2019-09-18T20:30+05:30,Tied,,36,36,Puneri Paltan,7,Tamil Thalaivas,29
+7,1781,Match 97,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Bengal Warriors Won by 12 Pts,2019-09-19T19:30+05:30,2019-09-19T19:30+05:30,W,12,48,36,Bengal Warriors,4,Haryana Steelers,28
+7,1782,Match 98,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",,2019-09-20T19:30+05:30,2019-09-20T19:30+05:30,Tied,,42,42,Telugu Titans,8,Patna Pirates,6
+7,1783,Match 99,League,2019,"Shree Shiv Chhatrapati Sports Complex, Pune",Puneri Paltan Won by 4 Pts,2019-09-20T20:30+05:30,2019-09-20T20:30+05:30,W,4,42,38,Puneri Paltan,7,Bengaluru Bulls,1
+7,1784,Match 100,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",,2019-09-21T19:30+05:30,2019-09-21T19:30+05:30,Tied,,28,28,Jaipur Pink Panthers,3,Gujarat Giants,31
+7,1785,Match 101,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",U.P. Yoddha Won by 20 Pts,2019-09-21T20:30+05:30,2019-09-21T20:30+05:30,W,20,42,22,U.P. Yoddha,30,Tamil Thalaivas,29
+7,1786,Match 102,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",U Mumba Won by 6 Pts,2019-09-22T19:30+05:30,2019-09-22T19:30+05:30,W,6,31,25,U Mumba,5,Gujarat Giants,31
+7,1787,Match 103,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Bengal Warriors Won by 1 Pts,2019-09-22T20:30+05:30,2019-09-22T20:30+05:30,W,1,40,41,Jaipur Pink Panthers,3,Bengal Warriors,4
+7,1788,Match 104,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Haryana Steelers Won by 5 Pts,2019-09-23T19:30+05:30,2019-09-23T19:30+05:30,W,5,34,39,Patna Pirates,6,Haryana Steelers,28
+7,1789,Match 105,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",,2019-09-23T20:30+05:30,2019-09-23T20:30+05:30,Tied,,39,39,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+7,1790,Match 106,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Bengal Warriors Won by 1 Pts,2019-09-25T19:30+05:30,2019-09-25T19:30+05:30,W,1,39,40,Telugu Titans,8,Bengal Warriors,4
+7,1791,Match 107,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Jaipur Pink Panthers Won by 9 Pts,2019-09-25T20:30+05:30,2019-09-25T20:30+05:30,W,9,43,34,Jaipur Pink Panthers,3,Puneri Paltan,7
+7,1792,Match 108,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Dabang Delhi K.C. Won by 4 Pts,2019-09-26T19:30+05:30,2019-09-26T19:30+05:30,W,4,39,43,Patna Pirates,6,Dabang Delhi K.C.,2
+7,1793,Match 109,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Bengaluru Bulls Won by 2 Pts,2019-09-27T19:30+05:30,2019-09-27T19:30+05:30,W,2,33,35,U Mumba,5,Bengaluru Bulls,1
+7,1794,Match 110,League,2019,"Sawai Man Singh Indoor Stadium, Jaipur",Telugu Titans Won by 20 Pts,2019-09-27T20:30+05:30,2019-09-27T20:30+05:30,W,20,31,51,Jaipur Pink Panthers,3,Telugu Titans,8
+7,1795,Match 111,League,2019,"Tau Devilal Sports Complex, Panchkula",U.P. Yoddha Won by 7 Pts,2019-09-28T19:30+05:30,2019-09-28T19:30+05:30,W,7,30,37,Haryana Steelers,28,U.P. Yoddha,30
+7,1796,Match 112,League,2019,"Tau Devilal Sports Complex, Panchkula",Gujarat Giants Won by 29 Pts,2019-09-28T20:30+05:30,2019-09-28T20:30+05:30,W,29,50,21,Gujarat Giants,31,Tamil Thalaivas,29
+7,1797,Match 113,League,2019,"Tau Devilal Sports Complex, Panchkula",Dabang Delhi K.C. Won by 20 Pts,2019-09-29T19:30+05:30,2019-09-29T19:30+05:30,W,20,40,60,Puneri Paltan,7,Dabang Delhi K.C.,2
+7,1798,Match 114,League,2019,"Tau Devilal Sports Complex, Panchkula",Haryana Steelers Won by 1 Pts,2019-09-29T20:30+05:30,2019-09-29T20:30+05:30,W,1,38,37,Haryana Steelers,28,Gujarat Giants,31
+7,1799,Match 115,League,2019,"Tau Devilal Sports Complex, Panchkula",Bengal Warriors Won by 9 Pts,2019-09-30T19:30+05:30,2019-09-30T19:30+05:30,W,9,42,33,Bengal Warriors,4,Dabang Delhi K.C.,2
+7,1800,Match 116,League,2019,"Tau Devilal Sports Complex, Panchkula",U Mumba Won by 4 Pts,2019-09-30T20:30+05:30,2019-09-30T20:30+05:30,W,4,32,36,Tamil Thalaivas,29,U Mumba,5
+7,1801,Match 117,League,2019,"Tau Devilal Sports Complex, Panchkula",U Mumba Won by 4 Pts,2019-10-02T19:30+05:30,2019-10-02T19:30+05:30,W,4,30,26,U Mumba,5,Patna Pirates,6
+7,1802,Match 118,League,2019,"Tau Devilal Sports Complex, Panchkula",Bengaluru Bulls Won by 23 Pts,2019-10-02T20:30+05:30,2019-10-02T20:30+05:30,W,23,36,59,Haryana Steelers,28,Bengaluru Bulls,1
+7,1803,Match 119,League,2019,"Tau Devilal Sports Complex, Panchkula",Puneri Paltan Won by 3 Pts,2019-10-03T20:30+05:30,2019-10-03T20:30+05:30,W,3,50,53,Telugu Titans,8,Puneri Paltan,7
+7,1804,Match 120,League,2019,"Tau Devilal Sports Complex, Panchkula",Jaipur Pink Panthers Won by 7 Pts,2019-10-04T19:30+05:30,2019-10-04T19:30+05:30,W,7,41,34,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+7,1805,Match 121,League,2019,"Tau Devilal Sports Complex, Panchkula",Haryana Steelers Won by 20 Pts,2019-10-04T20:30+05:30,2019-10-04T20:30+05:30,W,20,52,32,Haryana Steelers,28,Telugu Titans,8
+7,1806,Match 122,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha Won by 17 Pts,2019-10-05T19:30+05:30,2019-10-05T19:30+05:30,W,17,50,33,U.P. Yoddha,30,Dabang Delhi K.C.,2
+7,1807,Match 123,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Patna Pirates Won by 6 Pts,2019-10-05T20:30+05:30,2019-10-05T20:30+05:30,W,6,33,39,Gujarat Giants,31,Patna Pirates,6
+7,1808,Match 124,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Patna Pirates Won by 28 Pts,2019-10-06T19:30+05:30,2019-10-06T19:30+05:30,W,28,41,69,Bengal Warriors,4,Patna Pirates,6
+7,1809,Match 125,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha Won by 4 Pts,2019-10-06T20:30+05:30,2019-10-06T20:30+05:30,W,4,43,39,U.P. Yoddha,30,Puneri Paltan,7
+7,1810,Match 126,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Gujarat Giants Won by 10 Pts,2019-10-07T19:30+05:30,2019-10-07T19:30+05:30,W,10,38,48,Telugu Titans,8,Gujarat Giants,31
+7,1811,Match 127,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Tamil Thalaivas Won by 2 Pts,2019-10-07T20:30+05:30,2019-10-07T20:30+05:30,W,2,35,33,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+7,1812,Match 128,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Bengal Warriors Won by 4 Pts,2019-10-09T19:30+05:30,2019-10-09T19:30+05:30,W,4,33,29,Bengal Warriors,4,Tamil Thalaivas,29
+7,1813,Match 129,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",Telugu Titans Won by 5 Pts,2019-10-09T20:30+05:30,2019-10-09T20:30+05:30,W,5,36,41,U.P. Yoddha,30,Telugu Titans,8
+7,1814,Match 130,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U Mumba Won by 6 Pts,2019-10-10T19:30+05:30,2019-10-10T19:30+05:30,W,6,39,33,U Mumba,5,Haryana Steelers,28
+7,1815,Match 131,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",,2019-10-11T19:30+05:30,2019-10-11T19:30+05:30,Tied,,37,37,Dabang Delhi K.C.,2,U Mumba,5
+7,1816,Match 132,League,2019,"Shaheed Vijay Singh Pathik Sports Complex, Greater Noida",U.P. Yoddha Won by 12 Pts,2019-10-11T20:30+05:30,2019-10-11T20:30+05:30,W,12,45,33,U.P. Yoddha,30,Bengaluru Bulls,1
+7,1817,Match 133,Playoffs,2019,"The Arena By Transstadia, Ahmedabad",Bengaluru Bulls Won by 3 Pts,2019-10-14T19:30+05:30,2019-10-14T19:30+05:30,W,3,45,48,U.P. Yoddha,30,Bengaluru Bulls,1
+7,1818,Match 134,Playoffs,2019,"The Arena By Transstadia, Ahmedabad",U Mumba Won by 8 Pts,2019-10-14T20:30+05:30,2019-10-14T20:30+05:30,W,8,46,38,U Mumba,5,Haryana Steelers,28
+7,1819,Match 135,Semi Final,2019,"The Arena By Transstadia, Ahmedabad",Dabang Delhi K.C. Won by 6 Pts,2019-10-16T19:30+05:30,2019-10-16T19:30+05:30,W,6,44,38,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+7,1820,Match 136,Semi Final,2019,"The Arena By Transstadia, Ahmedabad",Bengal Warriors Won by 2 Pts,2019-10-16T20:30+05:30,2019-10-16T20:30+05:30,W,2,37,35,Bengal Warriors,4,U Mumba,5
+7,1821,Match 137,Final,2019,"The Arena By Transstadia, Ahmedabad",Bengal Warriors Won by 5 Pts,2019-10-19T19:30+05:30,2019-10-19T19:30+05:30,W,5,34,39,Dabang Delhi K.C.,2,Bengal Warriors,4
+8,2700,Match 1,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 16 Pts,2021-12-22T19:30+05:30,2021-12-22T19:30+05:30,W,16,30,46,Bengaluru Bulls,1,U Mumba,5
+8,2701,Match 2,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2021-12-22T20:30+05:30,2021-12-22T20:30+05:30,T,,40,40,Telugu Titans,8,Tamil Thalaivas,29
+8,2702,Match 3,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 5 Pts,2021-12-22T21:30+05:30,2021-12-22T21:30+05:30,W,5,38,33,Bengal Warriors,4,U.P. Yoddhas,30
+8,2703,Match 4,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 7 Pts,2021-12-23T19:30+05:30,2021-12-23T19:30+05:30,W,7,34,27,Gujarat Giants,31,Jaipur Pink Panthers,3
+8,2704,Match 5,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 11 Pts,2021-12-23T20:30+05:30,2021-12-23T20:30+05:30,W,11,41,30,Dabang Delhi K.C.,2,Puneri Paltan,7
+8,2705,Match 6,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 3 Pts,2021-12-23T21:30+05:30,2021-12-23T21:30+05:30,W,3,39,42,Haryana Steelers,28,Patna Pirates,6
+8,2706,Match 7,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 9 Pts,2021-12-24T19:30+05:30,2021-12-24T19:30+05:30,W,9,22,31,U Mumba,5,Dabang Delhi K.C.,2
+8,2707,Match 8,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 8 Pts,2021-12-24T20:30+05:30,2021-12-24T20:30+05:30,W,8,30,38,Tamil Thalaivas,29,Bengaluru Bulls,1
+8,2708,Match 9,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 3 Pts,2021-12-24T21:30+05:30,2021-12-24T21:30+05:30,W,3,31,28,Bengal Warriors,4,Gujarat Giants,31
+8,2709,Match 10,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 1 Pts,2021-12-25T19:30+05:30,2021-12-25T19:30+05:30,W,1,35,36,Patna Pirates,6,U.P. Yoddhas,30
+8,2710,Match 11,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 1 Pts,2021-12-25T20:30+05:30,2021-12-25T20:30+05:30,W,1,34,33,Puneri Paltan,7,Telugu Titans,8
+8,2711,Match 12,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 2 Pts,2021-12-25T21:30+05:30,2021-12-25T21:30+05:30,W,2,40,38,Jaipur Pink Panthers,3,Haryana Steelers,28
+8,2712,Match 13,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2021-12-26T19:30+05:30,2021-12-26T19:30+05:30,T,,24,24,Gujarat Giants,31,Dabang Delhi K.C.,2
+8,2713,Match 14,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 1 Pts,2021-12-26T20:30+05:30,2021-12-26T20:30+05:30,W,1,36,35,Bengaluru Bulls,1,Bengal Warriors,4
+8,2714,Match 15,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2021-12-27T19:30+05:30,2021-12-27T19:30+05:30,T,,28,29,Tamil Thalaivas,29,U Mumba,5
+8,2715,Match 16,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 3 Pts,2021-12-27T20:30+05:30,2021-12-27T20:30+05:30,W,3,29,32,U.P. Yoddhas,30,Jaipur Pink Panthers,3
+8,2716,Match 17,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 12 Pts,2021-12-28T19:30+05:30,2021-12-28T19:30+05:30,W,12,26,38,Puneri Paltan,7,Patna Pirates,6
+8,2717,Match 18,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 2 Pts,2021-12-28T20:30+05:30,2021-12-28T20:30+05:30,W,2,37,39,Telugu Titans,8,Haryana Steelers,28
+8,2718,Match 19,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 17 Pts,2021-12-29T19:30+05:30,2021-12-29T19:30+05:30,W,17,52,35,Dabang Delhi K.C.,2,Bengal Warriors,4
+8,2719,Match 20,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2021-12-29T20:30+05:30,2021-12-29T20:30+05:30,T,,32,32,U.P. Yoddhas,30,Gujarat Giants,31
+8,2720,Match 21,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 9 Pts,2021-12-30T19:30+05:30,2021-12-30T19:30+05:30,W,9,28,37,Jaipur Pink Panthers,3,U Mumba,5
+8,2721,Match 22,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 14 Pts,2021-12-30T20:30+05:30,2021-12-30T20:30+05:30,W,14,28,42,Haryana Steelers,28,Bengaluru Bulls,1
+8,2722,Match 23,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Tamil Thalaivas won by 10 Pts,2021-12-31T19:30+05:30,2021-12-31T19:30+05:30,W,10,36,26,Tamil Thalaivas,29,Puneri Paltan,7
+8,2723,Match 24,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 14 Pts,2021-12-31T20:30+05:30,2021-12-31T20:30+05:30,W,14,44,30,Patna Pirates,6,Bengal Warriors,4
+8,2724,Match 25,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-01T19:30+05:30,2022-01-01T19:30+05:30,T,,27,25,U Mumba,5,U.P. Yoddhas,30
+8,2725,Match 26,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-01T20:30+05:30,2022-01-01T20:30+05:30,T,,34,34,Bengaluru Bulls,1,Telugu Titans,8
+8,2726,Match 27,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-01T21:30+05:30,2022-01-01T21:30+05:30,T,,30,30,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+8,2727,Match 28,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 2 Pts,2022-01-02T19:30+05:30,2022-01-02T19:30+05:30,W,2,36,38,Gujarat Giants,31,Haryana Steelers,28
+8,2728,Match 29,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 11 Pts,2022-01-02T20:30+05:30,2022-01-02T20:30+05:30,W,11,29,40,Puneri Paltan,7,Bengaluru Bulls,1
+8,2729,Match 30,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 3 Pts,2022-01-03T19:30+05:30,2022-01-03T19:30+05:30,W,3,31,28,Bengal Warriors,4,Jaipur Pink Panthers,3
+8,2730,Match 31,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 1 Pts,2022-01-03T20:30+05:30,2022-01-03T20:30+05:30,W,1,30,31,Telugu Titans,8,Patna Pirates,6
+8,2731,Match 32,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-04T19:30+05:30,2022-01-04T19:30+05:30,T,,24,24,Haryana Steelers,28,U Mumba,5
+8,2732,Match 33,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Tamil Thalaivas won by 6 Pts,2022-01-04T20:30+05:30,2022-01-04T20:30+05:30,W,6,33,39,U.P. Yoddhas,30,Tamil Thalaivas,29
+8,2733,Match 34,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 7 Pts,2022-01-05T19:30+05:30,2022-01-05T19:30+05:30,W,7,33,26,Puneri Paltan,7,Gujarat Giants,31
+8,2734,Match 35,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 1 Pts,2022-01-05T20:30+05:30,2022-01-05T20:30+05:30,W,1,36,35,Dabang Delhi K.C.,2,Telugu Titans,8
+8,2735,Match 36,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-06T19:30+05:30,2022-01-06T19:30+05:30,T,,30,30,Patna Pirates,6,Tamil Thalaivas,29
+8,2736,Match 37,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 7 Pts,2022-01-06T20:30+05:30,2022-01-06T20:30+05:30,W,7,38,31,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+8,2737,Match 38,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 4 Pts,2022-01-07T19:30+05:30,2022-01-07T19:30+05:30,W,4,37,41,Bengal Warriors,4,Haryana Steelers,28
+8,2738,Match 39,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 5 Pts,2022-01-07T20:30+05:30,2022-01-07T20:30+05:30,W,5,31,26,Jaipur Pink Panthers,3,Puneri Paltan,7
+8,2739,Match 40,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 4 Pts,2022-01-08T19:30+05:30,2022-01-08T19:30+05:30,W,4,33,37,U.P. Yoddhas,30,Dabang Delhi K.C.,2
+8,2740,Match 41,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 10 Pts,2022-01-08T20:30+05:30,2022-01-08T20:30+05:30,W,10,48,38,U Mumba,5,Telugu Titans,8
+8,2741,Match 42,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 1 Pts,2022-01-08T21:30+05:30,2022-01-08T21:30+05:30,W,1,26,27,Gujarat Giants,31,Patna Pirates,6
+8,2742,Match 43,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 12 Pts,2022-01-09T19:30+05:30,2022-01-09T19:30+05:30,W,12,39,27,Puneri Paltan,7,Bengal Warriors,4
+8,2743,Match 44,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 15 Pts,2022-01-09T20:30+05:30,2022-01-09T20:30+05:30,W,15,27,42,Bengaluru Bulls,1,U.P. Yoddhas,30
+8,2744,Match 45,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Tamil Thalaivas won by 19 Pts,2022-01-10T19:30+05:30,2022-01-10T19:30+05:30,W,19,45,26,Tamil Thalaivas,29,Haryana Steelers,28
+8,2745,Match 46,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 2 Pts,2022-01-10T20:30+05:30,2022-01-10T20:30+05:30,W,2,30,28,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+8,2746,Match 47,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 17 Pts,2022-01-11T19:30+05:30,2022-01-11T19:30+05:30,W,17,40,23,Patna Pirates,6,U Mumba,5
+8,2747,Match 48,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 18 Pts,2022-01-11T20:30+05:30,2022-01-11T20:30+05:30,W,18,22,40,Telugu Titans,8,Gujarat Giants,31
+8,2748,Match 49,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-12T19:30+05:30,2022-01-12T19:30+05:30,T,,36,36,Haryana Steelers,28,U.P. Yoddhas,30
+8,2749,Match 50,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 39 Pts,2022-01-12T20:30+05:30,2022-01-12T20:30+05:30,W,39,22,61,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+8,2750,Match 51,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 9 Pts,2022-01-13T19:30+05:30,2022-01-13T19:30+05:30,W,9,37,28,Bengal Warriors,4,Tamil Thalaivas,29
+8,2751,Match 52,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 19 Pts,2022-01-13T20:30+05:30,2022-01-13T20:30+05:30,W,19,21,40,U Mumba,5,Puneri Paltan,7
+8,2752,Match 53,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 10 Pts,2022-01-14T19:30+05:30,2022-01-14T19:30+05:30,W,10,38,28,Jaipur Pink Panthers,3,Patna Pirates,6
+8,2753,Match 54,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 9 Pts,2022-01-14T20:30+05:30,2022-01-14T20:30+05:30,W,9,37,46,Gujarat Giants,31,Bengaluru Bulls,1
+8,2754,Match 55,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 3 Pts,2022-01-15T19:30+05:30,2022-01-15T19:30+05:30,W,3,25,28,Haryana Steelers,28,Dabang Delhi K.C.,2
+8,2755,Match 56,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 6 Pts,2022-01-15T20:30+05:30,2022-01-15T20:30+05:30,W,6,39,33,U.P. Yoddhas,30,Telugu Titans,8
+8,2756,Match 57,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-15T21:30+05:30,2022-01-15T21:30+05:30,T,,31,32,U Mumba,5,Bengal Warriors,4
+8,2757,Match 58,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-16T19:30+05:30,2022-01-16T19:30+05:30,T,,31,31,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+8,2758,Match 59,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 7 Pts,2022-01-16T20:30+05:30,2022-01-16T20:30+05:30,W,7,38,31,Patna Pirates,6,Bengaluru Bulls,1
+8,2759,Match 60,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 10 Pts,2022-01-17T19:30+05:30,2022-01-17T19:30+05:30,W,10,40,50,Puneri Paltan,7,U.P. Yoddhas,30
+8,2760,Match 61,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 1 Pts,2022-01-17T20:30+05:30,2022-01-17T20:30+05:30,W,1,27,28,Telugu Titans,8,Bengal Warriors,4
+8,2761,Match 62,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 3 Pts,2022-01-18T19:30+05:30,2022-01-18T19:30+05:30,W,3,32,29,Dabang Delhi K.C.,2,Patna Pirates,6
+8,2762,Match 63,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-18T20:30+05:30,2022-01-18T20:30+05:30,T,,24,24,Gujarat Giants,31,U Mumba,5
+8,2763,Match 64,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 7 Pts,2022-01-19T19:30+05:30,2022-01-19T19:30+05:30,W,7,37,30,Haryana Steelers,28,Puneri Paltan,7
+8,2764,Match 65,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Telugu Titans won by 1 Pts,2022-01-19T20:30+05:30,2022-01-19T20:30+05:30,W,1,34,35,Jaipur Pink Panthers,3,Telugu Titans,8
+8,2765,Match 66,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 2 Pts,2022-01-20T19:30+05:30,2022-01-20T19:30+05:30,W,2,35,37,Tamil Thalaivas,29,Gujarat Giants,31
+8,2821,Match 67,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 1 Pts,2022-01-20T20:30+05:30,2022-01-20T20:30+05:30,W,1,39,40,Bengaluru Bulls,1,Bengal Warriors,4
+8,2789,Match 68,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 3 Pts,2022-01-21T19:30+05:30,2022-01-21T19:30+05:30,W,3,33,36,Dabang Delhi K.C.,2,Haryana Steelers,28
+8,2790,Match 69,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 4 Pts,2022-01-21T20:30+05:30,2022-01-21T20:30+05:30,W,4,36,40,Bengal Warriors,4,U.P. Yoddhas,30
+8,2822,Match 70,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 2 Pts,2022-01-22T19:30+05:30,2022-01-22T19:30+05:30,W,2,35,37,Bengaluru Bulls,1,Puneri Paltan,7
+8,2792,Match 71,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 7 Pts,2022-01-22T20:30+05:30,2022-01-22T20:30+05:30,W,7,42,35,U Mumba,5,Telugu Titans,8
+8,2793,Match 72,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-22T21:30+05:30,2022-01-22T21:30+05:30,T,,34,34,Jaipur Pink Panthers,3,Tamil Thalaivas,29
+8,2794,Match 73,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 1 Pts,2022-01-23T19:30+05:30,2022-01-23T19:30+05:30,W,1,35,36,U.P. Yoddhas,30,Haryana Steelers,28
+8,2823,Match 74,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 5 Pts,2022-01-23T20:30+05:30,2022-01-23T20:30+05:30,W,5,31,36,Telugu Titans,8,Bengaluru Bulls,1
+8,2796,Match 75,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 19 Pts,2022-01-24T19:30+05:30,2022-01-24T19:30+05:30,W,19,41,22,Bengal Warriors,4,Jaipur Pink Panthers,3
+8,2797,Match 76,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 17 Pts,2022-01-24T20:30+05:30,2022-01-24T20:30+05:30,W,17,42,25,Puneri Paltan,7,Dabang Delhi K.C.,2
+8,2824,Match 77,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-01-25T19:30+05:30,2022-01-25T19:30+05:30,T,,39,39,Haryana Steelers,28,Telugu Titans,8
+8,2825,Match 78,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 11 Pts,2022-01-26T19:30+05:30,2022-01-26T19:30+05:30,W,11,45,34,U Mumba,5,Bengaluru Bulls,1
+8,2826,Match 79,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 6 Pts,2022-01-27T19:30+05:30,2022-01-27T19:30+05:30,W,6,38,44,U.P. Yoddhas,30,Puneri Paltan,7
+8,2804,Match 80,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 28 Pts,2022-01-28T19:30+05:30,2022-01-28T19:30+05:30,W,28,52,24,Patna Pirates,6,Tamil Thalaivas,29
+8,2827,Match 81,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 19 Pts,2022-01-29T19:30+05:30,2022-01-29T19:30+05:30,W,19,22,41,Gujarat Giants,31,Dabang Delhi K.C.,2
+8,2829,Match 82,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 21 Pts,2022-01-30T19:30+05:30,2022-01-30T19:30+05:30,W,21,30,51,Patna Pirates,6,Jaipur Pink Panthers,3
+8,2830,Match 83,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Tamil Thalaivas won by 18 Pts,2022-01-30T20:30+05:30,2022-01-30T20:30+05:30,W,18,42,24,Tamil Thalaivas,29,Bengaluru Bulls,1
+8,2831,Match 84,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 6 Pts,2022-01-31T19:30+05:30,2022-01-31T19:30+05:30,W,6,26,32,Haryana Steelers,28,Gujarat Giants,31
+8,2832,Match 85,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 11 Pts,2022-01-31T20:30+05:30,2022-01-31T20:30+05:30,W,11,35,24,Dabang Delhi K.C.,2,U Mumba,5
+8,2833,Match 86,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 9 Pts,2022-02-01T19:30+05:30,2022-02-01T19:30+05:30,W,9,25,34,Bengal Warriors,4,Gujarat Giants,31
+8,2834,Match 87,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 5 Pts,2022-02-01T20:30+05:30,2022-02-01T20:30+05:30,W,5,31,26,Bengaluru Bulls,1,U.P. Yoddhas,30
+8,2835,Match 88,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 2 Pts,2022-02-02T19:30+05:30,2022-02-02T19:30+05:30,W,2,35,37,U.P. Yoddhas,30,Patna Pirates,6
+8,2836,Match 89,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 1 Pts,2022-02-02T20:30+05:30,2022-02-02T20:30+05:30,W,1,35,34,Puneri Paltan,7,U Mumba,5
+8,2837,Match 90,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 6 Pts,2022-02-03T19:30+05:30,2022-02-03T19:30+05:30,W,6,36,30,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+8,2838,Match 91,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Tamil Thalaivas won by 18 Pts,2022-02-03T20:30+05:30,2022-02-03T20:30+05:30,W,18,25,43,Telugu Titans,8,Tamil Thalaivas,29
+8,2839,Match 92,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 17 Pts,2022-02-04T19:30+05:30,2022-02-04T19:30+05:30,W,17,46,29,Haryana Steelers,28,Bengal Warriors,4
+8,2840,Match 93,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-02-04T20:30+05:30,2022-02-04T20:30+05:30,T,,36,36,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+8,2841,Match 94,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 20 Pts,2022-02-04T21:30+05:30,2022-02-04T21:30+05:30,W,20,23,43,Gujarat Giants,31,Patna Pirates,6
+8,2842,Match 95,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 4 Pts,2022-02-05T19:30+05:30,2022-02-05T19:30+05:30,W,4,34,30,U Mumba,5,Tamil Thalaivas,29
+8,2843,Match 96,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 4 Pts,2022-02-05T20:30+05:30,2022-02-05T20:30+05:30,W,4,39,35,U.P. Yoddhas,30,Telugu Titans,8
+8,2848,Match 97,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 7 Pts,2022-02-05T21:30+05:30,2022-02-05T21:30+05:30,W,7,28,35,Jaipur Pink Panthers,3,Haryana Steelers,28
+8,2845,Match 98,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 9 Pts,2022-02-06T19:30+05:30,2022-02-06T19:30+05:30,W,9,38,29,Patna Pirates,6,Bengal Warriors,4
+8,2846,Match 99,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 4 Pts,2022-02-06T20:30+05:30,2022-02-06T20:30+05:30,W,4,36,40,Bengaluru Bulls,1,Gujarat Giants,31
+8,2850,Match 100,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 5 Pts,2022-02-07T19:30+05:30,2022-02-07T19:30+05:30,W,5,31,36,Gujarat Giants,31,Jaipur Pink Panthers,3
+8,2851,Match 101,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-02-07T20:30+05:30,2022-02-07T20:30+05:30,T,,32,32,Bengal Warriors,4,Telugu Titans,8
+8,2852,Match 102,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 8 Pts,2022-02-08T19:30+05:30,2022-02-08T19:30+05:30,W,8,29,37,Tamil Thalaivas,29,Haryana Steelers,28
+8,2853,Match 103,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 11 Pts,2022-02-08T20:30+05:30,2022-02-08T20:30+05:30,W,11,34,45,U Mumba,5,Patna Pirates,6
+8,2854,Match 104,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 2 Pts,2022-02-09T19:30+05:30,2022-02-09T19:30+05:30,W,2,39,41,Tamil Thalaivas,29,U.P. Yoddhas,30
+8,2855,Match 105,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 2 Pts,2022-02-09T20:30+05:30,2022-02-09T20:30+05:30,W,2,32,34,Telugu Titans,8,Gujarat Giants,31
+8,2856,Match 106,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-02-10T19:30+05:30,2022-02-10T19:30+05:30,T,,39,39,Bengal Warriors,4,Dabang Delhi K.C.,2
+8,2857,Match 107,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 17 Pts,2022-02-10T20:30+05:30,2022-02-10T20:30+05:30,W,17,26,43,Puneri Paltan,7,Patna Pirates,6
+8,2858,Match 108,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 18 Pts,2022-02-11T19:30+05:30,2022-02-11T19:30+05:30,W,18,27,45,Haryana Steelers,28,Puneri Paltan,7
+8,2867,Match 109,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 7 Pts,2022-02-11T20:30+05:30,2022-02-11T20:30+05:30,W,7,34,41,Jaipur Pink Panthers,3,U.P. Yoddhas,30
+8,2861,Match 110,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 1 Pts,2022-02-12T19:30+05:30,2022-02-12T19:30+05:30,W,1,31,32,Tamil Thalaivas,29,Dabang Delhi K.C.,2
+8,2862,Match 111,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U Mumba won by 11 Pts,2022-02-12T20:30+05:30,2022-02-12T20:30+05:30,W,11,36,25,U Mumba,5,Bengal Warriors,4
+8,2863,Match 112,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 20 Pts,2022-02-12T21:30+05:30,2022-02-12T21:30+05:30,W,20,31,51,Telugu Titans,8,Puneri Paltan,7
+8,2864,Match 113,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Haryana Steelers won by 10 Pts,2022-02-13T19:30+05:30,2022-02-13T19:30+05:30,W,10,34,24,Haryana Steelers,28,U Mumba,5
+8,2868,Match 114,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 8 Pts,2022-02-13T20:30+05:30,2022-02-13T20:30+05:30,W,8,45,37,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+8,2869,Match 115,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 7 Pts,2022-02-13T21:30+05:30,2022-02-13T21:30+05:30,W,7,31,38,U.P. Yoddhas,30,Gujarat Giants,31
+8,2870,Match 116,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 8 Pts,2022-02-14T19:30+05:30,2022-02-14T19:30+05:30,W,8,38,30,Patna Pirates,6,Telugu Titans,8
+8,2871,Match 117,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 16 Pts,2022-02-14T20:30+05:30,2022-02-14T20:30+05:30,W,16,28,44,Dabang Delhi K.C.,2,U.P. Yoddhas,30
+8,2872,Match 118,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Match Tied,2022-02-14T21:30+05:30,2022-02-14T21:30+05:30,T,,31,31,Gujarat Giants,31,Puneri Paltan,7
+8,2873,Match 119,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 17 Pts,2022-02-15T19:30+05:30,2022-02-15T19:30+05:30,W,17,24,41,U Mumba,5,Jaipur Pink Panthers,3
+8,2874,Match 120,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 2 Pts,2022-02-15T20:30+05:30,2022-02-15T20:30+05:30,W,2,36,34,Patna Pirates,6,Bengaluru Bulls,1
+8,2875,Match 121,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 12 Pts,2022-02-15T21:30+05:30,2022-02-15T21:30+05:30,W,12,43,31,Puneri Paltan,7,Tamil Thalaivas,29
+8,2876,Match 122,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 31 Pts,2022-02-16T19:30+05:30,2022-02-16T19:30+05:30,W,31,52,21,Bengal Warriors,4,Tamil Thalaivas,29
+8,2877,Match 123,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Jaipur Pink Panthers won by 19 Pts,2022-02-16T20:30+05:30,2022-02-16T20:30+05:30,W,19,35,54,Telugu Titans,8,Jaipur Pink Panthers,3
+8,2878,Match 124,League,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 6 Pts,2022-02-17T19:30+05:30,2022-02-17T19:30+05:30,W,6,34,28,U.P. Yoddhas,30,U Mumba,5
+8,2879,Match 125,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 22 Pts,2022-02-17T20:30+05:30,2022-02-17T20:30+05:30,W,22,46,24,Bengaluru Bulls,1,Haryana Steelers,28
+8,2880,Match 126,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 3 Pts,2022-02-17T21:30+05:30,2022-02-17T21:30+05:30,W,3,26,23,Dabang Delhi K.C.,2,Patna Pirates,6
+8,2881,Match 127,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengal Warriors won by 7 Pts,2022-02-18T19:30+05:30,2022-02-18T19:30+05:30,W,7,36,43,Puneri Paltan,7,Bengal Warriors,4
+8,2882,Match 128,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 8 Pts,2022-02-18T20:30+05:30,2022-02-18T20:30+05:30,W,8,32,40,Telugu Titans,8,Dabang Delhi K.C.,2
+8,2883,Match 129,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 10 Pts,2022-02-18T21:30+05:30,2022-02-18T21:30+05:30,W,10,33,43,Tamil Thalaivas,29,Gujarat Giants,31
+8,2884,Match 130,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Puneri Paltan won by 7 Pts,2022-02-19T19:30+05:30,2022-02-19T19:30+05:30,W,7,30,37,Jaipur Pink Panthers,3,Puneri Paltan,7
+8,2885,Match 131,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Gujarat Giants won by 6 Pts,2022-02-19T20:30+05:30,2022-02-19T20:30+05:30,W,6,30,24,Gujarat Giants,31,U Mumba,5
+8,2886,Match 132,League,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 3 Pts,2022-02-19T21:30+05:30,2022-02-19T21:30+05:30,W,3,30,27,Patna Pirates,6,Haryana Steelers,28
+8,2887,Eliminator 1,Playoffs,2021,"Sheraton Grand, Whitefield, Bengaluru",U.P. Yoddhas won by 11 Pts,2022-02-21T19:30+05:30,2022-02-21T19:30+05:30,W,11,42,31,U.P. Yoddhas,30,Puneri Paltan,7
+8,2888,Eliminator 2,Playoffs,2021,"Sheraton Grand, Whitefield, Bengaluru",Bengaluru Bulls won by 20 Pts,2022-02-21T20:30+05:30,2022-02-21T20:30+05:30,W,20,29,49,Gujarat Giants,31,Bengaluru Bulls,1
+8,2889,Semi Final 1,Semi Final,2021,"Sheraton Grand, Whitefield, Bengaluru",Patna Pirates won by 11 Pts,2022-02-23T19:30+05:30,2022-02-23T19:30+05:30,W,11,38,27,Patna Pirates,6,U.P. Yoddhas,30
+8,2890,Semi Final 2,Semi Final,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 5 Pts,2022-02-23T20:30+05:30,2022-02-23T20:30+05:30,W,5,40,35,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+8,2891,Final,Final,2021,"Sheraton Grand, Whitefield, Bengaluru",Dabang Delhi K.C. won by 1 Pts,2022-02-25T20:30+05:30,2022-02-25T20:30+05:30,W,1,36,37,Patna Pirates,6,Dabang Delhi K.C.,2
+9,2892,Match 1,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 14 Pts,2022-10-07T19:30+05:30,2022-10-07T19:30+05:30,W,14,41,27,Dabang Delhi K.C.,2,U Mumba,5
+9,2893,Match 2,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 5 Pts,2022-10-07T20:30+05:30,2022-10-07T20:30+05:30,W,5,34,29,Bengaluru Bulls,1,Telugu Titans,8
+9,2894,Match 3,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddhas won by 2 Pts,2022-10-07T21:30+05:30,2022-10-07T21:30+05:30,W,2,32,34,Jaipur Pink Panthers,3,U.P. Yoddhas,30
+9,2895,Match 4,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Match Tied,2022-10-08T19:30+05:30,2022-10-08T19:30+05:30,T,,34,34,Patna Pirates,6,Puneri Paltan,7
+9,2896,Match 5,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Match Tied,2022-10-08T20:30+05:30,2022-10-08T20:30+05:30,T,,31,31,Gujarat Giants,31,Tamil Thalaivas,29
+9,2897,Match 6,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers won by 8 Pts,2022-10-08T21:30+05:30,2022-10-08T21:30+05:30,W,8,33,41,Bengal Warriors,4,Haryana Steelers,28
+9,2898,Match 7,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 5 Pts,2022-10-09T19:30+05:30,2022-10-09T19:30+05:30,W,5,35,30,Jaipur Pink Panthers,3,Patna Pirates,6
+9,2899,Match 8,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 20 Pts,2022-10-09T20:30+05:30,2022-10-09T20:30+05:30,W,20,25,45,Telugu Titans,8,Bengal Warriors,4
+9,2900,Match 9,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 2 Pts,2022-10-09T21:30+05:30,2022-10-09T21:30+05:30,W,2,39,41,Puneri Paltan,7,Bengaluru Bulls,1
+9,2901,Match 10,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U Mumba won by 7 Pts,2022-10-10T19:30+05:30,2022-10-10T19:30+05:30,W,7,30,23,U Mumba,5,U.P. Yoddhas,30
+9,2902,Match 11,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 20 Pts,2022-10-10T20:30+05:30,2022-10-10T20:30+05:30,W,20,53,33,Dabang Delhi K.C.,2,Gujarat Giants,31
+9,2903,Match 12,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers won by 5 Pts,2022-10-11T19:30+05:30,2022-10-11T19:30+05:30,W,5,27,22,Haryana Steelers,28,Tamil Thalaivas,29
+9,2904,Match 13,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Telugu Titans won by 9 Pts,2022-10-11T20:30+05:30,2022-10-11T20:30+05:30,W,9,21,30,Patna Pirates,6,Telugu Titans,8
+9,2905,Match 14,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 9 Pts,2022-10-12T19:30+05:30,2022-10-12T19:30+05:30,W,9,33,42,Bengaluru Bulls,1,Bengal Warriors,4
+9,2906,Match 15,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 2 Pts,2022-10-12T20:30+05:30,2022-10-12T20:30+05:30,W,2,42,44,U.P. Yoddhas,30,Dabang Delhi K.C.,2
+9,2907,Match 16,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U Mumba won by 7 Pts,2022-10-14T19:30+05:30,2022-10-14T19:30+05:30,W,7,32,39,Tamil Thalaivas,29,U Mumba,5
+9,2908,Match 17,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 13 Pts,2022-10-14T20:30+05:30,2022-10-14T20:30+05:30,W,13,31,44,Haryana Steelers,28,Jaipur Pink Panthers,3
+9,2909,Match 18,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Gujarat Giants won by 10 Pts,2022-10-14T21:30+05:30,2022-10-14T21:30+05:30,W,10,47,37,Gujarat Giants,31,Puneri Paltan,7
+9,2910,Match 19,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 7 Pts,2022-10-15T19:30+05:30,2022-10-15T19:30+05:30,W,7,25,18,Jaipur Pink Panthers,3,Gujarat Giants,31
+9,2911,Match 20,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 20 Pts,2022-10-15T20:30+05:30,2022-10-15T20:30+05:30,W,20,26,46,Telugu Titans,8,Dabang Delhi K.C.,2
+9,2912,Match 21,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 28 Pts,2022-10-15T21:30+05:30,2022-10-15T21:30+05:30,W,28,54,26,Bengal Warriors,4,Patna Pirates,6
+9,2913,Match 22,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan won by 2 Pts,2022-10-16T19:30+05:30,2022-10-16T19:30+05:30,W,2,30,28,Puneri Paltan,7,U Mumba,5
+9,2914,Match 23,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddhas won by 7 Pts,2022-10-16T20:30+05:30,2022-10-16T20:30+05:30,W,7,44,37,U.P. Yoddhas,30,Bengaluru Bulls,1
+9,2915,Match 24,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Tamil Thalaivas won by 1 Pts,2022-10-17T19:30+05:30,2022-10-17T19:30+05:30,W,1,33,32,Tamil Thalaivas,29,Patna Pirates,6
+9,2916,Match 25,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 2 Pts,2022-10-17T20:30+05:30,2022-10-17T20:30+05:30,W,2,38,36,Dabang Delhi K.C.,2,Haryana Steelers,28
+9,2917,Match 26,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 15 Pts,2022-10-18T19:30+05:30,2022-10-18T19:30+05:30,W,15,24,39,Bengal Warriors,4,Jaipur Pink Panthers,3
+9,2918,Match 27,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan won by 1 Pts,2022-10-18T20:30+05:30,2022-10-18T20:30+05:30,W,1,25,26,Telugu Titans,8,Puneri Paltan,7
+9,2919,Match 28,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Gujarat Giants won by 6 Pts,2022-10-19T19:30+05:30,2022-10-19T19:30+05:30,W,6,51,45,Gujarat Giants,31,U.P. Yoddhas,30
+9,2920,Match 29,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 17 Pts,2022-10-19T20:30+05:30,2022-10-19T20:30+05:30,W,17,45,28,Bengaluru Bulls,1,Tamil Thalaivas,29
+9,2921,Match 30,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U Mumba won by 1 Pts,2022-10-21T19:30+05:30,2022-10-21T19:30+05:30,W,1,32,31,U Mumba,5,Haryana Steelers,28
+9,2922,Match 31,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan won by 2 Pts,2022-10-21T20:30+05:30,2022-10-21T20:30+05:30,W,2,27,25,Puneri Paltan,7,Bengal Warriors,4
+9,2923,Match 32,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Patna Pirates won by 4 Pts,2022-10-21T21:30+05:30,2022-10-21T21:30+05:30,W,4,37,33,Patna Pirates,6,Dabang Delhi K.C.,2
+9,2924,Match 33,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 10 Pts,2022-10-22T19:30+05:30,2022-10-22T19:30+05:30,W,10,32,42,U Mumba,5,Bengaluru Bulls,1
+9,2925,Match 34,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 24 Pts,2022-10-22T20:30+05:30,2022-10-22T20:30+05:30,W,24,51,27,Jaipur Pink Panthers,3,Telugu Titans,8
+9,2926,Match 35,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Gujarat Giants won by 4 Pts,2022-10-22T21:30+05:30,2022-10-22T21:30+05:30,W,4,38,42,Haryana Steelers,28,Gujarat Giants,31
+9,2927,Match 36,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Match Tied,2022-10-23T19:30+05:30,2022-10-23T19:30+05:30,T,,31,31,Bengaluru Bulls,1,Patna Pirates,6
+9,2928,Match 37,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddhas won by 17 Pts,2022-10-23T20:30+05:30,2022-10-23T20:30+05:30,W,17,41,24,U.P. Yoddhas,30,Tamil Thalaivas,29
+9,2929,Match 38,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan won by 8 Pts,2022-10-25T19:30+05:30,2022-10-25T19:30+05:30,W,8,32,24,Puneri Paltan,7,Jaipur Pink Panthers,3
+9,2930,Match 39,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers won by 19 Pts,2022-10-25T20:30+05:30,2022-10-25T20:30+05:30,W,19,24,43,Telugu Titans,8,Haryana Steelers,28
+9,2931,Match 40,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",U Mumba won by 8 Pts,2022-10-26T19:30+05:30,2022-10-26T19:30+05:30,W,8,29,37,Gujarat Giants,31,U Mumba,5
+9,2932,Match 41,League,2022,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 5 Pts,2022-10-26T20:30+05:30,2022-10-26T20:30+05:30,W,5,30,35,Dabang Delhi K.C.,2,Bengal Warriors,4
+9,2933,Match 42,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Tamil Thalaivas won by 11 Pts,2022-10-28T19:30+05:30,2022-10-28T19:30+05:30,W,11,38,27,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+9,2934,Match 43,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Match Tied,2022-10-28T20:30+05:30,2022-10-28T20:30+05:30,T,,27,27,Haryana Steelers,28,Puneri Paltan,7
+9,2935,Match 44,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Patna Pirates won by 5 Pts,2022-10-28T21:30+05:30,2022-10-28T21:30+05:30,W,5,34,29,Patna Pirates,6,U.P. Yoddhas,30
+9,2936,Match 45,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengaluru Bulls won by 4 Pts,2022-10-29T19:30+05:30,2022-10-29T19:30+05:30,W,4,47,43,Bengaluru Bulls,1,Dabang Delhi K.C.,2
+9,2937,Match 46,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Gujarat Giants won by 11 Pts,2022-10-29T20:30+05:30,2022-10-29T20:30+05:30,W,11,19,30,Telugu Titans,8,Gujarat Giants,31
+9,2938,Match 47,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U Mumba won by 11 Pts,2022-10-29T21:30+05:30,2022-10-29T21:30+05:30,W,11,25,36,Bengal Warriors,4,U Mumba,5
+9,2939,Match 48,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengaluru Bulls won by 6 Pts,2022-10-30T19:30+05:30,2022-10-30T19:30+05:30,W,6,31,37,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+9,2940,Match 49,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Tamil Thalaivas won by 10 Pts,2022-10-30T20:30+05:30,2022-10-30T20:30+05:30,W,10,49,39,Tamil Thalaivas,29,Dabang Delhi K.C.,2
+9,2941,Match 50,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Patna Pirates won by 6 Pts,2022-10-31T19:30+05:30,2022-10-31T19:30+05:30,W,6,28,34,Gujarat Giants,31,Patna Pirates,6
+9,2942,Match 51,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U.P. Yoddhas won by 19 Pts,2022-10-31T20:30+05:30,2022-10-31T20:30+05:30,W,19,43,24,U.P. Yoddhas,30,Telugu Titans,8
+9,2943,Match 52,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Puneri Paltan won by 5 Pts,2022-11-01T19:30+05:30,2022-11-01T19:30+05:30,W,5,43,38,Puneri Paltan,7,Dabang Delhi K.C.,2
+9,2944,Match 53,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Haryana Steelers won by 2 Pts,2022-11-01T20:30+05:30,2022-11-01T20:30+05:30,W,2,29,27,Haryana Steelers,28,Bengaluru Bulls,1
+9,2945,Match 54,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U Mumba won by 3 Pts,2022-11-02T19:30+05:30,2022-11-02T19:30+05:30,W,3,40,37,U Mumba,5,Telugu Titans,8
+9,2946,Match 55,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Match Tied,2022-11-02T20:30+05:30,2022-11-02T20:30+05:30,T,,41,41,Bengal Warriors,4,Tamil Thalaivas,29
+9,2947,Match 56,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Patna Pirates won by 3 Pts,2022-11-04T19:30+05:30,2022-11-04T19:30+05:30,W,3,34,31,Patna Pirates,6,U Mumba,5
+9,2948,Match 57,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Jaipur Pink Panthers won by 5 Pts,2022-11-04T20:30+05:30,2022-11-04T20:30+05:30,W,5,40,45,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3
+9,2949,Match 58,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Puneri Paltan won by 9 Pts,2022-11-04T21:30+05:30,2022-11-04T21:30+05:30,W,9,31,40,U.P. Yoddhas,30,Puneri Paltan,7
+9,2950,Match 59,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengal Warriors won by 5 Pts,2022-11-05T19:30+05:30,2022-11-05T19:30+05:30,W,5,40,45,Gujarat Giants,31,Bengal Warriors,4
+9,2951,Match 60,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Tamil Thalaivas won by 8 Pts,2022-11-05T20:30+05:30,2022-11-05T20:30+05:30,W,8,39,31,Tamil Thalaivas,29,Telugu Titans,8
+9,2952,Match 61,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Match Tied,2022-11-05T21:30+05:30,2022-11-05T21:30+05:30,T,,36,36,Haryana Steelers,28,U.P. Yoddhas,30
+9,2953,Match 62,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Gujarat Giants won by 2 Pts,2022-11-06T19:30+05:30,2022-11-06T19:30+05:30,W,2,44,46,Bengaluru Bulls,1,Gujarat Giants,31
+9,2954,Match 63,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Tamil Thalaivas won by 1 Pts,2022-11-06T20:30+05:30,2022-11-06T20:30+05:30,W,1,34,35,Puneri Paltan,7,Tamil Thalaivas,29
+9,2955,Match 64,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Jaipur Pink Panthers won by 3 Pts,2022-11-07T19:30+05:30,2022-11-07T19:30+05:30,W,3,39,42,U Mumba,5,Jaipur Pink Panthers,3
+9,2956,Match 65,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Patna Pirates won by 9 Pts,2022-11-07T20:30+05:30,2022-11-07T20:30+05:30,W,9,41,32,Patna Pirates,6,Haryana Steelers,28
+9,2957,Match 66,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Match Tied,2022-11-08T19:30+05:30,2022-11-08T19:30+05:30,T,,41,41,Bengal Warriors,4,U.P. Yoddhas,30
+9,2958,Match 67,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Dabang Delhi K.C. won by 7 Pts,2022-11-08T20:30+05:30,2022-11-08T20:30+05:30,W,7,40,33,Dabang Delhi K.C.,2,Telugu Titans,8
+9,2959,Match 68,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengaluru Bulls won by 3 Pts,2022-11-09T19:30+05:30,2022-11-09T19:30+05:30,W,3,36,33,Bengaluru Bulls,1,Haryana Steelers,28
+9,2960,Match 69,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Puneri Paltan won by 1 Pts,2022-11-09T20:30+05:30,2022-11-09T20:30+05:30,W,1,34,35,Tamil Thalaivas,29,Puneri Paltan,7
+9,2961,Match 70,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U.P. Yoddhas won by 6 Pts,2022-11-11T19:30+05:30,2022-11-11T19:30+05:30,W,6,40,34,U.P. Yoddhas,30,Haryana Steelers,28
+9,2962,Match 71,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U Mumba won by 1 Pts,2022-11-11T20:30+05:30,2022-11-11T20:30+05:30,W,1,34,33,U Mumba,5,Puneri Paltan,7
+9,2963,Match 72,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Patna Pirates won by 7 Pts,2022-11-11T21:30+05:30,2022-11-11T21:30+05:30,W,7,37,30,Patna Pirates,6,Jaipur Pink Panthers,3
+9,2964,Match 73,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengal Warriors won by 19 Pts,2022-11-12T19:30+05:30,2022-11-12T19:30+05:30,W,19,46,27,Bengal Warriors,4,Gujarat Giants,31
+9,2965,Match 74,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U.P. Yoddhas won by 11 Pts,2022-11-12T20:30+05:30,2022-11-12T20:30+05:30,W,11,30,41,Telugu Titans,8,U.P. Yoddhas,30
+9,2966,Match 75,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Jaipur Pink Panthers won by 25 Pts,2022-11-12T21:30+05:30,2022-11-12T21:30+05:30,W,25,57,32,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+9,2967,Match 76,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U Mumba won by 13 Pts,2022-11-13T19:30+05:30,2022-11-13T19:30+05:30,W,13,36,23,U Mumba,5,Patna Pirates,6
+9,2968,Match 77,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengaluru Bulls won by 6 Pts,2022-11-13T20:30+05:30,2022-11-13T20:30+05:30,W,6,34,40,Tamil Thalaivas,29,Bengaluru Bulls,1
+9,2969,Match 78,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Puneri Paltan won by 16 Pts,2022-11-14T19:30+05:30,2022-11-14T19:30+05:30,W,16,27,43,Bengal Warriors,4,Puneri Paltan,7
+9,2970,Match 79,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Haryana Steelers won by 1 Pts,2022-11-14T20:30+05:30,2022-11-14T20:30+05:30,W,1,32,33,Gujarat Giants,31,Haryana Steelers,28
+9,2971,Match 80,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Jaipur Pink Panthers won by 10 Pts,2022-11-15T19:30+05:30,2022-11-15T19:30+05:30,W,10,32,22,Jaipur Pink Panthers,3,U Mumba,5
+9,2972,Match 81,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Bengaluru Bulls won by 11 Pts,2022-11-15T20:30+05:30,2022-11-15T20:30+05:30,W,11,38,49,Telugu Titans,8,Bengaluru Bulls,1
+9,2973,Match 82,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",Match Tied,2022-11-16T19:30+05:30,2022-11-16T19:30+05:30,T,,33,33,Patna Pirates,6,Tamil Thalaivas,29
+9,2974,Match 83,League,2022,"Shree Shivchhatrapati Sports Complex,Balewadi, Pune",U.P. Yoddhas won by 19 Pts,2022-11-16T20:30+05:30,2022-11-16T20:30+05:30,W,19,31,50,Dabang Delhi K.C.,2,U.P. Yoddhas,30
+9,2975,Match 84,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 13 Pts,2022-11-18T19:30+05:30,2022-11-18T19:30+05:30,W,13,41,28,Puneri Paltan,7,Haryana Steelers,28
+9,2976,Match 85,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengal Warriors won by 8 Pts,2022-11-18T20:30+05:30,2022-11-18T20:30+05:30,W,8,36,28,Bengal Warriors,4,Telugu Titans,8
+9,2977,Match 86,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls won by 7 Pts,2022-11-18T21:30+05:30,2022-11-18T21:30+05:30,W,7,38,45,Gujarat Giants,31,Bengaluru Bulls,1
+9,2978,Match 87,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 13 Pts,2022-11-19T19:30+05:30,2022-11-19T19:30+05:30,W,13,29,42,U.P. Yoddhas,30,Jaipur Pink Panthers,3
+9,2979,Match 88,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Telugu Titans won by 6 Pts,2022-11-19T20:30+05:30,2022-11-19T20:30+05:30,W,6,32,26,Telugu Titans,8,U Mumba,5
+9,2980,Match 89,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. won by 3 Pts,2022-11-19T21:30+05:30,2022-11-19T21:30+05:30,W,3,30,27,Dabang Delhi K.C.,2,Patna Pirates,6
+9,2981,Match 90,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. won by 12 Pts,2022-11-20T19:30+05:30,2022-11-20T19:30+05:30,W,12,30,42,Haryana Steelers,28,Dabang Delhi K.C.,2
+9,2982,Match 91,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 2 Pts,2022-11-20T20:30+05:30,2022-11-20T20:30+05:30,W,2,33,35,Bengaluru Bulls,1,Puneri Paltan,7
+9,2983,Match 92,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas won by 5 Pts,2022-11-21T19:30+05:30,2022-11-21T19:30+05:30,W,5,35,30,Tamil Thalaivas,29,Bengal Warriors,4
+9,2984,Match 93,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddhas won by 4 Pts,2022-11-21T20:30+05:30,2022-11-21T20:30+05:30,W,4,35,31,U.P. Yoddhas,30,Gujarat Giants,31
+9,2985,Match 94,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas won by 14 Pts,2022-11-22T19:30+05:30,2022-11-22T19:30+05:30,W,14,20,34,U Mumba,5,Tamil Thalaivas,29
+9,2986,Match 95,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates won by 1 Pts,2022-11-22T20:30+05:30,2022-11-22T20:30+05:30,W,1,35,36,Telugu Titans,8,Patna Pirates,6
+9,2987,Match 96,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 7 Pts,2022-11-23T19:30+05:30,2022-11-23T19:30+05:30,W,7,32,39,Jaipur Pink Panthers,3,Puneri Paltan,7
+9,2988,Match 97,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengal Warriors won by 3 Pts,2022-11-23T20:30+05:30,2022-11-23T20:30+05:30,W,3,41,38,Bengal Warriors,4,Bengaluru Bulls,1
+9,2989,Match 98,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. won by 3 Pts,2022-11-25T19:30+05:30,2022-11-25T19:30+05:30,W,3,47,50,Gujarat Giants,31,Dabang Delhi K.C.,2
+9,2990,Match 99,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 15 Pts,2022-11-25T20:30+05:30,2022-11-25T20:30+05:30,W,15,41,26,Jaipur Pink Panthers,3,Tamil Thalaivas,29
+9,2991,Match 100,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers won by 10 Pts,2022-11-25T21:30+05:30,2022-11-25T21:30+05:30,W,10,33,23,Haryana Steelers,28,Patna Pirates,6
+9,2992,Match 101,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U Mumba won by 8 Pts,2022-11-26T19:30+05:30,2022-11-26T19:30+05:30,W,8,49,41,U Mumba,5,Bengal Warriors,4
+9,2993,Match 102,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 13 Pts,2022-11-26T20:30+05:30,2022-11-26T20:30+05:30,W,13,38,25,Puneri Paltan,7,Telugu Titans,8
+9,2994,Match 103,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddhas won by 2 Pts,2022-11-26T21:30+05:30,2022-11-26T21:30+05:30,W,2,35,33,U.P. Yoddhas,30,Patna Pirates,6
+9,2995,Match 104,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas won by 3 Pts,2022-11-27T19:30+05:30,2022-11-27T19:30+05:30,W,3,42,39,Tamil Thalaivas,29,Gujarat Giants,31
+9,2996,Match 105,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls won by 3 Pts,2022-11-27T20:30+05:30,2022-11-27T20:30+05:30,W,3,49,52,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+9,2997,Match 106,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddhas won by 1 Pts,2022-11-28T19:30+05:30,2022-11-28T19:30+05:30,W,1,33,32,U.P. Yoddhas,30,Bengal Warriors,4
+9,2998,Match 107,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 20 Pts,2022-11-28T20:30+05:30,2022-11-28T20:30+05:30,W,20,28,48,Telugu Titans,8,Jaipur Pink Panthers,3
+9,2999,Match 108,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants won by 12 Pts,2022-11-29T19:30+05:30,2022-11-29T19:30+05:30,W,12,39,51,Puneri Paltan,7,Gujarat Giants,31
+9,3000,Match 109,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers won by 2 Pts,2022-11-29T20:30+05:30,2022-11-29T20:30+05:30,W,2,35,33,Haryana Steelers,28,U Mumba,5
+9,3001,Match 110,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 20 Pts,2022-11-30T19:30+05:30,2022-11-30T19:30+05:30,W,20,25,45,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+9,3002,Match 111,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Match Tied,2022-11-30T20:30+05:30,2022-11-30T20:30+05:30,T,,37,37,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+9,3003,Match 112,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddhas won by 10 Pts,2022-12-02T19:30+05:30,2022-12-02T19:30+05:30,W,10,38,28,U.P. Yoddhas,30,U Mumba,5
+9,3004,Match 113,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants won by 6 Pts,2022-12-02T20:30+05:30,2022-12-02T20:30+05:30,W,6,34,40,Patna Pirates,6,Gujarat Giants,31
+9,3005,Match 114,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers won by 6 Pts,2022-12-02T21:30+05:30,2022-12-02T21:30+05:30,W,6,32,26,Haryana Steelers,28,Bengal Warriors,4
+9,3006,Match 115,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 3 Pts,2022-12-03T19:30+05:30,2022-12-03T19:30+05:30,W,3,44,47,Dabang Delhi K.C.,2,Puneri Paltan,7
+9,3007,Match 116,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas won by 28 Pts,2022-12-03T20:30+05:30,2022-12-03T20:30+05:30,W,28,24,52,Telugu Titans,8,Tamil Thalaivas,29
+9,3008,Match 117,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 26 Pts,2022-12-03T21:30+05:30,2022-12-03T21:30+05:30,W,26,57,31,Jaipur Pink Panthers,3,Bengal Warriors,4
+9,3009,Match 118,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants won by 2 Pts,2022-12-04T19:30+05:30,2022-12-04T19:30+05:30,W,2,36,38,U Mumba,5,Gujarat Giants,31
+9,3010,Match 119,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls won by 3 Pts,2022-12-04T20:30+05:30,2022-12-04T20:30+05:30,W,3,38,35,Bengaluru Bulls,1,U.P. Yoddhas,30
+9,3011,Match 120,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Puneri Paltan won by 14 Pts,2022-12-05T19:30+05:30,2022-12-05T19:30+05:30,W,14,44,30,Puneri Paltan,7,Patna Pirates,6
+9,3012,Match 121,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Jaipur Pink Panthers won by 14 Pts,2022-12-05T20:30+05:30,2022-12-05T20:30+05:30,W,14,44,30,Jaipur Pink Panthers,3,Haryana Steelers,28
+9,3013,Match 122,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Dabang Delhi K.C. won by 17 Pts,2022-12-06T19:30+05:30,2022-12-06T19:30+05:30,W,17,24,41,U Mumba,5,Dabang Delhi K.C.,2
+9,3014,Match 123,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Gujarat Giants won by 14 Pts,2022-12-06T20:30+05:30,2022-12-06T20:30+05:30,W,14,44,30,Gujarat Giants,31,Telugu Titans,8
+9,3015,Match 124,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Bengaluru Bulls won by 13 Pts,2022-12-07T19:30+05:30,2022-12-07T19:30+05:30,W,13,44,57,Patna Pirates,6,Bengaluru Bulls,1
+9,3016,Match 125,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Tamil Thalaivas won by 15 Pts,2022-12-07T20:30+05:30,2022-12-07T20:30+05:30,W,15,43,28,Tamil Thalaivas,29,U.P. Yoddhas,30
+9,3017,Match 126,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Match Tied,2022-12-08T19:30+05:30,2022-12-08T19:30+05:30,T,,46,46,Bengal Warriors,4,Dabang Delhi K.C.,2
+9,3018,Match 127,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers won by 17 Pts,2022-12-08T20:30+05:30,2022-12-08T20:30+05:30,W,17,50,33,Haryana Steelers,28,Telugu Titans,8
+9,3019,Match 128,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Match Tied,2022-12-09T19:30+05:30,2022-12-09T19:30+05:30,T,,51,51,Gujarat Giants,31,Jaipur Pink Panthers,3
+9,3020,Match 129,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U.P. Yoddhas won by 4 Pts,2022-12-09T20:30+05:30,2022-12-09T20:30+05:30,W,4,41,45,Puneri Paltan,7,U.P. Yoddhas,30
+9,3021,Match 130,League,2022,"Gachibowli Indoor Stadium, Hyderabad",U Mumba won by 6 Pts,2022-12-10T19:30+05:30,2022-12-10T19:30+05:30,W,6,30,36,Bengaluru Bulls,1,U Mumba,5
+9,3022,Match 131,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Haryana Steelers won by 23 Pts,2022-12-10T20:30+05:30,2022-12-10T20:30+05:30,W,23,38,61,Tamil Thalaivas,29,Haryana Steelers,28
+9,3023,Match 132,League,2022,"Gachibowli Indoor Stadium, Hyderabad",Patna Pirates won by 11 Pts,2022-12-10T21:30+05:30,2022-12-10T21:30+05:30,W,11,49,38,Patna Pirates,6,Bengal Warriors,4
+9,3024,Eliminator 1,Playoffs,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",Bengaluru Bulls won by 32 Pts,2022-12-13T19:30+05:30,2022-12-13T19:30+05:30,W,32,56,24,Bengaluru Bulls,1,Dabang Delhi K.C.,2
+9,3025,Eliminator 2,Playoffs,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",Tamil Thalaivas beat U.P. Yoddhas in 5 Raids,2022-12-13T20:30+05:30,2022-12-13T20:30+05:30,W,0,36,36,U.P. Yoddhas,30,Tamil Thalaivas,29
+9,3026,Semi Final 1,Semi Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",Jaipur Pink Panthers won by 20 Pts,2022-12-15T19:30+05:30,2022-12-15T19:30+05:30,W,20,49,29,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+9,3027,Semi Final 2,Semi Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",Puneri Paltan won by 2 Pts,2022-12-15T20:30+05:30,2022-12-15T20:30+05:30,W,2,39,37,Puneri Paltan,7,Tamil Thalaivas,29
+9,3028,Final,Final,2022,"Â€˜Dome, Nsci Svp Stadiumâ€™, Mumbai",Jaipur Pink Panthers won by 4 Pts,2022-12-17T19:30+05:30,2022-12-17T19:30+05:30,W,4,33,29,Jaipur Pink Panthers,3,Puneri Paltan,7
+10,3029,Match 1,League,2023,"Eka Arena By Transstadia, Ahmedabad",Gujarat Giants won by 6 Pts,2023-12-02T20:00+05:30,2023-12-02T20:00+05:30,W,6,38,32,Gujarat Giants,31,Telugu Titans,8
+10,3030,Match 2,League,2023,"Eka Arena By Transstadia, Ahmedabad",U Mumba won by 3 Pts,2023-12-02T21:00+05:30,2023-12-02T21:00+05:30,W,3,34,31,U Mumba,5,U.P. Yoddhas,30
+10,3031,Match 3,League,2023,"Eka Arena By Transstadia, Ahmedabad",Tamil Thalaivas won by 11 Pts,2023-12-03T20:00+05:30,2023-12-03T20:00+05:30,W,11,42,31,Tamil Thalaivas,29,Dabang Delhi K.C.,2
+10,3032,Match 4,League,2023,"Eka Arena By Transstadia, Ahmedabad",Gujarat Giants won by 3 Pts,2023-12-03T21:00+05:30,2023-12-03T21:00+05:30,W,3,34,31,Gujarat Giants,31,Bengaluru Bulls,1
+10,3033,Match 5,League,2023,"Eka Arena By Transstadia, Ahmedabad",Puneri Paltan won by 4 Pts,2023-12-04T20:00+05:30,2023-12-04T20:00+05:30,W,4,37,33,Puneri Paltan,7,Jaipur Pink Panthers,3
+10,3034,Match 6,League,2023,"Eka Arena By Transstadia, Ahmedabad",Bengal Warriors won by 2 Pts,2023-12-04T21:00+05:30,2023-12-04T21:00+05:30,W,2,30,32,Bengaluru Bulls,1,Bengal Warriors,4
+10,3035,Match 7,League,2023,"Eka Arena By Transstadia, Ahmedabad",Gujarat Giants won by 2 Pts,2023-12-05T20:00+05:30,2023-12-05T20:00+05:30,W,2,39,37,Gujarat Giants,31,U Mumba,5
+10,3036,Match 8,League,2023,"Eka Arena By Transstadia, Ahmedabad",Patna Pirates won by 22 Pts,2023-12-06T21:00+05:30,2023-12-06T21:00+05:30,W,22,28,50,Telugu Titans,8,Patna Pirates,6
+10,3037,Match 9,League,2023,"Eka Arena By Transstadia, Ahmedabad",U.P. Yoddhas won by 30 Pts,2023-12-06T21:00+05:30,2023-12-06T21:00+05:30,W,30,57,27,U.P. Yoddhas,30,Haryana Steelers,28
+10,3038,Match 10,League,2023,"Eka Arena By Transstadia, Ahmedabad",Match Tied,2023-12-07T20:00+05:30,2023-12-07T20:00+05:30,T,,28,28,Bengal Warriors,4,Jaipur Pink Panthers,3
+10,3039,Match 11,League,2023,"Eka Arena By Transstadia, Ahmedabad",Patna Pirates won by 3 Pts,2023-12-07T21:00+05:30,2023-12-07T21:00+05:30,W,3,30,33,Gujarat Giants,31,Patna Pirates,6
+10,3040,Match 12,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Dabang Delhi K.C. won by 7 Pts,2023-12-08T20:00+05:30,2023-12-08T20:00+05:30,W,7,31,38,Bengaluru Bulls,1,Dabang Delhi K.C.,2
+10,3041,Match 13,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Puneri Paltan won by 11 Pts,2023-12-08T21:00+05:30,2023-12-08T21:00+05:30,W,11,43,32,Puneri Paltan,7,U Mumba,5
+10,3042,Match 14,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers won by 6 Pts,2023-12-09T20:00+05:30,2023-12-09T20:00+05:30,W,6,32,38,Bengaluru Bulls,1,Haryana Steelers,28
+10,3043,Match 15,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",U.P. Yoddhas won by 15 Pts,2023-12-09T21:00+05:30,2023-12-09T21:00+05:30,W,15,48,33,U.P. Yoddhas,30,Telugu Titans,8
+10,3044,Match 16,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 10 Pts,2023-12-10T20:00+05:30,2023-12-10T20:00+05:30,W,10,48,38,Bengal Warriors,4,Tamil Thalaivas,29
+10,3045,Match 17,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Haryana Steelers won by 2 Pts,2023-12-10T21:00+05:30,2023-12-10T21:00+05:30,W,2,33,35,Dabang Delhi K.C.,2,Haryana Steelers,28
+10,3046,Match 18,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Jaipur Pink Panthers won by 3 Pts,2023-12-11T20:00+05:30,2023-12-11T20:00+05:30,W,3,35,32,Jaipur Pink Panthers,3,Gujarat Giants,31
+10,3047,Match 19,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 2 Pts,2023-12-11T21:00+05:30,2023-12-11T21:00+05:30,W,2,38,36,Bengaluru Bulls,1,U.P. Yoddhas,30
+10,3048,Match 20,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengal Warriors won by 18 Pts,2023-12-12T20:00+05:30,2023-12-12T20:00+05:30,W,18,60,42,Bengal Warriors,4,Patna Pirates,6
+10,3049,Match 21,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Tamil Thalaivas won by 2 Pts,2023-12-13T20:00+05:30,2023-12-13T20:00+05:30,W,2,38,36,Tamil Thalaivas,29,Telugu Titans,8
+10,3050,Match 22,League,2023,"Shree Kanteerava Indoor Stadium, Bengaluru",Bengaluru Bulls won by 2 Pts,2023-12-13T21:00+05:30,2023-12-13T21:00+05:30,W,2,32,30,Bengaluru Bulls,1,Jaipur Pink Panthers,3
+10,3051,Match 23,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",U Mumba won by 2 Pts,2023-12-15T20:00+05:30,2023-12-15T20:00+05:30,W,2,42,40,U Mumba,5,Patna Pirates,6
+10,3052,Match 24,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Haryana Steelers won by 5 Pts,2023-12-15T21:00+05:30,2023-12-15T21:00+05:30,W,5,39,44,Puneri Paltan,7,Haryana Steelers,28
+10,3053,Match 25,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Puneri Paltan won by 30 Pts,2023-12-16T20:00+05:30,2023-12-16T20:00+05:30,W,30,49,19,Puneri Paltan,7,Bengal Warriors,4
+10,3054,Match 26,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Dabang Delhi K.C. won by 11 Pts,2023-12-16T21:00+05:30,2023-12-16T21:00+05:30,W,11,40,51,Telugu Titans,8,Dabang Delhi K.C.,2
+10,3055,Match 27,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Jaipur Pink Panthers won by 1 Pts,2023-12-17T20:00+05:30,2023-12-17T20:00+05:30,W,1,28,29,Patna Pirates,6,Jaipur Pink Panthers,3
+10,3056,Match 28,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",U Mumba won by 13 Pts,2023-12-17T21:00+05:30,2023-12-17T21:00+05:30,W,13,46,33,U Mumba,5,Tamil Thalaivas,29
+10,3057,Match 29,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Match Tied,2023-12-18T20:00+05:30,2023-12-18T20:00+05:30,T,,37,37,Bengal Warriors,4,U.P. Yoddhas,30
+10,3058,Match 30,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Puneri Paltan won by 7 Pts,2023-12-18T21:00+05:30,2023-12-18T21:00+05:30,W,7,30,23,Puneri Paltan,7,Dabang Delhi K.C.,2
+10,3059,Match 31,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Haryana Steelers won by 2 Pts,2023-12-19T20:00+05:30,2023-12-19T20:00+05:30,W,2,31,29,Haryana Steelers,28,Gujarat Giants,31
+10,3060,Match 32,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Jaipur Pink Panthers won by 17 Pts,2023-12-20T20:00+05:30,2023-12-20T20:00+05:30,W,17,41,24,Jaipur Pink Panthers,3,U.P. Yoddhas,30
+10,3061,Match 33,League,2023,"Badminton Hall In Balewadi Sports Complex,Pune, Pune",Puneri Paltan won by 25 Pts,2023-12-20T21:00+05:30,2023-12-20T21:00+05:30,W,25,43,18,Puneri Paltan,7,Bengaluru Bulls,1
+10,3062,Match 34,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Patna Pirates won by 13 Pts,2023-12-22T20:00+05:30,2023-12-22T20:00+05:30,W,13,33,46,Tamil Thalaivas,29,Patna Pirates,6
+10,3063,Match 35,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Telugu Titans won by 1 Pts,2023-12-22T21:00+05:30,2023-12-22T21:00+05:30,W,1,36,37,Haryana Steelers,28,Telugu Titans,8
+10,3064,Match 36,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Jaipur Pink Panthers won by 1 Pts,2023-12-23T20:00+05:30,2023-12-23T20:00+05:30,W,1,24,25,Tamil Thalaivas,29,Jaipur Pink Panthers,3
+10,3065,Match 37,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Gujarat Giants won by 8 Pts,2023-12-23T21:00+05:30,2023-12-23T21:00+05:30,W,8,38,30,Gujarat Giants,31,U.P. Yoddhas,30
+10,3066,Match 38,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",U Mumba won by 2 Pts,2023-12-24T20:00+05:30,2023-12-24T20:00+05:30,W,2,39,37,U Mumba,5,Bengal Warriors,4
+10,3067,Match 39,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Bengaluru Bulls won by 2 Pts,2023-12-24T21:00+05:30,2023-12-24T21:00+05:30,W,2,33,31,Bengaluru Bulls,1,Telugu Titans,8
+10,3068,Match 40,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Dabang Delhi K.C. won by 9 Pts,2023-12-25T20:00+05:30,2023-12-25T20:00+05:30,W,9,29,38,Bengal Warriors,4,Dabang Delhi K.C.,2
+10,3069,Match 41,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Haryana Steelers won by 13 Pts,2023-12-25T21:00+05:30,2023-12-25T21:00+05:30,W,13,29,42,Tamil Thalaivas,29,Haryana Steelers,28
+10,3070,Match 42,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Puneri Paltan won by 18 Pts,2023-12-26T20:00+05:30,2023-12-26T20:00+05:30,W,18,46,28,Puneri Paltan,7,Patna Pirates,6
+10,3071,Match 43,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Match Tied,2023-12-27T20:00+05:30,2023-12-27T20:00+05:30,T,,32,32,Jaipur Pink Panthers,3,Dabang Delhi K.C.,2
+10,3072,Match 44,League,2023,"Sdat Multi Purpose Indoor Stadium, Chennai",Gujarat Giants won by 3 Pts,2023-12-27T21:00+05:30,2023-12-27T21:00+05:30,W,3,30,33,Tamil Thalaivas,29,Gujarat Giants,31
+10,3073,Match 45,League,2023,"Noida Indoor Stadium, Noida",Patna Pirates won by 13 Pts,2023-12-29T20:00+05:30,2023-12-29T20:00+05:30,W,13,46,33,Patna Pirates,6,Haryana Steelers,28
+10,3074,Match 46,League,2023,"Noida Indoor Stadium, Noida",U.P. Yoddhas won by 1 Pts,2023-12-29T21:00+05:30,2023-12-29T21:00+05:30,W,1,34,33,U.P. Yoddhas,30,Bengaluru Bulls,1
+10,3075,Match 47,League,2023,"Noida Indoor Stadium, Noida",U Mumba won by 18 Pts,2023-12-30T20:00+05:30,2023-12-30T20:00+05:30,W,18,34,52,Telugu Titans,8,U Mumba,5
+10,3076,Match 48,League,2023,"Noida Indoor Stadium, Noida",Dabang Delhi K.C. won by 10 Pts,2023-12-30T21:00+05:30,2023-12-30T21:00+05:30,W,10,25,35,U.P. Yoddhas,30,Dabang Delhi K.C.,2
+10,3077,Match 49,League,2023,"Noida Indoor Stadium, Noida",Gujarat Giants won by 9 Pts,2023-12-31T20:00+05:30,2023-12-31T20:00+05:30,W,9,51,42,Gujarat Giants,31,Bengal Warriors,4
+10,3078,Match 50,League,2023,"Noida Indoor Stadium, Noida",Bengaluru Bulls won by 1 Pts,2023-12-31T21:00+05:30,2023-12-31T21:00+05:30,W,1,37,38,Tamil Thalaivas,29,Bengaluru Bulls,1
+10,3079,Match 51,League,2023,"Noida Indoor Stadium, Noida",Puneri Paltan won by 36 Pts,2024-01-01T20:00+05:30,2024-01-01T20:00+05:30,W,36,18,54,Telugu Titans,8,Puneri Paltan,7
+10,3080,Match 52,League,2023,"Noida Indoor Stadium, Noida",Patna Pirates won by 7 Pts,2024-01-01T21:00+05:30,2024-01-01T21:00+05:30,W,7,41,48,U.P. Yoddhas,30,Patna Pirates,6
+10,3081,Match 53,League,2023,"Noida Indoor Stadium, Noida",Dabang Delhi K.C. won by 7 Pts,2024-01-02T20:00+05:30,2024-01-02T20:00+05:30,W,7,28,35,Gujarat Giants,31,Dabang Delhi K.C.,2
+10,3082,Match 54,League,2023,"Noida Indoor Stadium, Noida",Jaipur Pink Panthers won by 11 Pts,2024-01-03T20:00+05:30,2024-01-03T20:00+05:30,W,11,34,45,Haryana Steelers,28,Jaipur Pink Panthers,3
+10,3083,Match 55,League,2023,"Noida Indoor Stadium, Noida",Puneri Paltan won by 9 Pts,2024-01-03T21:00+05:30,2024-01-03T21:00+05:30,W,9,31,40,U.P. Yoddhas,30,Puneri Paltan,7
+10,3084,Match 56,League,2023,"Dome By Nsci, Mumbai",Dabang Delhi K.C. won by 1 Pts,2024-01-05T20:00+05:30,2024-01-05T20:00+05:30,W,1,37,38,Patna Pirates,6,Dabang Delhi K.C.,2
+10,3085,Match 57,League,2023,"Dome By Nsci, Mumbai",U Mumba won by 5 Pts,2024-01-05T21:00+05:30,2024-01-05T21:00+05:30,W,5,40,35,U Mumba,5,Bengaluru Bulls,1
+10,3086,Match 58,League,2023,"Dome By Nsci, Mumbai",Jaipur Pink Panthers won by 10 Pts,2024-01-06T20:00+05:30,2024-01-06T20:00+05:30,W,10,31,41,U Mumba,5,Jaipur Pink Panthers,3
+10,3087,Match 59,League,2023,"Dome By Nsci, Mumbai",Gujarat Giants won by 7 Pts,2024-01-06T21:00+05:30,2024-01-06T21:00+05:30,W,7,30,37,Telugu Titans,8,Gujarat Giants,31
+10,3088,Match 60,League,2023,"Dome By Nsci, Mumbai",Puneri Paltan won by 3 Pts,2024-01-07T20:00+05:30,2024-01-07T20:00+05:30,W,3,29,26,Puneri Paltan,7,Tamil Thalaivas,29
+10,3089,Match 61,League,2023,"Dome By Nsci, Mumbai",Haryana Steelers won by 6 Pts,2024-01-07T21:00+05:30,2024-01-07T21:00+05:30,W,6,35,41,Bengal Warriors,4,Haryana Steelers,28
+10,3090,Match 62,League,2023,"Dome By Nsci, Mumbai",Bengaluru Bulls won by 2 Pts,2024-01-08T20:00+05:30,2024-01-08T20:00+05:30,W,2,35,33,Bengaluru Bulls,1,Patna Pirates,6
+10,3091,Match 63,League,2023,"Dome By Nsci, Mumbai",Dabang Delhi K.C. won by 6 Pts,2024-01-08T21:00+05:30,2024-01-08T21:00+05:30,W,6,34,40,U Mumba,5,Dabang Delhi K.C.,2
+10,3092,Match 64,League,2023,"Dome By Nsci, Mumbai",Bengal Warriors won by 20 Pts,2024-01-09T20:00+05:30,2024-01-09T20:00+05:30,W,20,26,46,Telugu Titans,8,Bengal Warriors,4
+10,3093,Match 65,League,2023,"Dome By Nsci, Mumbai",Tamil Thalaivas won by 19 Pts,2024-01-10T20:00+05:30,2024-01-10T20:00+05:30,W,19,27,46,U.P. Yoddhas,30,Tamil Thalaivas,29
+10,3094,Match 66,League,2023,"Dome By Nsci, Mumbai",Match Tied,2024-01-10T21:00+05:30,2024-01-10T21:00+05:30,T,,44,44,U Mumba,5,Haryana Steelers,28
+10,3095,Match 67,League,2023,"Sms Indoor Stadium, Jaipur",Jaipur Pink Panthers won by 3 Pts,2024-01-12T20:00+05:30,2024-01-12T20:00+05:30,W,3,38,35,Jaipur Pink Panthers,3,Telugu Titans,8
+10,3096,Match 68,League,2023,"Sms Indoor Stadium, Jaipur",Puneri Paltan won by 20 Pts,2024-01-12T21:00+05:30,2024-01-12T21:00+05:30,W,20,37,17,Puneri Paltan,7,Gujarat Giants,31
+10,3097,Match 69,League,2023,"Sms Indoor Stadium, Jaipur",Jaipur Pink Panthers won by 2 Pts,2024-01-13T20:00+05:30,2024-01-13T20:00+05:30,W,2,36,34,Jaipur Pink Panthers,3,Puneri Paltan,7
+10,3098,Match 70,League,2023,"Sms Indoor Stadium, Jaipur",Bengal Warriors won by 5 Pts,2024-01-13T21:00+05:30,2024-01-13T21:00+05:30,W,5,37,42,U.P. Yoddhas,30,Bengal Warriors,4
+10,3099,Match 71,League,2023,"Sms Indoor Stadium, Jaipur",Haryana Steelers won by 5 Pts,2024-01-14T20:00+05:30,2024-01-14T20:00+05:30,W,5,36,31,Haryana Steelers,28,Tamil Thalaivas,29
+10,3100,Match 72,League,2023,"Sms Indoor Stadium, Jaipur",Match Tied,2024-01-14T21:00+05:30,2024-01-14T21:00+05:30,T,,39,39,Dabang Delhi K.C.,2,Patna Pirates,6
+10,3101,Match 73,League,2023,"Sms Indoor Stadium, Jaipur",Bengal Warriors won by 6 Pts,2024-01-15T20:00+05:30,2024-01-15T20:00+05:30,W,6,35,29,Bengal Warriors,4,Bengaluru Bulls,1
+10,3102,Match 74,League,2023,"Sms Indoor Stadium, Jaipur",Jaipur Pink Panthers won by 2 Pts,2024-01-15T21:00+05:30,2024-01-15T21:00+05:30,W,2,31,29,Jaipur Pink Panthers,3,U Mumba,5
+10,3103,Match 75,League,2023,"Sms Indoor Stadium, Jaipur",Tamil Thalaivas won by 16 Pts,2024-01-16T20:00+05:30,2024-01-16T20:00+05:30,W,16,25,41,Patna Pirates,6,Tamil Thalaivas,29
+10,3104,Match 76,League,2023,"Sms Indoor Stadium, Jaipur",Gujarat Giants won by 5 Pts,2024-01-17T20:00+05:30,2024-01-17T20:00+05:30,W,5,26,31,Dabang Delhi K.C.,2,Gujarat Giants,31
+10,3105,Match 77,League,2023,"Sms Indoor Stadium, Jaipur",Jaipur Pink Panthers won by 10 Pts,2024-01-17T21:00+05:30,2024-01-17T21:00+05:30,W,10,37,27,Jaipur Pink Panthers,3,Haryana Steelers,28
+10,3106,Match 78,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Bengaluru Bulls won by 16 Pts,2024-01-19T20:00+05:30,2024-01-19T20:00+05:30,W,16,26,42,Telugu Titans,8,Bengaluru Bulls,1
+10,3107,Match 79,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Patna Pirates won by 3 Pts,2024-01-19T21:00+05:30,2024-01-19T21:00+05:30,W,3,34,31,Patna Pirates,6,U.P. Yoddhas,30
+10,3108,Match 80,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Dabang Delhi K.C. won by 6 Pts,2024-01-20T20:00+05:30,2024-01-20T20:00+05:30,W,6,39,33,Dabang Delhi K.C.,2,U Mumba,5
+10,3109,Match 81,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Telugu Titans won by 17 Pts,2024-01-20T21:00+05:30,2024-01-20T21:00+05:30,W,17,49,32,Telugu Titans,8,U.P. Yoddhas,30
+10,3110,Match 82,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Tamil Thalaivas won by 17 Pts,2024-01-21T20:00+05:30,2024-01-21T20:00+05:30,W,17,28,45,Bengaluru Bulls,1,Tamil Thalaivas,29
+10,3111,Match 83,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Puneri Paltan won by 10 Pts,2024-01-21T21:00+05:30,2024-01-21T21:00+05:30,W,10,24,34,Gujarat Giants,31,Puneri Paltan,7
+10,3112,Match 84,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Jaipur Pink Panthers won by 17 Pts,2024-01-22T20:00+05:30,2024-01-22T20:00+05:30,W,17,42,25,Jaipur Pink Panthers,3,Bengal Warriors,4
+10,3113,Match 85,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Haryana Steelers won by 7 Pts,2024-01-22T21:00+05:30,2024-01-22T21:00+05:30,W,7,30,37,Telugu Titans,8,Haryana Steelers,28
+10,3114,Match 86,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Match Tied,2024-01-23T20:00+05:30,2024-01-23T20:00+05:30,T,,32,32,U Mumba,5,Puneri Paltan,7
+10,3115,Match 87,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Dabang Delhi K.C. won by 3 Pts,2024-01-24T20:00+05:30,2024-01-24T20:00+05:30,W,3,32,35,Haryana Steelers,28,Dabang Delhi K.C.,2
+10,3116,Match 88,League,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Tamil Thalaivas won by 25 Pts,2024-01-24T21:00+05:30,2024-01-24T21:00+05:30,W,25,29,54,Telugu Titans,8,Tamil Thalaivas,29
+10,3117,Match 89,League,2023,"Patliputra Indoor Stadium, Patna",Patna Pirates won by 16 Pts,2024-01-26T20:00+05:30,2024-01-26T20:00+05:30,W,16,44,28,Patna Pirates,6,Bengal Warriors,4
+10,3118,Match 90,League,2023,"Patliputra Indoor Stadium, Patna",Gujarat Giants won by 9 Pts,2024-01-26T21:00+05:30,2024-01-26T21:00+05:30,W,9,35,44,U Mumba,5,Gujarat Giants,31
+10,3119,Match 91,League,2023,"Patliputra Indoor Stadium, Patna",Match Tied,2024-01-27T20:00+05:30,2024-01-27T20:00+05:30,T,,32,32,Patna Pirates,6,Puneri Paltan,7
+10,3120,Match 92,League,2023,"Patliputra Indoor Stadium, Patna",Dabang Delhi K.C. won by 9 Pts,2024-01-27T21:00+05:30,2024-01-27T21:00+05:30,W,9,36,27,Dabang Delhi K.C.,2,U.P. Yoddhas,30
+10,3121,Match 93,League,2023,"Patliputra Indoor Stadium, Patna",Match Tied,2024-01-28T20:00+05:30,2024-01-28T20:00+05:30,T,,28,28,Jaipur Pink Panthers,3,Bengaluru Bulls,1
+10,3122,Match 94,League,2023,"Patliputra Indoor Stadium, Patna",Tamil Thalaivas won by 16 Pts,2024-01-28T21:00+05:30,2024-01-28T21:00+05:30,W,16,50,34,Tamil Thalaivas,29,U Mumba,5
+10,3123,Match 95,League,2023,"Patliputra Indoor Stadium, Patna",Haryana Steelers won by 5 Pts,2024-01-29T20:00+05:30,2024-01-29T20:00+05:30,W,5,41,36,Haryana Steelers,28,Bengal Warriors,4
+10,3124,Match 96,League,2023,"Patliputra Indoor Stadium, Patna",Patna Pirates won by 12 Pts,2024-01-29T21:00+05:30,2024-01-29T21:00+05:30,W,12,32,20,Patna Pirates,6,Gujarat Giants,31
+10,3125,Match 97,League,2023,"Patliputra Indoor Stadium, Patna",Puneri Paltan won by 31 Pts,2024-01-30T20:00+05:30,2024-01-30T20:00+05:30,W,31,60,29,Puneri Paltan,7,Telugu Titans,8
+10,3126,Match 98,League,2023,"Patliputra Indoor Stadium, Patna",Match Tied,2024-01-31T20:00+05:30,2024-01-31T20:00+05:30,T,,29,29,Patna Pirates,6,Bengaluru Bulls,1
+10,3127,Match 99,League,2023,"Patliputra Indoor Stadium, Patna",Jaipur Pink Panthers won by 15 Pts,2024-01-31T21:00+05:30,2024-01-31T21:00+05:30,W,15,42,27,Jaipur Pink Panthers,3,Tamil Thalaivas,29
+10,3128,Match 100,League,2023,"Thyagaraj Indoor Stadium, Delhi",Bengal Warriors won by 7 Pts,2024-02-02T20:00+05:30,2024-02-02T20:00+05:30,W,7,38,45,Dabang Delhi K.C.,2,Bengal Warriors,4
+10,3129,Match 101,League,2023,"Thyagaraj Indoor Stadium, Delhi",Haryana Steelers won by 4 Pts,2024-02-02T21:00+05:30,2024-02-02T21:00+05:30,W,4,30,34,Gujarat Giants,31,Haryana Steelers,28
+10,3130,Match 102,League,2023,"Thyagaraj Indoor Stadium, Delhi",U.P. Yoddhas won by 16 Pts,2024-02-03T20:00+05:30,2024-02-03T20:00+05:30,W,16,39,23,U.P. Yoddhas,30,U Mumba,5
+10,3131,Match 103,League,2023,"Thyagaraj Indoor Stadium, Delhi",Dabang Delhi K.C. won by 11 Pts,2024-02-03T21:00+05:30,2024-02-03T21:00+05:30,W,11,44,33,Dabang Delhi K.C.,2,Telugu Titans,8
+10,3132,Match 104,League,2023,"Thyagaraj Indoor Stadium, Delhi",Bengaluru Bulls won by 5 Pts,2024-02-04T20:00+05:30,2024-02-04T20:00+05:30,W,5,42,37,Bengaluru Bulls,1,U Mumba,5
+10,3133,Match 105,League,2023,"Thyagaraj Indoor Stadium, Delhi",Gujarat Giants won by 12 Pts,2024-02-04T21:00+05:30,2024-02-04T21:00+05:30,W,12,42,30,Gujarat Giants,31,Tamil Thalaivas,29
+10,3134,Match 106,League,2023,"Thyagaraj Indoor Stadium, Delhi",Patna Pirates won by 3 Pts,2024-02-05T20:00+05:30,2024-02-05T20:00+05:30,W,3,33,36,Jaipur Pink Panthers,3,Patna Pirates,6
+10,3135,Match 107,League,2023,"Thyagaraj Indoor Stadium, Delhi",Match Tied,2024-02-05T21:00+05:30,2024-02-05T21:00+05:30,T,,30,30,Dabang Delhi K.C.,2,Puneri Paltan,7
+10,3136,Match 108,League,2023,"Thyagaraj Indoor Stadium, Delhi",Tamil Thalaivas won by 7 Pts,2024-02-06T20:00+05:30,2024-02-06T20:00+05:30,W,7,32,25,Tamil Thalaivas,29,U.P. Yoddhas,30
+10,3137,Match 109,League,2023,"Thyagaraj Indoor Stadium, Delhi",Puneri Paltan won by 9 Pts,2024-02-07T20:00+05:30,2024-02-07T20:00+05:30,W,9,31,40,Bengaluru Bulls,1,Puneri Paltan,7
+10,3138,Match 110,League,2023,"Thyagaraj Indoor Stadium, Delhi",Jaipur Pink Panthers won by 5 Pts,2024-02-07T21:00+05:30,2024-02-07T21:00+05:30,W,5,22,27,Dabang Delhi K.C.,2,Jaipur Pink Panthers,3
+10,3139,Match 111,League,2023,"Netaji Indoor Stadium, Kolkata",Gujarat Giants won by 9 Pts,2024-02-09T20:00+05:30,2024-02-09T20:00+05:30,W,9,32,41,Bengal Warriors,4,Gujarat Giants,31
+10,3140,Match 112,League,2023,"Netaji Indoor Stadium, Kolkata",Haryana Steelers won by 16 Pts,2024-02-09T21:00+05:30,2024-02-09T21:00+05:30,W,16,50,34,Haryana Steelers,28,U.P. Yoddhas,30
+10,3141,Match 113,League,2023,"Netaji Indoor Stadium, Kolkata",Patna Pirates won by 21 Pts,2024-02-10T20:00+05:30,2024-02-10T20:00+05:30,W,21,44,23,Patna Pirates,6,U Mumba,5
+10,3142,Match 114,League,2023,"Netaji Indoor Stadium, Kolkata",Bengal Warriors won by 20 Pts,2024-02-10T21:00+05:30,2024-02-10T21:00+05:30,W,20,55,35,Bengal Warriors,4,Telugu Titans,8
+10,3143,Match 115,League,2023,"Netaji Indoor Stadium, Kolkata",Puneri Paltan won by 27 Pts,2024-02-11T20:00+05:30,2024-02-11T20:00+05:30,W,27,29,56,Tamil Thalaivas,29,Puneri Paltan,7
+10,3144,Match 116,League,2023,"Netaji Indoor Stadium, Kolkata",Gujarat Giants won by 22 Pts,2024-02-11T21:00+05:30,2024-02-11T21:00+05:30,W,22,28,50,Bengaluru Bulls,1,Gujarat Giants,31
+10,3145,Match 117,League,2023,"Netaji Indoor Stadium, Kolkata",Jaipur Pink Panthers won by 37 Pts,2024-02-12T20:00+05:30,2024-02-12T20:00+05:30,W,37,30,67,U.P. Yoddhas,30,Jaipur Pink Panthers,3
+10,3146,Match 118,League,2023,"Netaji Indoor Stadium, Kolkata",Bengal Warriors won by 12 Pts,2024-02-12T21:00+05:30,2024-02-12T21:00+05:30,W,12,46,34,Bengal Warriors,4,U Mumba,5
+10,3147,Match 119,League,2023,"Netaji Indoor Stadium, Kolkata",Patna Pirates won by 2 Pts,2024-02-13T20:00+05:30,2024-02-13T20:00+05:30,W,2,38,36,Patna Pirates,6,Telugu Titans,8
+10,3148,Match 120,League,2023,"Netaji Indoor Stadium, Kolkata",Dabang Delhi K.C. won by 2 Pts,2024-02-14T20:00+05:30,2024-02-14T20:00+05:30,W,2,45,43,Dabang Delhi K.C.,2,Tamil Thalaivas,29
+10,3149,Match 121,League,2023,"Netaji Indoor Stadium, Kolkata",Puneri Paltan won by 3 Pts,2024-02-14T21:00+05:30,2024-02-14T21:00+05:30,W,3,26,29,Bengal Warriors,4,Puneri Paltan,7
+10,3150,Match 122,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Haryana Steelers won by 7 Pts,2024-02-16T20:00+05:30,2024-02-16T20:00+05:30,W,7,39,32,Haryana Steelers,28,Patna Pirates,6
+10,3151,Match 123,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Jaipur Pink Panthers won by 7 Pts,2024-02-16T21:00+05:30,2024-02-16T21:00+05:30,W,7,44,51,Telugu Titans,8,Jaipur Pink Panthers,3
+10,3152,Match 124,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Haryana Steelers won by 6 Pts,2024-02-17T20:00+05:30,2024-02-17T20:00+05:30,W,6,46,40,Haryana Steelers,28,U Mumba,5
+10,3153,Match 125,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Gujarat Giants won by 7 Pts,2024-02-17T21:00+05:30,2024-02-17T21:00+05:30,W,7,29,36,U.P. Yoddhas,30,Gujarat Giants,31
+10,3154,Match 126,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Tamil Thalaivas won by 37 Pts,2024-02-18T20:00+05:30,2024-02-18T20:00+05:30,W,37,74,37,Tamil Thalaivas,29,Bengal Warriors,4
+10,3155,Match 127,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Dabang Delhi K.C. won by 8 Pts,2024-02-18T21:00+05:30,2024-02-18T21:00+05:30,W,8,46,38,Dabang Delhi K.C.,2,Bengaluru Bulls,1
+10,3156,Match 128,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Jaipur Pink Panthers won by 9 Pts,2024-02-19T20:00+05:30,2024-02-19T20:00+05:30,W,9,36,45,Gujarat Giants,31,Jaipur Pink Panthers,3
+10,3157,Match 129,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Puneri Paltan won by 15 Pts,2024-02-19T21:00+05:30,2024-02-19T21:00+05:30,W,15,36,51,Haryana Steelers,28,Puneri Paltan,7
+10,3158,Match 130,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Match Tied,2024-02-20T20:00+05:30,2024-02-20T20:00+05:30,T,,45,45,U Mumba,5,Telugu Titans,8
+10,3159,Match 131,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Puneri Paltan won by 2 Pts,2024-02-21T20:00+05:30,2024-02-21T20:00+05:30,W,2,40,38,Puneri Paltan,7,U.P. Yoddhas,30
+10,3160,Match 132,League,2023,"Tau Devilal Indoor Stadium, Panchkula",Bengaluru Bulls won by 14 Pts,2024-02-21T21:00+05:30,2024-02-21T21:00+05:30,W,14,39,53,Haryana Steelers,28,Bengaluru Bulls,1
+10,3161,Eliminator 1,Playoffs,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Patna Pirates won by 2 Pts,2024-02-26T20:00+05:30,2024-02-26T20:00+05:30,W,2,35,37,Dabang Delhi K.C.,2,Patna Pirates,6
+10,3162,Eliminator 2,Playoffs,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Haryana Steelers won by 17 Pts,2024-02-26T21:00+05:30,2024-02-26T21:00+05:30,W,17,25,42,Gujarat Giants,31,Haryana Steelers,28
+10,3163,Semi Final 1,Semi Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Puneri Paltan won by 16 Pts,2024-02-28T20:00+05:30,2024-02-28T20:00+05:30,W,16,37,21,Puneri Paltan,7,Patna Pirates,6
+10,3164,Semi Final 2,Semi Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Haryana Steelers won by 4 Pts,2024-02-28T21:00+05:30,2024-02-28T21:00+05:30,W,4,27,31,Jaipur Pink Panthers,3,Haryana Steelers,28
+10,3165,Final,Final,2023,"Gmc Balayogi Sports Complex, Gachibowli, Hyderabad",Puneri Paltan won by 3 Pts,2024-03-01T20:00+05:30,2024-03-01T20:00+05:30,W,3,28,25,Puneri Paltan,7,Haryana Steelers,28
