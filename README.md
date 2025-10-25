@@ -26,7 +26,7 @@ Built with Python, Pandas, Plotly, and Streamlit.
 ![Player Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_5.png)
 
 ---
-## [click here](https://pkl-analysis-season-1-10.streamlit.app/) to view interactive app.
+## [click here](https://pkl-analysis-season-1-10.streamlit.app/) to view interactive dashboard.
 ---
 ## 📊 Data Collection Process
 
