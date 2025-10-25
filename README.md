@@ -14,18 +14,19 @@ Built with Python, Pandas, Plotly, and Streamlit.
 -  **Interactive Player Lookup** – Search any player to instantly see their card summary.
 
 ---
-## Demo
-![Dashboard Home](assets/screenshots/dashboard_home.png)
+## App Overview
+![Dashboard Home](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_1.png?token=GHSAT0AAAAAADLXNIXSYBNIGHLPFY5IYUMC2H4373Q)
 
-### 2️⃣ Matches Analysis
-![Matches Analysis](assets/screenshots/matches_analysis.png)
+![Matches Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_2.png?token=GHSAT0AAAAAADLXNIXTRBKJYNRN4X4NU2LQ2H44BDA)
 
-### 3️⃣ Player Stats
-![Player Stats](assets/screenshots/player_stats.png)
+![Team Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_3.png?token=GHSAT0AAAAAADLXNIXS37WZCWMH2JTZP4WA2H44BTA)
 
-### 4️⃣ Winning Margins Analysis
-![Winning Margins](assets/screenshots/winning_margins.png)
+![Venue Insights](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_4.png?token=GHSAT0AAAAAADLXNIXTMXEUQVROLXJLVPBC2H44CTQ)
 
+![Player Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_5.png?token=GHSAT0AAAAAADLXNIXSSP64B3TX5LT44SH22H44DLQ)
+---
+## [click here](https://pkl-analysis-season-1-10.streamlit.app/) to view interactive app.
+---
 ## 📊 Data Collection Process
 
 This project uses datasets collected from the Pro Kabaddi League (PKL) using the open-source Python library kabaddiPy.
@@ -71,5 +72,7 @@ pip install -r requirements.txt
 ```bash
 streamlit run streamlit_app.py
 ```
-
-
+---
+##### Hemant Mahajan
+###### connect on - [Linkedin](https://www.linkedin.com/in/hemant-mahajan-3648642a0/)
+###### Email - hemantmahajan1611@gmail.com
