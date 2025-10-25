@@ -20,8 +20,8 @@ st.markdown(
 )
 
 # Loading cleaned data directly
-m2 = pd.read_csv("https://github.com/hemant-pm/PKL_Analysis/blob/main/data/pkl_matches_cleaned.csv")
-r = pd.read_csv("https://github.com/hemant-pm/PKL_Analysis/blob/main/data/pkl_rosters_cleaned.csv")
+m2 = pd.read_csv("data/pkl_matches_cleaned.csv")
+r = pd.read_csv("data/pkl_rosters_cleaned.csv")
 
 
 # CREATE TABS
@@ -245,6 +245,7 @@ with tab5:
 
 
     
+
 
 
 
