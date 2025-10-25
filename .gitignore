@@ -1,0 +1,22 @@
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+env/
+venv/
+.Python
+
+.streamlit/
+# Streamlit logs and cache
+.streamlit_cache/
+.streamlit_secrets.toml
+
+.ipynb_checkpoints/
+*.ipynb_save
+
+*.csv
+*.xlsx
+*.pkl
+*.json
+*.zip
+*.tar.gz
