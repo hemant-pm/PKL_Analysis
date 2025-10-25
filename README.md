@@ -15,15 +15,16 @@ Built with Python, Pandas, Plotly, and Streamlit.
 
 ---
 ## App Overview
-![Dashboard Home](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_1.png?token=GHSAT0AAAAAADLXNIXSYBNIGHLPFY5IYUMC2H4373Q)
+![Dashboard Home](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_1.png)
 
-![Matches Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_2.png?token=GHSAT0AAAAAADLXNIXTRBKJYNRN4X4NU2LQ2H44BDA)
+![Matches Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_2.png)
 
-![Team Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_3.png?token=GHSAT0AAAAAADLXNIXS37WZCWMH2JTZP4WA2H44BTA)
+![Team Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_3.png)
 
-![Venue Insights](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_4.png?token=GHSAT0AAAAAADLXNIXTMXEUQVROLXJLVPBC2H44CTQ)
+![Venue Insights](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_4.png)
 
-![Player Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_5.png?token=GHSAT0AAAAAADLXNIXSSP64B3TX5LT44SH22H44DLQ)
+![Player Analysis](https://raw.githubusercontent.com/hemant-pm/images_/refs/heads/main/pkl_screenshots/pkl_5.png)
+
 ---
 ## [click here](https://pkl-analysis-season-1-10.streamlit.app/) to view interactive app.
 ---
