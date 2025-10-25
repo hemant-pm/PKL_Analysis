@@ -8,16 +8,13 @@ import plotly.express as px
 st.set_page_config(page_title="Pro Kabaddi League (PKL) Analysis", layout="wide")
 
 
-#  Centered logo 
-logo_path = 'logo.jpg' 
-col1, col2, col3 = st.columns([3, 4, 1])
-with col2:
-    st.image(logo_path, width=300) 
-
-## Title 
+#  logo 
 st.markdown(
     """
-    <h1 style='text-align: center;'>🏆 Pro Kabaddi League (Seasons 1–10) Analysis Dashboard</h1>
+    <div style='text-align: center;'>
+        <img src='https://upload.wikimedia.org/wikipedia/commons/2/2b/919-9198627_the-league-will-continue-its-existing-format-and.png' width='350' height = '200'/>
+        <h1 style='margin-top:10px;'>🏆 Pro Kabaddi League (Seasons 1–10) Analysis Dashboard</h1>
+    </div>
     """,
     unsafe_allow_html=True
 )
@@ -25,7 +22,6 @@ st.markdown(
 # Loading cleaned data directly
 m2 = pd.read_csv("pkl_matches_cleaned.csv")
 r = pd.read_csv("pkl_rosters_cleaned.csv")
-
 
 
 # CREATE TABS
@@ -246,5 +242,6 @@ with tab5:
                    title='🏅 Top 10 Players with Most Matches Played (till season 10)')
     fig13.update_layout(title_x=0.5, showlegend=False)
     st.plotly_chart(fig13, use_container_width=True)
+
 
     
